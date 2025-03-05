@@ -1,0 +1,53 @@
+name: blast epg 2
+on:
+  schedule:
+    - cron: '30 17 * * *'
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+env:
+  m_filename: blast-epg2.xml
+
+jobs:
+  fetch_epg:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Manila
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install httpx requests
+
+      - name: Download external Python script
+        run: |
+          curl -o blast-epg-maker2.py "${{ secrets.BLAST_EPG2 }}"
+
+      - name: Run the script
+        run: python blast-epg-maker2.py
+
+      - name: Commit and push the files
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+
+          git add "${{ env.m_filename }}"
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update EPG"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
