@@ -1292,12 +1292,6 @@
     <display-name lang="en">MTV 90s</display-name>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/2023/11/06102105-ac6sijyqphipc2az.png" />
   </channel>
-  <programme start="20250305200000 +0000" stop="20250305203000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">ITG Daily</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/ee0812d5-6fd6-4965-8057-4358226e0c04.png" />
-  </programme>
   <programme start="20250305203000 +0000" stop="20250305210000 +0000" channel="blastPH.USA.Today">
     <title lang="en">The Excerpt</title>
     <desc>No description available</desc>
@@ -1790,11 +1784,11 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/ee0812d5-6fd6-4965-8057-4358226e0c04.png" />
   </programme>
-  <programme start="20250305201324 +0000" stop="20250305203625 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 1: Punishment and Torcher</title>
+  <programme start="20250307203000 +0000" stop="20250307210000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">The Excerpt</title>
     <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/6b08597e-30c0-4101-843c-554b3186205c.jpg" />
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/ee0812d5-6fd6-4965-8057-4358226e0c04.png" />
   </programme>
   <programme start="20250305203625 +0000" stop="20250305205926 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 2:  Welcome to the Wonderful World of Dragons</title>
@@ -2221,12 +2215,6 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/00b5c37a-0b11-4ba8-b6c0-299c95bf28ba.jpg" />
-  </programme>
-  <programme start="20250305200530 +0000" stop="20250305202910 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 9: David Chang Sweats Like Crazy While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/72e336db-3fd7-4c80-b096-731715be25fc.jpg" />
   </programme>
   <programme start="20250305202910 +0000" stop="20250305205257 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 10: Rob Lowe Ruins Thanksgiving By Eating Spicy Wings</title>
@@ -2977,6 +2965,12 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/e4629e29-f7aa-4cfc-8be4-519083e53ae1.jpg" />
+  </programme>
+  <programme start="20250307202907 +0000" stop="20250307205212 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 7: Niece and Nephew</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/48be8168-e266-4dbe-b8c6-973ad6426921.jpg" />
   </programme>
   <programme start="20250305201638 +0000" stop="20250305205946 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 10: We Were Nowhere Near the Grand Canyon</title>
@@ -3920,6 +3914,12 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/0f8fdce4-6f05-46db-ac0f-6dc65aa9b0b9.jpg" />
   </programme>
+  <programme start="20250307202052 +0000" stop="20250307204155 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Sheriffs: El Dorado County Season 1 - Episode 23: Unhappy Wife, Unhappy Life</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/0efc63d8-fdac-4dae-8a56-e24d95451601.jpg" />
+  </programme>
   <programme start="20250305200924 +0000" stop="20250305205223 +0000" channel="blastPH.Showcase.Drama">
     <title lang="en">Suits Season 3 - Episode 5: Shadow of a Doubt</title>
     <desc>No description available</desc>
@@ -4495,12 +4495,6 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/3/0574e0a6-d8de-4e8c-8fd3-63e6c9cd6a12.png" />
-  </programme>
-  <programme start="20250305194000 +0000" stop="20250305202500 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">SUMMER HOUSE S3 </title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/3/d6e908d4-79d6-46dc-a8f1-7023c9c7561a.png" />
   </programme>
   <programme start="20250305202500 +0000" stop="20250305211500 +0000" channel="blastPH.Tap.TV">
     <title lang="en">BELOW DECK SAILING YACHT S2</title>
@@ -6230,12 +6224,6 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/8678ea4e-45d2-44f1-8e0a-ef650ea83d21.jpg" />
   </programme>
-  <programme start="20250305195825 +0000" stop="20250305202010 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 1- Episode 3: The Reporter</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/002a8190-a5a0-41e2-b41d-5746fdfc6d58.jpg" />
-  </programme>
   <programme start="20250305202010 +0000" stop="20250305204142 +0000" channel="blastPH.Laff">
     <title lang="en">Parks And Recreation- Season 1- Episode 4: Boys' Club</title>
     <desc>No description available</desc>
@@ -7022,6 +7010,12 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/d93184d8-86ec-4e1a-a47b-bd43fe50691f.jpg" />
   </programme>
+  <programme start="20250307203543 +0000" stop="20250307205651 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 3- Episode 15: The Bubble</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/3ac4fe04-7a47-4fd8-afc0-f6a9fdd8eb29.jpg" />
+  </programme>
   <programme start="20250305194500 +0000" stop="20250305210000 +0000" channel="blastPH.Nickelodeon">
     <title lang="en">The Casagrandes</title>
     <desc>No description available</desc>
@@ -7610,12 +7604,6 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/047a0da0-72c9-4297-89ab-7812762cc2d5.png" />
   </programme>
-  <programme start="20250305200500 +0000" stop="20250305203000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Home: Adventures With Tip And Oh!</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/4/d392de00-aef5-47f3-96ad-7c5718e33240.png" />
-  </programme>
   <programme start="20250305203000 +0000" stop="20250305210000 +0000" channel="blastPH.Dreamworks">
     <title lang="en">The Mr. Peabody And Sherman Show</title>
     <desc>No description available</desc>
@@ -8096,11 +8084,11 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/4/d392de00-aef5-47f3-96ad-7c5718e33240.png" />
   </programme>
-  <programme start="20250305194500 +0000" stop="20250305203000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">MTV Unplugged Presents: Twenty...</title>
+  <programme start="20250307203000 +0000" stop="20250307210000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Mr. Peabody And Sherman Show</title>
     <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/f37adcb3-0ef9-4985-b93c-20392f1b8ba6.png" />
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/4/d392de00-aef5-47f3-96ad-7c5718e33240.png" />
   </programme>
   <programme start="20250305203000 +0000" stop="20250305220000 +0000" channel="blastPH.MTV.Live">
     <title lang="en">HD Hits!</title>
@@ -8426,6 +8414,12 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/f37adcb3-0ef9-4985-b93c-20392f1b8ba6.png" />
   </programme>
+  <programme start="20250307203000 +0000" stop="20250307220000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">HD Hits!</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/f37adcb3-0ef9-4985-b93c-20392f1b8ba6.png" />
+  </programme>
   <programme start="20250305200000 +0000" stop="20250305213000 +0000" channel="blastPH.MTV.90s">
     <title lang="en">...30 Years Later. Experience the legendary Eric Clapton's "MTV Unplugged" like never before in this all-new enhanced edition, remastered with special bonus performances and unaired interviews.</title>
     <desc>No description available</desc>
@@ -8544,7 +8538,8 @@
     <display-name lang="en">Studio Universal</display-name>
   </channel>
   <programme start="20250306000000 +0000" stop="20250307000000 +0000" channel="blastPH.Studio.Universal">
-    <title lang="en">No Information Available</title>
-    <desc>Program information is not available for this channel.</desc>
+    <title lang="en">Studio Universal Programming</title>
+    <desc>Regular programming on Studio Universal.</desc>
+    <date>2025-03-06</date>
   </programme>
 </tv>
