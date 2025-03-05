@@ -1292,12 +1292,6 @@
     <display-name lang="en">MTV 90s</display-name>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/2023/11/06102105-ac6sijyqphipc2az.png" />
   </channel>
-  <programme start="20250305203000 +0000" stop="20250305210000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">The Excerpt</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/ee0812d5-6fd6-4965-8057-4358226e0c04.png" />
-  </programme>
   <programme start="20250305210000 +0000" stop="20250305213000 +0000" channel="blastPH.USA.Today">
     <title lang="en">USA TODAY Top Headlines</title>
     <desc>No description available</desc>
@@ -1790,11 +1784,11 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/ee0812d5-6fd6-4965-8057-4358226e0c04.png" />
   </programme>
-  <programme start="20250305203625 +0000" stop="20250305205926 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 2:  Welcome to the Wonderful World of Dragons</title>
+  <programme start="20250307210000 +0000" stop="20250307213000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">USA TODAY Top Headlines</title>
     <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/264f4441-3f09-48d5-894b-5b01c4a80d27.jpg" />
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/ee0812d5-6fd6-4965-8057-4358226e0c04.png" />
   </programme>
   <programme start="20250305205926 +0000" stop="20250305212227 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 3: Barrel of Vine Tails</title>
@@ -2215,12 +2209,6 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/00b5c37a-0b11-4ba8-b6c0-299c95bf28ba.jpg" />
-  </programme>
-  <programme start="20250305202910 +0000" stop="20250305205257 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 10: Rob Lowe Ruins Thanksgiving By Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/db0bc60c-1bbd-4f24-b815-f24f5fb5a86a.jpg" />
   </programme>
   <programme start="20250305205257 +0000" stop="20250305211756 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 11: Simu Liu Chugs Boba While Eating Spicy Wings</title>
@@ -2977,12 +2965,6 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/5065f49c-9c0e-40d7-925f-7366098d6e2e.jpg" />
-  </programme>
-  <programme start="20250305201638 +0000" stop="20250305205946 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 10: We Were Nowhere Near the Grand Canyon</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/e34c971e-4133-4b08-92e3-9424f8b7a949.jpg" />
   </programme>
   <programme start="20250305205946 +0000" stop="20250305214124 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 11: Corporate Retreat</title>
@@ -3937,6 +3919,12 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/d2ed8ddf-ccc4-4f0e-a50b-3faa4141d46e.jpg" />
+  </programme>
+  <programme start="20250307210258 +0000" stop="20250307212401 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Sheriffs: El Dorado County Season 1 - Episode 25: The Car Driver</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/75a37124-4ff1-4f6c-847c-ee0ec187667c.jpg" />
   </programme>
   <programme start="20250305205223 +0000" stop="20250305213526 +0000" channel="blastPH.Showcase.Drama">
     <title lang="en">Suits Season 3 - Episode 6: The Other Time</title>
@@ -5720,12 +5708,6 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/3/7d1fad02-11bc-47b8-8551-67a0bd218c7e.png" />
   </programme>
-  <programme start="20250305190000 +0000" stop="20250305210000 +0000" channel="blastPH.Setanta.Sports">
-    <title lang="en">LaLiga : Real Betis - Real Madrid </title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/4/6ce4bede-efb5-495e-87dd-d761988886e8.png" />
-  </programme>
   <programme start="20250305210000 +0000" stop="20250305230000 +0000" channel="blastPH.Setanta.Sports">
     <title lang="en">Premier League : Tottenham - Manchester City</title>
     <desc>No description available</desc>
@@ -5872,6 +5854,12 @@
   </programme>
   <programme start="20250307190000 +0000" stop="20250307210000 +0000" channel="blastPH.Setanta.Sports">
     <title lang="en">LaLiga : Rayo Vallecano - Sevilla</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/4/6ce4bede-efb5-495e-87dd-d761988886e8.png" />
+  </programme>
+  <programme start="20250307210000 +0000" stop="20250307230000 +0000" channel="blastPH.Setanta.Sports">
+    <title lang="en">Premier League : Liverpool - Newcastle </title>
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/4/6ce4bede-efb5-495e-87dd-d761988886e8.png" />
@@ -6241,12 +6229,6 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/8678ea4e-45d2-44f1-8e0a-ef650ea83d21.jpg" />
-  </programme>
-  <programme start="20250305204142 +0000" stop="20250305210305 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 1- Episode 5: The Banquet</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/d51841ee-21d4-4972-b82a-0df240abb77c.jpg" />
   </programme>
   <programme start="20250305210305 +0000" stop="20250305212951 +0000" channel="blastPH.Laff">
     <title lang="en">Parks And Recreation- Season 1- Episode 6: Rock Show</title>
@@ -7028,11 +7010,11 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/3ac4fe04-7a47-4fd8-afc0-f6a9fdd8eb29.jpg" />
   </programme>
-  <programme start="20250305194500 +0000" stop="20250305210000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Casagrandes</title>
+  <programme start="20250307205651 +0000" stop="20250307212441 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 3- Episode 16: Li'l Sebastian</title>
     <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/1e5ed759-de7d-4df6-bfaa-97484903b10e.png" />
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/d052d7bd-603b-4230-9151-28eb7cb0a424.jpg" />
   </programme>
   <programme start="20250305210000 +0000" stop="20250305222000 +0000" channel="blastPH.Nickelodeon">
     <title lang="en">SpongeBob SquarePants</title>
@@ -7430,11 +7412,11 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/1e5ed759-de7d-4df6-bfaa-97484903b10e.png" />
   </programme>
-  <programme start="20250305200000 +0000" stop="20250305210000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Closing Bell</title>
+  <programme start="20250307210000 +0000" stop="20250307223500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
     <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/047a0da0-72c9-4297-89ab-7812762cc2d5.png" />
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/1e5ed759-de7d-4df6-bfaa-97484903b10e.png" />
   </programme>
   <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="blastPH.CNBC">
     <title lang="en">Closing Bell: Overtime</title>
@@ -7616,11 +7598,11 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/047a0da0-72c9-4297-89ab-7812762cc2d5.png" />
   </programme>
-  <programme start="20250305203000 +0000" stop="20250305210000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">The Mr. Peabody And Sherman Show</title>
+  <programme start="20250307210000 +0000" stop="20250307220000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Closing Bell: Overtime</title>
     <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/4/d392de00-aef5-47f3-96ad-7c5718e33240.png" />
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/047a0da0-72c9-4297-89ab-7812762cc2d5.png" />
   </programme>
   <programme start="20250305210000 +0000" stop="20250305213000 +0000" channel="blastPH.Dreamworks">
     <title lang="en">Dragons: Race to the Edge</title>
@@ -8102,6 +8084,12 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/4/d392de00-aef5-47f3-96ad-7c5718e33240.png" />
   </programme>
+  <programme start="20250307210000 +0000" stop="20250307213000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Race to the Edge</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/4/d392de00-aef5-47f3-96ad-7c5718e33240.png" />
+  </programme>
   <programme start="20250305203000 +0000" stop="20250305220000 +0000" channel="blastPH.MTV.Live">
     <title lang="en">HD Hits!</title>
     <desc>No description available</desc>
@@ -8546,13 +8534,34 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/a4f5fbad-c467-458b-9e32-1c1e23a46335.png" />
   </programme>
+  <programme start="20250307210000 +0000" stop="20250308000000 +0000" channel="blastPH.MTV.90s">
+    <title lang="en">Nothing but the best tracks and ultimate anthems from the 90s.</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/a4f5fbad-c467-458b-9e32-1c1e23a46335.png" />
+  </programme>
   <channel id="blastPH.Studio.Universal">
     <display-name lang="en">Studio Universal</display-name>
     <icon src="https://blasttv.ph/assets/logos/studio-universal.png" />
   </channel>
-  <programme start="20250306000000 +0000" stop="20250306060000 +0000" channel="blastPH.Studio.Universal">
+  <programme start="20250305000000 +0000" stop="20250305060000 +0000" channel="blastPH.Studio.Universal">
     <title lang="en">Studio Universal Movies</title>
     <desc>Programming block on Studio Universal.</desc>
-    <date>2025-03-06</date>
+    <date>2025-03-05</date>
+  </programme>
+  <programme start="20250305060000 +0000" stop="20250305120000 +0000" channel="blastPH.Studio.Universal">
+    <title lang="en">Studio Universal Showcase</title>
+    <desc>Programming block on Studio Universal.</desc>
+    <date>2025-03-05</date>
+  </programme>
+  <programme start="20250305120000 +0000" stop="20250305180000 +0000" channel="blastPH.Studio.Universal">
+    <title lang="en">Studio Universal Classics</title>
+    <desc>Programming block on Studio Universal.</desc>
+    <date>2025-03-05</date>
+  </programme>
+  <programme start="20250305180000 +0000" stop="20250306000000 +0000" channel="blastPH.Studio.Universal">
+    <title lang="en">Studio Universal Premieres</title>
+    <desc>Programming block on Studio Universal.</desc>
+    <date>2025-03-05</date>
   </programme>
 </tv>
