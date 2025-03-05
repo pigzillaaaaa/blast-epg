@@ -8,7 +8,7 @@ env:
   m_filename: blast-epg.xml
 
 jobs:
-  fetch_m3u8_job:
+  fetch_epg:
     runs-on: ubuntu-latest
     env:
       TZ: Asia/Manila
