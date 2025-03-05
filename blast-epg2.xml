@@ -2972,6 +2972,12 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/48be8168-e266-4dbe-b8c6-973ad6426921.jpg" />
   </programme>
+  <programme start="20250307205212 +0000" stop="20250307211138 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 8: Uncle Roger Online</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/5065f49c-9c0e-40d7-925f-7366098d6e2e.jpg" />
+  </programme>
   <programme start="20250305201638 +0000" stop="20250305205946 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 10: We Were Nowhere Near the Grand Canyon</title>
     <desc>No description available</desc>
@@ -3271,6 +3277,12 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/e285d55f-97c9-4b9e-8e4f-56c7015e5670.jpg" />
+  </programme>
+  <programme start="20250307204836 +0000" stop="20250307221617 +0000" channel="blastPH.FEAR">
+    <title lang="en">The Pumpkin Karver</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/4d4096dd-aabf-4896-bd3a-2f35265f2433.jpg" />
   </programme>
   <programme start="20250305201642 +0000" stop="20250305210559 +0000" channel="blastPH.Crime.TV">
     <title lang="en">Dr. G: Medical Examiner - Season 4 - Episode 4: Dangerous Games</title>
@@ -3920,11 +3932,11 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/0efc63d8-fdac-4dae-8a56-e24d95451601.jpg" />
   </programme>
-  <programme start="20250305200924 +0000" stop="20250305205223 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 3 - Episode 5: Shadow of a Doubt</title>
+  <programme start="20250307204155 +0000" stop="20250307210258 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Sheriffs: El Dorado County Season 1 - Episode 24: Abusing and Abusers</title>
     <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/683c8da7-e46a-40b2-b8c0-b74ab098b43b.jpg" />
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/d2ed8ddf-ccc4-4f0e-a50b-3faa4141d46e.jpg" />
   </programme>
   <programme start="20250305205223 +0000" stop="20250305213526 +0000" channel="blastPH.Showcase.Drama">
     <title lang="en">Suits Season 3 - Episode 6: The Other Time</title>
@@ -4327,6 +4339,12 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/9ce03775-2db1-44c7-bd1a-aa286a559e88.jpg" />
+  </programme>
+  <programme start="20250307204823 +0000" stop="20250307213113 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 7 - Episode 9: Shame</title>
+    <desc>No description available</desc>
+    <date>2025-03-07</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/5d646c1b-a829-4cd9-aaa0-ba49590e8d9b.jpg" />
   </programme>
   <programme start="20250305192500 +0000" stop="20250305211500 +0000" channel="blastPH.Tap.Movies">
     <title lang="en">The Paper Boy</title>
@@ -6223,12 +6241,6 @@
     <desc>No description available</desc>
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/8678ea4e-45d2-44f1-8e0a-ef650ea83d21.jpg" />
-  </programme>
-  <programme start="20250305202010 +0000" stop="20250305204142 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 1- Episode 4: Boys' Club</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/35084bdf-f34b-43e0-bad0-7cbeec0a5519.jpg" />
   </programme>
   <programme start="20250305204142 +0000" stop="20250305210305 +0000" channel="blastPH.Laff">
     <title lang="en">Parks And Recreation- Season 1- Episode 5: The Banquet</title>
@@ -8536,10 +8548,11 @@
   </programme>
   <channel id="blastPH.Studio.Universal">
     <display-name lang="en">Studio Universal</display-name>
+    <icon src="https://blasttv.ph/assets/logos/studio-universal.png" />
   </channel>
-  <programme start="20250306000000 +0000" stop="20250307000000 +0000" channel="blastPH.Studio.Universal">
-    <title lang="en">Studio Universal Programming</title>
-    <desc>Regular programming on Studio Universal.</desc>
+  <programme start="20250306000000 +0000" stop="20250306060000 +0000" channel="blastPH.Studio.Universal">
+    <title lang="en">Studio Universal Movies</title>
+    <desc>Programming block on Studio Universal.</desc>
     <date>2025-03-06</date>
   </programme>
 </tv>
