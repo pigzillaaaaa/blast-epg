@@ -3266,12 +3266,6 @@
     <date>2025-03-07</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/4d4096dd-aabf-4896-bd3a-2f35265f2433.jpg" />
   </programme>
-  <programme start="20250305201642 +0000" stop="20250305210559 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Dr. G: Medical Examiner - Season 4 - Episode 4: Dangerous Games</title>
-    <desc>No description available</desc>
-    <date>2025-03-05</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/5/5a291702-40e8-4041-9bc1-39ae87954690.jpg" />
-  </programme>
   <programme start="20250305210559 +0000" stop="20250305215517 +0000" channel="blastPH.Crime.TV">
     <title lang="en">Dr. G: Medical Examiner - Season 4 - Episode 5: In the Dead of the Night</title>
     <desc>No description available</desc>
@@ -8545,23 +8539,23 @@
     <icon src="https://blasttv.ph/assets/logos/studio-universal.png" />
   </channel>
   <programme start="20250305000000 +0000" stop="20250305060000 +0000" channel="blastPH.Studio.Universal">
-    <title lang="en">Studio Universal Movies</title>
-    <desc>Programming block on Studio Universal.</desc>
+    <title lang="en">No Information Available</title>
+    <desc>Program information is not available for this channel.</desc>
     <date>2025-03-05</date>
   </programme>
   <programme start="20250305060000 +0000" stop="20250305120000 +0000" channel="blastPH.Studio.Universal">
-    <title lang="en">Studio Universal Showcase</title>
-    <desc>Programming block on Studio Universal.</desc>
+    <title lang="en">No Information Available</title>
+    <desc>Program information is not available for this channel.</desc>
     <date>2025-03-05</date>
   </programme>
   <programme start="20250305120000 +0000" stop="20250305180000 +0000" channel="blastPH.Studio.Universal">
-    <title lang="en">Studio Universal Classics</title>
-    <desc>Programming block on Studio Universal.</desc>
+    <title lang="en">No Information Available</title>
+    <desc>Program information is not available for this channel.</desc>
     <date>2025-03-05</date>
   </programme>
   <programme start="20250305180000 +0000" stop="20250306000000 +0000" channel="blastPH.Studio.Universal">
-    <title lang="en">Studio Universal Premieres</title>
-    <desc>Programming block on Studio Universal.</desc>
+    <title lang="en">No Information Available</title>
+    <desc>Program information is not available for this channel.</desc>
     <date>2025-03-05</date>
   </programme>
 </tv>
