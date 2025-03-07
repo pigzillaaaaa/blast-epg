@@ -24,5 +24,15 @@
 *   **blastPH.Dreamworks:** Dreamworks
 *   **blastPH.MTV.Live:** MTV Live
 *   **blastPH.MTV.90s:** MTV 90s
-
 EPG: https://raw.githubusercontent.com/pigzillaaaaa/blast-epg/refs/heads/main/blast-epg.xml
+
+
+*   **blastPH.Blast.Action:** Blast Action
+*   **blastPH.Arirang:** Arirang
+*   **blastPH.Comic.U:** Comic U
+*   **blastPH.tvN.Movies.Pinoy:** tvN Movies Pinoy
+*   **blastPH.Tap.Edge:** Tap Edge
+EPG: https://raw.githubusercontent.com/pigzillaaaaa/blast-epg/refs/heads/main/blast-epg2.xml
+
+
+
