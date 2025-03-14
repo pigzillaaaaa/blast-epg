@@ -92,159 +92,14 @@
     <display-name lang="en">Nickelodeon</display-name>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/2023/11/04065430-gv5zxmjbapzcf4ar.png" />
   </channel>
-  <channel id="blastPH.Nick.Jr.">
-    <display-name lang="en">Nick Jr.</display-name>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/2023/11/04065608-p3bfyciojuymtbqu.png" />
-  </channel>
   <channel id="blastPH.CNBC">
     <display-name lang="en">CNBC</display-name>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/2024/05/22083100-ry7pgg0xmcsmi0lp.png" />
   </channel>
-  <programme start="20250314043000 +0000" stop="20250314045000 +0000" channel="blastPH.Arirang">
-    <title lang="en">THE GRAND HERITAGE K-ASMR(20)</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314045000 +0000" stop="20250314050000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Discovering KOREA: history</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314050000 +0000" stop="20250314060000 +0000" channel="blastPH.Arirang">
-    <title lang="en">spotlight - rookies</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314060000 +0000" stop="20250314063000 +0000" channel="blastPH.Arirang">
-    <title lang="en">THE KULTURE WAVE [L]</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314063000 +0000" stop="20250314070000 +0000" channel="blastPH.Arirang">
-    <title lang="en">NEWS GENERATION {R}</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314070000 +0000" stop="20250314073000 +0000" channel="blastPH.Arirang">
-    <title lang="en">SmartBiz Accelerators</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314073000 +0000" stop="20250314080000 +0000" channel="blastPH.Arirang">
-    <title lang="en">MYSTORY(THE GRAND HERITAGE:MYSTERYxHISTORY</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314080000 +0000" stop="20250314081000 +0000" channel="blastPH.Arirang">
-    <title lang="en">K-CHAT: Travel in Korea</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314081000 +0000" stop="20250314082000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Exploring Korean Literature A</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314082000 +0000" stop="20250314083000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Heritage Walks with Little Friend</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314083000 +0000" stop="20250314085000 +0000" channel="blastPH.Arirang">
-    <title lang="en">1DAY 1K-CULTURE: K-STAGE</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314085000 +0000" stop="20250314090000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Discovering KOREA: history</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314090000 +0000" stop="20250314093000 +0000" channel="blastPH.Arirang">
-    <title lang="en">THE DAILY REPORT</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314093000 +0000" stop="20250314100000 +0000" channel="blastPH.Arirang">
-    <title lang="en">PRESS PERSPECTIVE [L]</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314100000 +0000" stop="20250314110000 +0000" channel="blastPH.Arirang">
-    <title lang="en">spotlight - rookies</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314110000 +0000" stop="20250314113000 +0000" channel="blastPH.Arirang">
-    <title lang="en">PEACE INSIGHT</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314113000 +0000" stop="20250314120000 +0000" channel="blastPH.Arirang">
-    <title lang="en">HOME EXPLORERS 2</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314120000 +0000" stop="20250314123000 +0000" channel="blastPH.Arirang">
-    <title lang="en">NEWSCENTER</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314123000 +0000" stop="20250314130000 +0000" channel="blastPH.Arirang">
-    <title lang="en">WITHIN THE FRAME (L)</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314130000 +0000" stop="20250314133000 +0000" channel="blastPH.Arirang">
-    <title lang="en">THE KULTURE WAVE [R]</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314133000 +0000" stop="20250314135000 +0000" channel="blastPH.Arirang">
-    <title lang="en">1DAY 1K-CULTURE: K-STAGE</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314135000 +0000" stop="20250314140000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Discovering KOREA: history</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314140000 +0000" stop="20250314141000 +0000" channel="blastPH.Arirang">
-    <title lang="en">K-CHAT: Travel in Korea</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314141000 +0000" stop="20250314142000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Exploring Korean Literature A</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314142000 +0000" stop="20250314143000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Heritage Walks with Little Friend</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314143000 +0000" stop="20250314150000 +0000" channel="blastPH.Arirang">
-    <title lang="en">MYSTORY(THE GRAND HERITAGE:MYSTERY x HISTORY)</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314150000 +0000" stop="20250314153000 +0000" channel="blastPH.Arirang">
-    <title lang="en">PRESS PERSPECTIVE [R]</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314153000 +0000" stop="20250314160000 +0000" channel="blastPH.Arirang">
-    <title lang="en">PEACE INSIGHT</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314160000 +0000" stop="20250314170000 +0000" channel="blastPH.Arirang">
-    <title lang="en">spotlight - rookies</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
+  <channel id="blastPH.Dreamworks">
+    <display-name lang="en">Dreamworks</display-name>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/2023/11/04070937-xoabsq3kcadhhyth.png" />
+  </channel>
   <programme start="20250314170000 +0000" stop="20250314173000 +0000" channel="blastPH.Arirang">
     <title lang="en">HOME EXPLORERS 2</title>
     <desc>No description available</desc>
@@ -635,115 +490,120 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314043000 +0000" stop="20250314050000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY Top Headlines</title>
+  <programme start="20250316050000 +0000" stop="20250316060000 +0000" channel="blastPH.Arirang">
+    <title lang="en">spotlight - rookies</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314050000 +0000" stop="20250314051500 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Highlighting the best of women in sports</title>
+  <programme start="20250316060000 +0000" stop="20250316070000 +0000" channel="blastPH.Arirang">
+    <title lang="en">After School Club{R}</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314051500 +0000" stop="20250314053000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY's Women of the Year</title>
+  <programme start="20250316070000 +0000" stop="20250316073000 +0000" channel="blastPH.Arirang">
+    <title lang="en">Exploring Korean Literature</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314053000 +0000" stop="20250314060000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY Trending News</title>
+  <programme start="20250316073000 +0000" stop="20250316080000 +0000" channel="blastPH.Arirang">
+    <title lang="en">HOME EXPLORERS 2</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314060000 +0000" stop="20250314063000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">The Excerpt</title>
+  <programme start="20250316080000 +0000" stop="20250316082000 +0000" channel="blastPH.Arirang">
+    <title lang="en">ARIRANG CREATIVE LAB B</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314063000 +0000" stop="20250314064500 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY's 2025 Restaurants of the Year</title>
+  <programme start="20250316082000 +0000" stop="20250316083000 +0000" channel="blastPH.Arirang">
+    <title lang="en">EXPLORING KOREAN LITERATURE B</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314064500 +0000" stop="20250314070000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Problem Solved</title>
+  <programme start="20250316083000 +0000" stop="20250316090000 +0000" channel="blastPH.Arirang">
+    <title lang="en">PEACE INSIGHT</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314070000 +0000" stop="20250314080000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">The Suki &amp; Scott Show</title>
+  <programme start="20250316090000 +0000" stop="20250316095000 +0000" channel="blastPH.Arirang">
+    <title lang="en">PerformArts Reload:NTOK</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314080000 +0000" stop="20250314090000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">News on USA TODAY</title>
+  <programme start="20250316095000 +0000" stop="20250316100000 +0000" channel="blastPH.Arirang">
+    <title lang="en">The Grand Heritage K-ASMR(10)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314090000 +0000" stop="20250314093000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY Trending News</title>
+  <programme start="20250316100000 +0000" stop="20250316103000 +0000" channel="blastPH.Arirang">
+    <title lang="en">WEEKLY NEWS HIGHLIGHTS</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314093000 +0000" stop="20250314100000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">The Excerpt</title>
+  <programme start="20250316103000 +0000" stop="20250316110000 +0000" channel="blastPH.Arirang">
+    <title lang="en">PREMUIM COLLECTION</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314100000 +0000" stop="20250314104500 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Rundown with Ramon</title>
+  <programme start="20250316110000 +0000" stop="20250316120000 +0000" channel="blastPH.Arirang">
+    <title lang="en">spotlight - rookies</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314104500 +0000" stop="20250314110000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Top Headlines</title>
+  <programme start="20250316120000 +0000" stop="20250316123000 +0000" channel="blastPH.Arirang">
+    <title lang="en">I'm Live</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314110000 +0000" stop="20250314114500 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Sister Cities</title>
+  <programme start="20250316123000 +0000" stop="20250316130000 +0000" channel="blastPH.Arirang">
+    <title lang="en">PREMUIM COLLECTION</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314114500 +0000" stop="20250314130000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Changing Oceans of Asia</title>
+  <programme start="20250316130000 +0000" stop="20250316140000 +0000" channel="blastPH.Arirang">
+    <title lang="en">After School Club [R]</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314130000 +0000" stop="20250314143000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">News on USA TODAY</title>
+  <programme start="20250316140000 +0000" stop="20250316142000 +0000" channel="blastPH.Arirang">
+    <title lang="en">ARIRANG CREATIVE LAB B</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314143000 +0000" stop="20250314150000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">B-Sides</title>
+  <programme start="20250316142000 +0000" stop="20250316143000 +0000" channel="blastPH.Arirang">
+    <title lang="en">EXPLORING KOREAN LITERATURE B</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314150000 +0000" stop="20250314153000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">ITG Daily</title>
+  <programme start="20250316143000 +0000" stop="20250316150000 +0000" channel="blastPH.Arirang">
+    <title lang="en">WEEKLY NEWS HIGHLIGHTS</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314153000 +0000" stop="20250314160000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">This is the saga of Arizona's famous stolen de Kooning painting</title>
+  <programme start="20250316150000 +0000" stop="20250316153000 +0000" channel="blastPH.Arirang">
+    <title lang="en">The GeoVista</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314160000 +0000" stop="20250314163000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY Top Headlines</title>
+  <programme start="20250316153000 +0000" stop="20250316160000 +0000" channel="blastPH.Arirang">
+    <title lang="en">I'm Live</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314163000 +0000" stop="20250314170000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Sports Seriously</title>
+  <programme start="20250316160000 +0000" stop="20250316163000 +0000" channel="blastPH.Arirang">
+    <title lang="en">THE GLOBALISTS</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314170000 +0000" stop="20250314171500 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Highlighting the best of women in sports</title>
+  <programme start="20250316163000 +0000" stop="20250316170000 +0000" channel="blastPH.Arirang">
+    <title lang="en">PREMUIM COLLECTION</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316170000 +0000" stop="20250316173000 +0000" channel="blastPH.Arirang">
+    <title lang="en">Regional Tastes: Seoul, Incheon, Gyeon</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314171500 +0000" stop="20250314173000 +0000" channel="blastPH.USA.Today">
     <title lang="en">USA TODAY's Women of the Year</title>
@@ -1010,140 +870,85 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314041707 +0000" stop="20250314044008 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 2:  Welcome to the Wonderful World of Dragons</title>
+  <programme start="20250316070000 +0000" stop="20250316073000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Entertain This!</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314044008 +0000" stop="20250314050309 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 3: Barrel of Vine Tails</title>
+  <programme start="20250316073000 +0000" stop="20250316074500 +0000" channel="blastPH.USA.Today">
+    <title lang="en">USA TODAY's 2025 Restaurants of the Year</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314050309 +0000" stop="20250314052610 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 4: Scent of a Dragon</title>
+  <programme start="20250316074500 +0000" stop="20250316080000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Sportskind</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314052610 +0000" stop="20250314054911 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 5: Sting It On!</title>
+  <programme start="20250316080000 +0000" stop="20250316090000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Taken: An American Hostage Story</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314054911 +0000" stop="20250314061212 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 6: The Deep Freezze</title>
+  <programme start="20250316090000 +0000" stop="20250316100000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">News on USA TODAY</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314061212 +0000" stop="20250314063513 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 7: Dragons Everywhere!</title>
+  <programme start="20250316100000 +0000" stop="20250316104500 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Rundown with Ramon</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314063513 +0000" stop="20250314065814 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 8: Break in Case of Emergency</title>
+  <programme start="20250316104500 +0000" stop="20250316110000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Top Headlines</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314065814 +0000" stop="20250314072115 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 9: Undercover</title>
+  <programme start="20250316110000 +0000" stop="20250316111500 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Highlighting the best of women in sports</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314072115 +0000" stop="20250314074416 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 10: Webs' Masters</title>
+  <programme start="20250316111500 +0000" stop="20250316113000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">USA TODAY's Women of the Year</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314074416 +0000" stop="20250314080717 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 11: Sledkin Stakeout</title>
+  <programme start="20250316113000 +0000" stop="20250316120000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Sister Cities</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314080717 +0000" stop="20250314083018 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 12: Poison Control</title>
+  <programme start="20250316120000 +0000" stop="20250316123000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">USA TODAY Trending News</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314083018 +0000" stop="20250314085319 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 13: In Too Deep</title>
+  <programme start="20250316123000 +0000" stop="20250316130000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">The Excerpt</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314085319 +0000" stop="20250314091620 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 14: Hobs and Saw</title>
+  <programme start="20250316130000 +0000" stop="20250316143000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">News on USA TODAY</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314091620 +0000" stop="20250314093921 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 15: Hearts of Heroes</title>
+  <programme start="20250316143000 +0000" stop="20250316150000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Sports Seriously</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314093921 +0000" stop="20250314100222 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 16: Heart of Glass</title>
+  <programme start="20250316150000 +0000" stop="20250316153000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Entertain This!</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314100222 +0000" stop="20250314102523 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 17:  In the Cards</title>
+  <programme start="20250316153000 +0000" stop="20250316160000 +0000" channel="blastPH.USA.Today">
+    <title lang="en">Phoenix tragedy of 1847 in Lake Michigan cut short the lives of Dutch immigrants</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314102523 +0000" stop="20250314104824 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 18: Eugene's Lean Mean Extreme Dream Team</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314104824 +0000" stop="20250314111125 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 19: 404 Alex Not Found</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314111125 +0000" stop="20250314113426 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 20: Rise of Jörmungandr</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314113426 +0000" stop="20250314115727 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 21:  How to Train Jörmungandr</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314115727 +0000" stop="20250314122028 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 22: The Great Foster Fake-out</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314122028 +0000" stop="20250314124329 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 23: Science vs Nature</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314124329 +0000" stop="20250314130630 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 24: Of Gods and Monsters</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314130630 +0000" stop="20250314132931 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 25: Ragnarok: Part 1</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314132931 +0000" stop="20250314135232 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragons: The Nine Realms - Episode 26: Ragnarok: Part 2</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314135232 +0000" stop="20250314150352 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">The Adventures Of Brer Rabbit (Dual Audio)</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314150352 +0000" stop="20250314163718 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Beethoven's 4th  (Dual Audio)</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314163718 +0000" stop="20250314181501 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragonheart: Battle for the Heartfire (Dual Audio)</title>
@@ -1365,170 +1170,50 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314043141 +0000" stop="20250314045636 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 7: Salma Hayek Adopts Sean Evans While Eating Spicy Wings</title>
+  <programme start="20250316050800 +0000" stop="20250316063044 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Sherlock Gnomes</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314045636 +0000" stop="20250314051927 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 8: Jeremy Renner Goes Blind in One Eye While Eating Spicy Wings</title>
+  <programme start="20250316063044 +0000" stop="20250316074856 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Casper's Scare School (Dual Audio)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314051927 +0000" stop="20250314054307 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 9: David Chang Sweats Like Crazy While Eating Spicy Wings</title>
+  <programme start="20250316074856 +0000" stop="20250316090857 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Curious George 3: Back to the Jungle (Dual Audio)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314054307 +0000" stop="20250314060654 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 10: Rob Lowe Ruins Thanksgiving By Eating Spicy Wings</title>
+  <programme start="20250316090857 +0000" stop="20250316102924 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Curious George 2: Follow That Monkey! (Dual Audio)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314060654 +0000" stop="20250314063153 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 11: Simu Liu Chugs Boba While Eating Spicy Wings</title>
+  <programme start="20250316102924 +0000" stop="20250316115909 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">The Road to El Dorado (Dual Audio)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314063153 +0000" stop="20250314065828 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 12: Tom Holland Calls for a Doctor While Eating Spicy Wings</title>
+  <programme start="20250316115909 +0000" stop="20250316132526 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Madagascar (Dual Audio)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314065828 +0000" stop="20250314071723 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 1: Egg Fried Rice</title>
+  <programme start="20250316132526 +0000" stop="20250316145236 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Curious George (Dual Audio)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314071723 +0000" stop="20250314073904 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 2: Crazy Rich Asian</title>
+  <programme start="20250316145236 +0000" stop="20250316162006 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Call of the Wild 3D</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314073904 +0000" stop="20250314075827 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 3: British Chef vs. Egg Fried Rice</title>
+  <programme start="20250316162006 +0000" stop="20250316175048 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Beethoven's 5th (Dual Audio)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314075827 +0000" stop="20250314081751 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 4: Crazy Stupid Love</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314081751 +0000" stop="20250314083840 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 5: Wild Wild West</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314083840 +0000" stop="20250314085958 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 6: Wild Wild West: Part 2</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314085958 +0000" stop="20250314092303 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 7: Niece and Nephew</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314092303 +0000" stop="20250314094229 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 8: Uncle Roger Online</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314094229 +0000" stop="20250314100448 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 9: Down Under</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314100448 +0000" stop="20250314102933 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 10: Malaysia</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314102933 +0000" stop="20250314105343 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 11: Malaysia: Part 2</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314105343 +0000" stop="20250314111240 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 12: O-Kay</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314111240 +0000" stop="20250314113526 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 13: Not a Chef</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314113526 +0000" stop="20250314115724 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 14: Yeah Yah</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314115724 +0000" stop="20250314122210 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 15: Ramen</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314122210 +0000" stop="20250314124426 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 16: Everyone So Creative</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314124426 +0000" stop="20250314130850 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 17: Everyone So Creative: Part 2</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314130850 +0000" stop="20250314133306 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 18: AlGo</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314133306 +0000" stop="20250314135715 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 19: Thirsty</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314135715 +0000" stop="20250314142010 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 20: Haiyaa</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314142010 +0000" stop="20250314144343 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 21: What You Say</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314144343 +0000" stop="20250314150321 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 22: Fuiyoh</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314150321 +0000" stop="20250314152401 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 14 - Episode 1: Priyanka Chopra Jonas Explains the Essence of Hot Sauce While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314152401 +0000" stop="20250314154613 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 14 - Episode 2: Dustin Poirier Is Paid in Full While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314154613 +0000" stop="20250314161102 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 14 - Episode 3: Kevin James Forgets Who He Is While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314161102 +0000" stop="20250314163601 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 14 - Episode 4: Awkwafina Gets Hot and Cold While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314163601 +0000" stop="20250314170005 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 14 - Episode 5: Kenan Thompson Becomes a Card-Carrying Spiceman While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314170005 +0000" stop="20250314172318 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 6: Anthony Mackie Quotes Shakespeare While Eating Spicy Wings</title>
@@ -1990,95 +1675,170 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314041235 +0000" stop="20250314045543 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 4: Full Metal Zombie</title>
+  <programme start="20250316044133 +0000" stop="20250316050057 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 4: Crazy Stupid Love</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314045543 +0000" stop="20250314053721 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 5: Home Sweet Zombie</title>
+  <programme start="20250316050057 +0000" stop="20250316052146 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 5: Wild Wild West</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314053721 +0000" stop="20250314062029 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 6: Resurrection Z</title>
+  <programme start="20250316052146 +0000" stop="20250316054304 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 6: Wild Wild West: Part 2</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314062029 +0000" stop="20250314070337 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 7: Welcome to the FU-Bar</title>
+  <programme start="20250316054304 +0000" stop="20250316060609 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 7: Niece and Nephew</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314070337 +0000" stop="20250314074645 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 8: Zunami</title>
+  <programme start="20250316060609 +0000" stop="20250316062535 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 8: Uncle Roger Online</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314074645 +0000" stop="20250314082853 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 9: Die Zombie Die… Again</title>
+  <programme start="20250316062535 +0000" stop="20250316064754 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 9: Down Under</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314082853 +0000" stop="20250314091201 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 10: Going Nuclear</title>
+  <programme start="20250316064754 +0000" stop="20250316071239 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 10: Malaysia</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314091201 +0000" stop="20250314095510 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 11: Sisters of Mercy</title>
+  <programme start="20250316071239 +0000" stop="20250316073649 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 11: Malaysia: Part 2</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314095510 +0000" stop="20250314103818 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 12: Murphy's Law</title>
+  <programme start="20250316073649 +0000" stop="20250316075546 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 12: O-Kay</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314103818 +0000" stop="20250314112126 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 1 - Episode 13: Doctor of the Dead</title>
+  <programme start="20250316075546 +0000" stop="20250316081832 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 13: Not a Chef</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314112126 +0000" stop="20250314120434 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 1: The Murphy</title>
+  <programme start="20250316081832 +0000" stop="20250316084030 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 14: Yeah Yah</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314120434 +0000" stop="20250314124712 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 2: White Light</title>
+  <programme start="20250316084030 +0000" stop="20250316090516 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 15: Ramen</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314124712 +0000" stop="20250314133020 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 3: Zombie Road</title>
+  <programme start="20250316090516 +0000" stop="20250316092732 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 16: Everyone So Creative</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314133020 +0000" stop="20250314141328 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 4: Batch 47</title>
+  <programme start="20250316092732 +0000" stop="20250316095156 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 17: Everyone So Creative: Part 2</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314141328 +0000" stop="20250314145606 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 5: Zombaby!</title>
+  <programme start="20250316095156 +0000" stop="20250316101612 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 18: AlGo</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314145606 +0000" stop="20250314153914 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 6: Zombie Baby Daddy</title>
+  <programme start="20250316101612 +0000" stop="20250316104021 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 19: Thirsty</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314153914 +0000" stop="20250314162222 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 7: Down the Mississippi</title>
+  <programme start="20250316104021 +0000" stop="20250316110316 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 20: Haiyaa</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314162222 +0000" stop="20250314170500 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 8: The Collector</title>
+  <programme start="20250316110316 +0000" stop="20250316112649 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 21: What You Say</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316112649 +0000" stop="20250316114627 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 22: Fuiyoh</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316114627 +0000" stop="20250316120707 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 1: Priyanka Chopra Jonas Explains the Essence of Hot Sauce While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316120707 +0000" stop="20250316122919 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 2: Dustin Poirier Is Paid in Full While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316122919 +0000" stop="20250316125408 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 3: Kevin James Forgets Who He Is While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316125408 +0000" stop="20250316131907 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 4: Awkwafina Gets Hot and Cold While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316131907 +0000" stop="20250316134311 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 5: Kenan Thompson Becomes a Card-Carrying Spiceman While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316134311 +0000" stop="20250316140624 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 6: Anthony Mackie Quotes Shakespeare While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316140624 +0000" stop="20250316142822 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 7: Paris Hilton Says "That's Hot" While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316142822 +0000" stop="20250316145140 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 8: Jennifer Garner Says "Golly" While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316145140 +0000" stop="20250316151631 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 9: J Balvin Meets the Devil While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316151631 +0000" stop="20250316154039 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 10: Jeffrey Dean Morgan Can't Feel His Face While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316154039 +0000" stop="20250316160651 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 11: Russell Brand Serenades Superfan Brett Baker While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316160651 +0000" stop="20250316163113 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 14 - Episode 12: Steve-O Takes It Too Far While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316163113 +0000" stop="20250316165522 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 15 - Episode 1: Jack Harlow Fulfills His Dreams Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316165522 +0000" stop="20250316171840 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 15 - Episode 2: Kamaru Usman Goes to the Mat Against Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314170500 +0000" stop="20250314174738 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 9: RoZwell</title>
@@ -2250,90 +2010,90 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314042249 +0000" stop="20250314044655 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Frenemies: Loyalty Turned Lethal Season 1 - Episode 9: Deviant Mind</title>
+  <programme start="20250316052030 +0000" stop="20250316060338 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 1 - Episode 13: Doctor of the Dead</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314044655 +0000" stop="20250314051101 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Frenemies: Loyalty Turned Lethal Season 1 - Episode 10:  The Snitch</title>
+  <programme start="20250316060338 +0000" stop="20250316064646 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 1: The Murphy</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314051101 +0000" stop="20250314055902 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Frenemies: Loyalty Turned Lethal Season 1 - Episode 11: Shattered Bonds</title>
+  <programme start="20250316064646 +0000" stop="20250316072924 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 2: White Light</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314055902 +0000" stop="20250314062308 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Frenemies: Loyalty Turned Lethal Season 1 - Episode 12: Inner Demons</title>
+  <programme start="20250316072924 +0000" stop="20250316081232 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 3: Zombie Road</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314062308 +0000" stop="20250314071116 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 1: Ivy League Killer</title>
+  <programme start="20250316081232 +0000" stop="20250316085540 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 4: Batch 47</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314071116 +0000" stop="20250314075923 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 2: Heat of the Night</title>
+  <programme start="20250316085540 +0000" stop="20250316093818 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 5: Zombaby!</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314075923 +0000" stop="20250314084730 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 3: Evil Rider</title>
+  <programme start="20250316093818 +0000" stop="20250316102126 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 6: Zombie Baby Daddy</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314084730 +0000" stop="20250314093537 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 4: Rage and Rampage</title>
+  <programme start="20250316102126 +0000" stop="20250316110434 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 7: Down the Mississippi</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314093537 +0000" stop="20250314102344 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 5: Bad to the Bone</title>
+  <programme start="20250316110434 +0000" stop="20250316114712 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 8: The Collector</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314102344 +0000" stop="20250314111152 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 6: Cut Throat Criminal</title>
+  <programme start="20250316114712 +0000" stop="20250316122950 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 9: RoZwell</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314111152 +0000" stop="20250314120011 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 7: Blood of Innocents</title>
+  <programme start="20250316122950 +0000" stop="20250316131258 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 10: We Were Nowhere Near the Grand Canyon</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314120011 +0000" stop="20250314124830 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 8: Bad Blood</title>
+  <programme start="20250316131258 +0000" stop="20250316135436 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 11: Corporate Retreat</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314124830 +0000" stop="20250314133646 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 9: Killer Voices</title>
+  <programme start="20250316135436 +0000" stop="20250316143744 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 12: Party with the Zeros</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314133646 +0000" stop="20250314142504 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 10: Urge to Kill</title>
+  <programme start="20250316143744 +0000" stop="20250316152052 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 13: Adios, Muchachos</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314142504 +0000" stop="20250314151323 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 11: Blind Rage</title>
+  <programme start="20250316152052 +0000" stop="20250316160330 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 14: Day One</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314151323 +0000" stop="20250314160142 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 12: Under the Influence</title>
+  <programme start="20250316160330 +0000" stop="20250316164638 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 15: All Good Things Must Come to an End</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314160142 +0000" stop="20250314164552 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Women Behind Bars - Season 1 - Episode 1: Stacey and Charaty</title>
+  <programme start="20250316164638 +0000" stop="20250316181936 +0000" channel="blastPH.FEAR">
+    <title lang="en">Prom Night</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314164552 +0000" stop="20250314173003 +0000" channel="blastPH.Crime.TV">
     <title lang="en">Women Behind Bars - Season 1 - Episode 2: Cindy and Jennifer</title>
@@ -2625,90 +2385,85 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314041521 +0000" stop="20250314045654 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 2: The Statue</title>
+  <programme start="20250316052356 +0000" stop="20250316054802 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Frenemies: Loyalty Turned Lethal Season 1 - Episode 12: Inner Demons</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314045654 +0000" stop="20250314053851 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 3: Mudmare</title>
+  <programme start="20250316054802 +0000" stop="20250316063610 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 1: Ivy League Killer</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314053851 +0000" stop="20250314062041 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 4: Divide and Conquer</title>
+  <programme start="20250316063610 +0000" stop="20250316072417 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 2: Heat of the Night</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314062041 +0000" stop="20250314070346 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 5: Brooklyn Housing</title>
+  <programme start="20250316072417 +0000" stop="20250316081224 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 3: Evil Rider</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314070346 +0000" stop="20250314074540 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 6: Home to Roost</title>
+  <programme start="20250316081224 +0000" stop="20250316090031 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 4: Rage and Rampage</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314074540 +0000" stop="20250314082839 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 7: Full Disclosure</title>
+  <programme start="20250316090031 +0000" stop="20250316094838 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 5: Bad to the Bone</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314082839 +0000" stop="20250314091309 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 8: 100</title>
+  <programme start="20250316094838 +0000" stop="20250316103646 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 6: Cut Throat Criminal</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314091309 +0000" stop="20250314095559 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 9: Shame</title>
+  <programme start="20250316103646 +0000" stop="20250316112505 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 7: Blood of Innocents</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314095559 +0000" stop="20250314104059 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 10: Donna</title>
+  <programme start="20250316112505 +0000" stop="20250316121324 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 8: Bad Blood</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314104059 +0000" stop="20250314112240 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 11: Hard Truths</title>
+  <programme start="20250316121324 +0000" stop="20250316130140 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 9: Killer Voices</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314112240 +0000" stop="20250314120601 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 12: Bad Man</title>
+  <programme start="20250316130140 +0000" stop="20250316134958 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 10: Urge to Kill</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314120601 +0000" stop="20250314125023 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 13: Inevitable</title>
+  <programme start="20250316134958 +0000" stop="20250316143817 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 11: Blind Rage</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314125023 +0000" stop="20250314133446 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 14: Pulling the Goalie</title>
+  <programme start="20250316143817 +0000" stop="20250316152636 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 12: Under the Influence</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314133446 +0000" stop="20250314141746 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 15: Tiny Violin</title>
+  <programme start="20250316152636 +0000" stop="20250316161046 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Women Behind Bars - Season 1 - Episode 1: Stacey and Charaty</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314141746 +0000" stop="20250314151341 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 7 - Episode 16:  Good-Bye</title>
+  <programme start="20250316161046 +0000" stop="20250316165457 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Women Behind Bars - Season 1 - Episode 2: Cindy and Jennifer</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314151341 +0000" stop="20250314155335 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 1 - Episode 1: Part 1 Pilot</title>
+  <programme start="20250316165457 +0000" stop="20250316173913 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Women Behind Bars - Season 1 - Episode 3: Rose and Celeste</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314155335 +0000" stop="20250314163756 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Suits Season 1 - Episode 1: Part 2 Pilot</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314163756 +0000" stop="20250314172049 +0000" channel="blastPH.Showcase.Drama">
     <title lang="en">Suits Season 1 -  Episode 2 Errors and Omissions</title>
@@ -2965,40 +2720,90 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314035500 +0000" stop="20250314055500 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">The Leisure Seeker</title>
+  <programme start="20250316050903 +0000" stop="20250316055159 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 4 - Episode 9: Gone</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314055500 +0000" stop="20250314075500 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Boy Erased</title>
+  <programme start="20250316055159 +0000" stop="20250316063555 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 4 - Episode 10: This Is Rome</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314075500 +0000" stop="20250314093000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">The Addams Family 2</title>
+  <programme start="20250316063555 +0000" stop="20250316071847 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 4 - Episode 11: Enough Is Enough</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314093000 +0000" stop="20250314111000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">The Sun Is Also A Star </title>
+  <programme start="20250316071847 +0000" stop="20250316080053 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 4 - Episode 12: Respect</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314111000 +0000" stop="20250314124500 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Free Fire</title>
+  <programme start="20250316080053 +0000" stop="20250316084536 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 4 - Episode 13: Fork in the Road</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314124500 +0000" stop="20250314143500 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Charlie's Angels: Full Throttle</title>
+  <programme start="20250316084536 +0000" stop="20250316092837 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 4 - Episode 14: Derailed</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314143500 +0000" stop="20250314163000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Lords of Dogtown</title>
+  <programme start="20250316092837 +0000" stop="20250316101143 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 4 - Episode 15: Intent</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316101143 +0000" stop="20250316105658 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 4 - Episode 16: Not Just a Pretty Face</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316105658 +0000" stop="20250316113931 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 5 - Episode 1: Denial</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316113931 +0000" stop="20250316122126 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 5 - Episode 2: Compensation</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316122126 +0000" stop="20250316130418 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 5 - Episode 3: No Refills</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316130418 +0000" stop="20250316134714 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 5 - Episode 4: No Puedo Hacerlo</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316134714 +0000" stop="20250316142949 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 5 - Episode 5: Toe to Toe</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316142949 +0000" stop="20250316151110 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 5 - Episode 6: Privilege</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316151110 +0000" stop="20250316155413 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 5 - Episode 7: Hitting Home</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316155413 +0000" stop="20250316163714 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 5 - Episode 8: Mea Culpa</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316163714 +0000" stop="20250316172020 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Suits Season 5 - Episode 9: Uninvited Guests</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314163000 +0000" stop="20250314183000 +0000" channel="blastPH.Tap.Movies">
     <title lang="en">Dallas Buyers Club</title>
@@ -3110,80 +2915,35 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314043000 +0000" stop="20250314050000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">THE UNCLE ROGER SHOW S1</title>
+  <programme start="20250316061500 +0000" stop="20250316080500 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Click (2006)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314050000 +0000" stop="20250314053000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">HOT ONES S14 </title>
+  <programme start="20250316080500 +0000" stop="20250316094000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">The Road To Eldorado</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314053000 +0000" stop="20250314060000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">WILL &amp; GRACE S3 </title>
+  <programme start="20250316094000 +0000" stop="20250316111000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Gretel and Hansel</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314060000 +0000" stop="20250314063000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">THE GOOD PLACE S4 </title>
+  <programme start="20250316111000 +0000" stop="20250316130000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Dolittle</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314063000 +0000" stop="20250314071500 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">THE KELLY CLARKSON SHOW S6</title>
+  <programme start="20250316130000 +0000" stop="20250316143500 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">13 Going on 30</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314071500 +0000" stop="20250314080000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">SUMMER HOUSE S3 </title>
+  <programme start="20250316143500 +0000" stop="20250316164000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Hollywood Homicide (2003)</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314080000 +0000" stop="20250314083000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">WILL &amp; GRACE S3 </title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314083000 +0000" stop="20250314091500 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">BELOW DECK SAILING YACHT S2</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314091500 +0000" stop="20250314100000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">ROYAL INQUEST S1 </title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314100000 +0000" stop="20250314110000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">The TONIGHT SHOW with Jimmy Fallon</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314110000 +0000" stop="20250314120000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">THE KELLY CLARKSON SHOW S6</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314120000 +0000" stop="20250314124500 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">SUMMER HOUSE S3 </title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314124500 +0000" stop="20250314133000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">ROYAL INQUEST S1 </title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314133000 +0000" stop="20250314140000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">THE OFFICE S3 </title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314140000 +0000" stop="20250314150000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">The TONIGHT SHOW with Jimmy Fallon</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314150000 +0000" stop="20250314173000 +0000" channel="blastPH.Tap.TV">
     <title lang="en">TODAY </title>
@@ -3430,40 +3190,90 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314032500 +0000" stop="20250314055000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Angel &amp; Demons</title>
+  <programme start="20250316050000 +0000" stop="20250316053000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">SUPERSTORE S4</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314055000 +0000" stop="20250314073500 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Hansel and Gretel Witch Hunters</title>
+  <programme start="20250316053000 +0000" stop="20250316060000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">THE OFFICE S3 </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314073500 +0000" stop="20250314093500 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Safe House</title>
+  <programme start="20250316060000 +0000" stop="20250316063000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">HOT ONES S14 </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314093500 +0000" stop="20250314114000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">The Exorcism of Emily Rose</title>
+  <programme start="20250316063000 +0000" stop="20250316070000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">PARKS AND RECREATION S4 </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314114000 +0000" stop="20250314131500 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">The Nightmare (2015)</title>
+  <programme start="20250316070000 +0000" stop="20250316074500 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">MILLION DOLLAR LISTING: LA S9 </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314131500 +0000" stop="20250314152500 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Bad Boys For Life</title>
+  <programme start="20250316074500 +0000" stop="20250316083000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">MILLION DOLLAR LISTING: NY S5 </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314152500 +0000" stop="20250314165500 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Cowboys And Indians</title>
+  <programme start="20250316083000 +0000" stop="20250316093000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">TOP CHEF ALL STARS LA S17</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316093000 +0000" stop="20250316100000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">BROOKLYN NINE-NINE S4</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316100000 +0000" stop="20250316110000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">LOVE ISLAND USA S6 </title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316110000 +0000" stop="20250316113000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">THE GOOD PLACE S4 </title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316113000 +0000" stop="20250316115500 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">WILL &amp; GRACE S3 </title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316115500 +0000" stop="20250316122000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">SUPERSTORE S3 </title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316122000 +0000" stop="20250316124500 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">THE UNCLE ROGER SHOW S1</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316124500 +0000" stop="20250316133000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">MILLION DOLLAR LISTING: LA S9 </title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316133000 +0000" stop="20250316141500 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">THE REAL HOUSEWIVES OF BEVERLY HILLS S12</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316141500 +0000" stop="20250316150000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">BELOW DECK  SAILING YACHT S2 </title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316150000 +0000" stop="20250316160000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">SUNDAY TODAY </title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314165500 +0000" stop="20250314182000 +0000" channel="blastPH.Tap.Action.Flix">
     <title lang="en">Timecop 2: The Berlin Decision</title>
@@ -3570,85 +3380,40 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314041500 +0000" stop="20250314050000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Law &amp; Order S14</title>
+  <programme start="20250316044500 +0000" stop="20250316062000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Today You Die </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314050000 +0000" stop="20250314054500 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Frenemies S1</title>
+  <programme start="20250316062000 +0000" stop="20250316075500 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Archenemy</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314054500 +0000" stop="20250314063000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Dateline </title>
+  <programme start="20250316075500 +0000" stop="20250316094000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">I Still Know What You Did Last Summer</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314063000 +0000" stop="20250314073000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Unwanted S1</title>
+  <programme start="20250316094000 +0000" stop="20250316111000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">The Kill Team</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314073000 +0000" stop="20250314081500 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Law &amp; Order S14</title>
+  <programme start="20250316111000 +0000" stop="20250316130000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Jarhead: Law Of Return</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314081500 +0000" stop="20250314090000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Frenemies S1</title>
+  <programme start="20250316130000 +0000" stop="20250316145000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Morbius</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314090000 +0000" stop="20250314094500 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">New Amsterdam S5</title>
+  <programme start="20250316145000 +0000" stop="20250316170500 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">The Hurt Locker</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314094500 +0000" stop="20250314103000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Suits S7</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314103000 +0000" stop="20250314113000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Unwanted S1</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314113000 +0000" stop="20250314120000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Frenemies S1</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314120000 +0000" stop="20250314130000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">The Mind Of A Murderer S1</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314130000 +0000" stop="20250314134500 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Women Behind Bars S1</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314134500 +0000" stop="20250314143000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Pretty Hard Cases S2</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314143000 +0000" stop="20250314153000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Billions S1</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314153000 +0000" stop="20250314161500 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Dateline </title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314161500 +0000" stop="20250314164500 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Forensic Files S13</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314164500 +0000" stop="20250314174500 +0000" channel="blastPH.Tap.EDGE">
     <title lang="en">The Mind Of A Murderer S1</title>
@@ -3875,55 +3640,80 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314030000 +0000" stop="20250314050000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Euroleague 2024-25 </title>
+  <programme start="20250316044500 +0000" stop="20250316053000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Chicago Fire S6</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314050000 +0000" stop="20250314070000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">WWE NXT </title>
+  <programme start="20250316053000 +0000" stop="20250316061500 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Law &amp; Order S14</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314070000 +0000" stop="20250314080000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">2024 Street League Skateboarding </title>
+  <programme start="20250316061500 +0000" stop="20250316070000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">FBI S1</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314080000 +0000" stop="20250314100000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Sinag Liga Asya Lakas 40 3.0</title>
+  <programme start="20250316070000 +0000" stop="20250316074500 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Hawaii Five O S1</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314100000 +0000" stop="20250314120000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Euroleague 2024-25 </title>
+  <programme start="20250316074500 +0000" stop="20250316083000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Suits S7</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314120000 +0000" stop="20250314143000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Superbouts</title>
+  <programme start="20250316083000 +0000" stop="20250316091500 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">NCIS LA S2</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314143000 +0000" stop="20250314150000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Motorclub </title>
+  <programme start="20250316091500 +0000" stop="20250316100000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Chicago Fire S6</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314150000 +0000" stop="20250314153000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Monster Jam 2023</title>
+  <programme start="20250316100000 +0000" stop="20250316104500 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Law &amp; Order S14</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314153000 +0000" stop="20250314160000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Straight Up Steve Austin S2</title>
+  <programme start="20250316104500 +0000" stop="20250316113000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Hawaii Five O S1</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314160000 +0000" stop="20250314170000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Jay Leno's Garage S4</title>
+  <programme start="20250316113000 +0000" stop="20250316121500 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Suits S7</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316121500 +0000" stop="20250316130000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Unwanted S1</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316130000 +0000" stop="20250316140000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">FBI S1</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316140000 +0000" stop="20250316143000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Forensic Files S13</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316143000 +0000" stop="20250316151500 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Suits S7</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316151500 +0000" stop="20250316160000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">NCIS LA S2</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314170000 +0000" stop="20250314173000 +0000" channel="blastPH.Tap.Sports">
     <title lang="en">Monster Jam 2023</title>
@@ -4035,40 +3825,45 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314030000 +0000" stop="20250314050000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Napoli vs. Fiorentina MD28</title>
+  <programme start="20250316050000 +0000" stop="20250316073000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">WWE SMACKDOWN </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314050000 +0000" stop="20250314070000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Al Short (IRQ) vs. Al Ain FC (UAE) MD8</title>
+  <programme start="20250316073000 +0000" stop="20250316080000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Monster Jam 2023</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314070000 +0000" stop="20250314083000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">2024 Kings World Cup: Saiyans FC vs. G3X FC - SF</title>
+  <programme start="20250316080000 +0000" stop="20250316100000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Sinag Liga Asya Lakas 40 3.0</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314083000 +0000" stop="20250314103000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Adelaide United vs. Macarthur FC MD23</title>
+  <programme start="20250316100000 +0000" stop="20250316120000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Euroleague 2024-25 </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314103000 +0000" stop="20250314120000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">2024 Kings World Cup: Porcinos FC vs. xBuyer Team - SF </title>
+  <programme start="20250316120000 +0000" stop="20250316130000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">WWE NXT UK</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314120000 +0000" stop="20250314140000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Napoli vs. Fiorentina MD28</title>
+  <programme start="20250316130000 +0000" stop="20250316150000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Superbouts</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314140000 +0000" stop="20250314160000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Adelaide United vs. Macarthur FC MD23</title>
+  <programme start="20250316150000 +0000" stop="20250316160000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Filipino Pro Wrestling</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316160000 +0000" stop="20250316190000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">BKFC Fight Night New Castle</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314160000 +0000" stop="20250314180000 +0000" channel="blastPH.Premier.Football">
     <title lang="en">Empoli vs. Atalanta MD26</title>
@@ -4185,30 +3980,40 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314030000 +0000" stop="20250314080000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Pereira vs. Ankalaev</title>
+  <programme start="20250316060000 +0000" stop="20250316080000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Newcastle Jets vs. Western United MD23</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314080000 +0000" stop="20250314123000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Rome</title>
+  <programme start="20250316080000 +0000" stop="20250316100000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Sydney FC vs. Wellington Phoenix MD23</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314123000 +0000" stop="20250314150000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Florida Panthers vs. Toronto Maple Leafs</title>
+  <programme start="20250316100000 +0000" stop="20250316120000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Auckland FC vs. Central Coast Mariners MD23</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314150000 +0000" stop="20250314160000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Makhachev vs. Volkanovski</title>
+  <programme start="20250316120000 +0000" stop="20250316140000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Milan vs. Como MD29</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314160000 +0000" stop="20250314170000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Shriners Children's 500</title>
+  <programme start="20250316140000 +0000" stop="20250316160000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Bologna vs. Lazio MD29</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316160000 +0000" stop="20250316170000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">FWC Highlights Show </title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316170000 +0000" stop="20250316190000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Fiorentina vs. Juventus MD29</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314170000 +0000" stop="20250314180000 +0000" channel="blastPH.Premier.Sports">
     <title lang="en">Ep. 1973</title>
@@ -4285,15 +4090,25 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314030000 +0000" stop="20250314080000 +0000" channel="blastPH.Premier.Sports.2">
-    <title lang="en">Day 4</title>
+  <programme start="20250316080000 +0000" stop="20250316093000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Los Angeles Day 1</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314080000 +0000" stop="20250314160000 +0000" channel="blastPH.Premier.Sports.2">
-    <title lang="en">Quarterfinals</title>
+  <programme start="20250316093000 +0000" stop="20250316100000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Light Heavyweights</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316100000 +0000" stop="20250316160000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Vettori vs. Dolidze</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316160000 +0000" stop="20250316210000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Manchester</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314160000 +0000" stop="20250314210000 +0000" channel="blastPH.Premier.Sports.2">
     <title lang="en">Day 1</title>
@@ -4350,30 +4165,25 @@
     <desc>No description available</desc>
     <date>2025-03-15</date>
   </programme>
-  <programme start="20250314040000 +0000" stop="20250314073000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">WTA Tour 2025</title>
+  <programme start="20250316060000 +0000" stop="20250316100000 +0000" channel="blastPH.Premier.Sports.2">
+    <title lang="en">Semifinals</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314073000 +0000" stop="20250314093000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">Isuzu A-League</title>
+  <programme start="20250316100000 +0000" stop="20250316150000 +0000" channel="blastPH.Premier.Sports.2">
+    <title lang="en">Blue Bay LPGA</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314093000 +0000" stop="20250314113000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">EUROLEAGUE 2024-25</title>
+  <programme start="20250316150000 +0000" stop="20250316160000 +0000" channel="blastPH.Premier.Sports.2">
+    <title lang="en">Brussels  Day 2</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314113000 +0000" stop="20250314130000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">WWE NXT</title>
+  <programme start="20250316160000 +0000" stop="20250316180000 +0000" channel="blastPH.Premier.Sports.2">
+    <title lang="en">Hall of Fame Induction Ceremony</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314130000 +0000" stop="20250314160000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">UFC</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314160000 +0000" stop="20250314193000 +0000" channel="blastPH.Blast.Sports">
     <title lang="en">WTA Tour 2025</title>
@@ -4455,40 +4265,30 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314030000 +0000" stop="20250314050000 +0000" channel="blastPH.Setanta.Sports">
-    <title lang="en">Premier League : Brentford - Aston Villa</title>
+  <programme start="20250316060000 +0000" stop="20250316080000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">Euroleague 2024-25 </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314050000 +0000" stop="20250314070000 +0000" channel="blastPH.Setanta.Sports">
-    <title lang="en">Premier League : Crystal Palace - Ipswich</title>
+  <programme start="20250316080000 +0000" stop="20250316100000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">WWE RAW </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314070000 +0000" stop="20250314090000 +0000" channel="blastPH.Setanta.Sports">
-    <title lang="en">Premier League : West Ham - Newcastle</title>
+  <programme start="20250316100000 +0000" stop="20250316120000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">WWE Smackdown</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314090000 +0000" stop="20250314110000 +0000" channel="blastPH.Setanta.Sports">
-    <title lang="en">LaLiga: Getafe - Atletico Madrid </title>
+  <programme start="20250316120000 +0000" stop="20250316160000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">UFC</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314110000 +0000" stop="20250314130000 +0000" channel="blastPH.Setanta.Sports">
-    <title lang="en">LaLiga: Alaves - Villarreal</title>
+  <programme start="20250316160000 +0000" stop="20250316180000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">Isuzu A-League</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314130000 +0000" stop="20250314150000 +0000" channel="blastPH.Setanta.Sports">
-    <title lang="en">Premier League : Liverpool - Southampton</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314150000 +0000" stop="20250314170000 +0000" channel="blastPH.Setanta.Sports">
-    <title lang="en">Premier League : Nottingham - Manchester City</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314170000 +0000" stop="20250314190000 +0000" channel="blastPH.Setanta.Sports">
     <title lang="en">Premier League : Manchester United - Arsenal </title>
@@ -4585,35 +4385,35 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314032000 +0000" stop="20250314054000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">NORYANG: DEADLY SEA</title>
+  <programme start="20250316050000 +0000" stop="20250316070000 +0000" channel="blastPH.Setanta.Sports">
+    <title lang="en">Laliga Classic</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314054000 +0000" stop="20250314071500 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">LUCKY CHAN-SIL</title>
+  <programme start="20250316070000 +0000" stop="20250316090000 +0000" channel="blastPH.Setanta.Sports">
+    <title lang="en">Premier League : Crystal Palace - Ipswich</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314071500 +0000" stop="20250314091000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">STEAL MY HEART</title>
+  <programme start="20250316090000 +0000" stop="20250316110000 +0000" channel="blastPH.Setanta.Sports">
+    <title lang="en">NBA : Golden State Warriors - New York Knicks</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314091000 +0000" stop="20250314113000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">THE TIGER</title>
+  <programme start="20250316110000 +0000" stop="20250316133000 +0000" channel="blastPH.Setanta.Sports">
+    <title lang="en">Premier League : Manchester City - Brighton</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314113000 +0000" stop="20250314133000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">ARCHITECTURE 101</title>
+  <programme start="20250316133000 +0000" stop="20250316153000 +0000" channel="blastPH.Setanta.Sports">
+    <title lang="en">LIVE - Premier League : Arsenal - Chelsea</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314133000 +0000" stop="20250314160000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">THE FACE READER</title>
+  <programme start="20250316153000 +0000" stop="20250316173000 +0000" channel="blastPH.Setanta.Sports">
+    <title lang="en">Premier League : Everton - West Ham </title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314160000 +0000" stop="20250314175500 +0000" channel="blastPH.tvN.Movies.Pinoy">
     <title lang="en">THE ODD FAMILY: ZOMBIE ON SALE</title>
@@ -4720,35 +4520,40 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314041500 +0000" stop="20250314064500 +0000" channel="blastPH.tvN">
-    <title lang="en">My Dearest Nemesis</title>
+  <programme start="20250316051500 +0000" stop="20250316073500 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">THE SUSPECT</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314064500 +0000" stop="20250314084500 +0000" channel="blastPH.tvN">
-    <title lang="en">Sixth Sense: City Tour</title>
+  <programme start="20250316073500 +0000" stop="20250316095000 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">THE KING</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314084500 +0000" stop="20250314101000 +0000" channel="blastPH.tvN">
-    <title lang="en">Extreme Tour</title>
+  <programme start="20250316095000 +0000" stop="20250316113000 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">THE ASSASSIN</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314101000 +0000" stop="20250314120000 +0000" channel="blastPH.tvN">
-    <title lang="en">Good Day</title>
+  <programme start="20250316113000 +0000" stop="20250316133000 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">UNFORGETTABLE</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314120000 +0000" stop="20250314143000 +0000" channel="blastPH.tvN">
-    <title lang="en">The Legend of the Blue Sea</title>
+  <programme start="20250316133000 +0000" stop="20250316144500 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">Welcome to Waikiki 2 Ep15</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314143000 +0000" stop="20250314163000 +0000" channel="blastPH.tvN">
-    <title lang="en">Fresh off the Sea</title>
+  <programme start="20250316144500 +0000" stop="20250316155500 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">Welcome to Waikiki 2 FINALE</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316155500 +0000" stop="20250316175500 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">THE DIVINE MOVE</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314163000 +0000" stop="20250314182000 +0000" channel="blastPH.tvN">
     <title lang="en">Express Delivery: Mongolia Edition</title>
@@ -4860,30 +4665,35 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314034840 +0000" stop="20250314060751 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">WWE RAW - Season 33 - February 11, 2025</title>
+  <programme start="20250316051000 +0000" stop="20250316070000 +0000" channel="blastPH.tvN">
+    <title lang="en">Good Day</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314060751 +0000" stop="20250314082645 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">WWE RAW - Season 33 - February 18, 2025</title>
+  <programme start="20250316070000 +0000" stop="20250316094000 +0000" channel="blastPH.tvN">
+    <title lang="en">Extreme Tour</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314082645 +0000" stop="20250314110154 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">WWE RAW - Season 33 - February 25, 2025</title>
+  <programme start="20250316094000 +0000" stop="20250316113000 +0000" channel="blastPH.tvN">
+    <title lang="en">Sixth Sense: City Tour</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314110154 +0000" stop="20250314132545 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">WWE RAW - Season 33 - March 4, 2025</title>
+  <programme start="20250316113000 +0000" stop="20250316131500 +0000" channel="blastPH.tvN">
+    <title lang="en">Handsome Guys</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314132545 +0000" stop="20250314154812 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">WWE RAW - Season 33 - March 11, 2025</title>
+  <programme start="20250316131500 +0000" stop="20250316144500 +0000" channel="blastPH.tvN">
+    <title lang="en">The World of the Married</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316144500 +0000" stop="20250316171500 +0000" channel="blastPH.tvN">
+    <title lang="en">My Dearest Nemesis</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314154812 +0000" stop="20250314172556 +0000" channel="blastPH.Fight.Ticket">
     <title lang="en">WWE NXT - Season 19 - February 12, 2025</title>
@@ -4930,60 +4740,80 @@
     <desc>No description available</desc>
     <date>2025-03-15</date>
   </programme>
-  <programme start="20250315102825 +0000" stop="20250315134756 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">Cage Warriors 179: Rome - Prelims</title>
-    <desc>No description available</desc>
-    <date>2025-03-15</date>
-  </programme>
-  <programme start="20250315134756 +0000" stop="20250315162636 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">Cage Warriors 179: Rome - Main Card</title>
-    <desc>No description available</desc>
-    <date>2025-03-15</date>
-  </programme>
-  <programme start="20250315162636 +0000" stop="20250315180731 +0000" channel="blastPH.Fight.Ticket">
+  <programme start="20250315102825 +0000" stop="20250315120920 +0000" channel="blastPH.Fight.Ticket">
     <title lang="en">Cage Warriors 180 : London - Prelims</title>
     <desc>No description available</desc>
     <date>2025-03-15</date>
   </programme>
-  <programme start="20250315180731 +0000" stop="20250315202710 +0000" channel="blastPH.Fight.Ticket">
+  <programme start="20250315120920 +0000" stop="20250315142859 +0000" channel="blastPH.Fight.Ticket">
     <title lang="en">Cage Warriors 180 : London - Main Card</title>
     <desc>No description available</desc>
     <date>2025-03-15</date>
   </programme>
-  <programme start="20250315202710 +0000" stop="20250315220647 +0000" channel="blastPH.Fight.Ticket">
+  <programme start="20250315142859 +0000" stop="20250315160836 +0000" channel="blastPH.Fight.Ticket">
     <title lang="en">Cage Warriors 181: Newcastle - Prelims</title>
     <desc>No description available</desc>
     <date>2025-03-15</date>
   </programme>
-  <programme start="20250315220647 +0000" stop="20250316011928 +0000" channel="blastPH.Fight.Ticket">
+  <programme start="20250315160836 +0000" stop="20250315192117 +0000" channel="blastPH.Fight.Ticket">
     <title lang="en">Cage Warriors 181: Newcastle - Main Card</title>
     <desc>No description available</desc>
     <date>2025-03-15</date>
   </programme>
-  <programme start="20250316011928 +0000" stop="20250316022903 +0000" channel="blastPH.Fight.Ticket">
+  <programme start="20250315192117 +0000" stop="20250315203052 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">Cage Warriors 182: San Diego</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315203052 +0000" stop="20250315233001 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">Cage Warriors 183: Rome - Prelims</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315233001 +0000" stop="20250316023413 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">Cage Warriors 183: Rome - Main Card</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250316023413 +0000" stop="20250316041508 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">Cage Warriors 180 : London - Prelims</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316041508 +0000" stop="20250316063447 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">Cage Warriors 180 : London - Main Card</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316063447 +0000" stop="20250316081424 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">Cage Warriors 181: Newcastle - Prelims</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316081424 +0000" stop="20250316112705 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">Cage Warriors 181: Newcastle - Main Card</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316112705 +0000" stop="20250316123640 +0000" channel="blastPH.Fight.Ticket">
     <title lang="en">Cage Warriors 182: San Diego</title>
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250316022903 +0000" stop="20250316052812 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">Cage Warriors 183: Rome - Prelims</title>
+  <programme start="20250316123640 +0000" stop="20250316133400 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">BKFC 69 - Richardson vs. Larrimore - Prelims</title>
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314000312 +0000" stop="20250314050316 +0000" channel="blastPH.GolfPlus">
-    <title lang="en">DP World Tour - Alfred Dunhill Link Championship - Round 2</title>
+  <programme start="20250316133400 +0000" stop="20250316162724 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">BKFC 69 - Richardson vs. Larrimore - Main Card</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314050316 +0000" stop="20250314100312 +0000" channel="blastPH.GolfPlus">
-    <title lang="en">DP World Tour - Alfred Dunhill Link Championship - Round 3</title>
+  <programme start="20250316162724 +0000" stop="20250316203143 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">BKFC Fight Newcastle - Thompson vs. Boardman</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314100312 +0000" stop="20250314160817 +0000" channel="blastPH.GolfPlus">
-    <title lang="en">DP World Tour - Alfred Dunhill Link Championship - Round 4</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314160817 +0000" stop="20250314213416 +0000" channel="blastPH.GolfPlus">
     <title lang="en">DP World Tour - Amgen Irish Open - Round 1</title>
@@ -5020,175 +4850,15 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314043048 +0000" stop="20250314045218 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 4: Practice Date</title>
+  <programme start="20250316060335 +0000" stop="20250316111738 +0000" channel="blastPH.GolfPlus">
+    <title lang="en">DP World Tour - Bahrain Championship - Round 4</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314045218 +0000" stop="20250314051346 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 5: Sister City</title>
+  <programme start="20250316111738 +0000" stop="20250316172739 +0000" channel="blastPH.GolfPlus">
+    <title lang="en">DP World Tour - Hero Dubai Desert - Round 1</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314051346 +0000" stop="20250314053511 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 6: Kaboom</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314053511 +0000" stop="20250314055643 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 7: Greg Pikitis</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314055643 +0000" stop="20250314061821 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 8: Ron and Tammy</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314061821 +0000" stop="20250314063955 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 9: The Camel</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314063955 +0000" stop="20250314070127 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 10: Hunting Trip</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314070127 +0000" stop="20250314072301 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 11: Tom's Divorce</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314072301 +0000" stop="20250314074444 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 12: Christmas Scandal</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314074444 +0000" stop="20250314081202 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 13: The Set-Up</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314081202 +0000" stop="20250314083332 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 14: Leslie's House</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314083332 +0000" stop="20250314085506 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 15: Sweetums</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314085506 +0000" stop="20250314091629 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 16: Galentine's Day</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314091629 +0000" stop="20250314093802 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 17: Woman of the Year</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314093802 +0000" stop="20250314095935 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 18: The Possum</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314095935 +0000" stop="20250314102108 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 19: Park Safety</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314102108 +0000" stop="20250314104240 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 20: Summer Catalog</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314104240 +0000" stop="20250314110413 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 21: 94 Meetings</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314110413 +0000" stop="20250314112543 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 22: Telethon</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314112543 +0000" stop="20250314115538 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 23: The Master Plan</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314115538 +0000" stop="20250314122048 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 2- Episode 24: Freddy Spaghetti</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314122048 +0000" stop="20250314124219 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 1: Go Home or Go Big</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314124219 +0000" stop="20250314130336 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 2: The Flu</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314130336 +0000" stop="20250314132453 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 3: Time Capsule</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314132453 +0000" stop="20250314134611 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 4: Ron and Tammy II</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314134611 +0000" stop="20250314140727 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 5: Media Blitz</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314140727 +0000" stop="20250314142845 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 6: Indianapolis</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314142845 +0000" stop="20250314145453 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 7: Harvest Festival</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314145453 +0000" stop="20250314151610 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 8: Camping</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314151610 +0000" stop="20250314153727 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 9: Fancy Party</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314153727 +0000" stop="20250314155844 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 10: Soulmates</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314155844 +0000" stop="20250314162519 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 11: Jerry's Painting</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314162519 +0000" stop="20250314164619 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 12: Eagleton</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314164619 +0000" stop="20250314171117 +0000" channel="blastPH.Laff">
-    <title lang="en">Parks And Recreation- Season 3- Episode 13: The Fight</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314171117 +0000" stop="20250314173238 +0000" channel="blastPH.Laff">
     <title lang="en">Parks And Recreation- Season 3- Episode 14: Road Trip</title>
@@ -5675,95 +5345,180 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314040000 +0000" stop="20250314053500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Thundermans</title>
+  <programme start="20250316044700 +0000" stop="20250316050829 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 5: Meet 'N' Greet</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314053500 +0000" stop="20250314060000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Transformers: EarthSpark</title>
+  <programme start="20250316050829 +0000" stop="20250316053548 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 6: End of the World</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314060000 +0000" stop="20250314063500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Casagrandes</title>
+  <programme start="20250316053548 +0000" stop="20250316055718 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 7: The Treaty</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314063500 +0000" stop="20250314070000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Smurfs</title>
+  <programme start="20250316055718 +0000" stop="20250316061849 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 8: Smallest Park</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314070000 +0000" stop="20250314072500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">SpongeBob SquarePants</title>
+  <programme start="20250316061849 +0000" stop="20250316064019 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 9: The Trial of Leslie Knope</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314072500 +0000" stop="20250314081500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Loud House</title>
+  <programme start="20250316064019 +0000" stop="20250316070148 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 10: Citizen Knope</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314081500 +0000" stop="20250314084000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Monster High</title>
+  <programme start="20250316070148 +0000" stop="20250316072254 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 11: The Comeback Kid</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314084000 +0000" stop="20250314090000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+  <programme start="20250316072254 +0000" stop="20250316074431 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 12: Campaign Ad</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314090000 +0000" stop="20250314101500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Thundermans</title>
+  <programme start="20250316074431 +0000" stop="20250316080601 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 13: Bowling for Votes</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314101500 +0000" stop="20250314103500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Henry Danger</title>
+  <programme start="20250316080601 +0000" stop="20250316082732 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 14: Operation Ann</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314103500 +0000" stop="20250314114500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Loud House</title>
+  <programme start="20250316082732 +0000" stop="20250316084900 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 15: Dave Returns</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314114500 +0000" stop="20250314121000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+  <programme start="20250316084900 +0000" stop="20250316091031 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 16: Sweet Sixteen</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314121000 +0000" stop="20250314134500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">SpongeBob SquarePants</title>
+  <programme start="20250316091031 +0000" stop="20250316093148 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 17: Campaign Shake-Up</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314134500 +0000" stop="20250314143000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Patrick Star Show</title>
+  <programme start="20250316093148 +0000" stop="20250316095319 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 18: Lucky</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314143000 +0000" stop="20250314151500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Monster High</title>
+  <programme start="20250316095319 +0000" stop="20250316101429 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 19: Live Ammo</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314151500 +0000" stop="20250314162000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Casagrandes</title>
+  <programme start="20250316101429 +0000" stop="20250316103558 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 20: The Debate</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314162000 +0000" stop="20250314164500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Tyler Perry's Young Dylan</title>
+  <programme start="20250316103558 +0000" stop="20250316105708 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 21: Bus Tour</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314164500 +0000" stop="20250314170500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Hunter Street</title>
+  <programme start="20250316105708 +0000" stop="20250316111820 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks And Recreation- Season 4- Episode 22: The Stakeout</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316111820 +0000" stop="20250316113930 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 1: Ms. Knope Goes to Washington</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316113930 +0000" stop="20250316120040 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 2: Soda Tax</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316120040 +0000" stop="20250316122205 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 3: How A Bill Becomes A Law</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316122205 +0000" stop="20250316124334 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 4: Sex Education</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316124334 +0000" stop="20250316130504 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 5: Halloween Surprise</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316130504 +0000" stop="20250316132635 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 6: Ben’s Parents</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316132635 +0000" stop="20250316134804 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 7: Leslie vs. April</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316134804 +0000" stop="20250316140935 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 8: Pawnee Commons</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316140935 +0000" stop="20250316143105 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 9: Ron and Diane</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316143105 +0000" stop="20250316145236 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 10: Two Parties</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316145236 +0000" stop="20250316151406 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 11: Women in Garbage</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316151406 +0000" stop="20250316153536 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 12: Ann's Decision</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316153536 +0000" stop="20250316155706 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 13: Emergency Response</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316155706 +0000" stop="20250316161835 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 14: Leslie and Ben</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316161835 +0000" stop="20250316164006 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 15: Correspondents’ Lunch</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316164006 +0000" stop="20250316170138 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 16: Ballout</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316170138 +0000" stop="20250316172306 +0000" channel="blastPH.Laff">
+    <title lang="en">Parks and Recreation - Season 5 - Episode 17: Partridge</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314170500 +0000" stop="20250314173000 +0000" channel="blastPH.Nickelodeon">
     <title lang="en">Rock Island Mysteries</title>
@@ -5980,175 +5735,80 @@
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
-  <programme start="20250314043500 +0000" stop="20250314045500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Little Axolotl / Bubble Trouble</title>
+  <programme start="20250316050000 +0000" stop="20250316052500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Danger Force</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314045500 +0000" stop="20250314051500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Boat Pond</title>
+  <programme start="20250316052500 +0000" stop="20250316055000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Henry Danger</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314051500 +0000" stop="20250314053000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Fixing Things</title>
+  <programme start="20250316055000 +0000" stop="20250316063500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Really Loud House</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314053000 +0000" stop="20250314060000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Cranberry Cookies / Snap Pea Stir-Fry</title>
+  <programme start="20250316063500 +0000" stop="20250316070000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Smurfs</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314060000 +0000" stop="20250314062500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Pickleworld!</title>
+  <programme start="20250316070000 +0000" stop="20250316072500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314062500 +0000" stop="20250314064500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Num-Nuggets / Hey Foni</title>
+  <programme start="20250316072500 +0000" stop="20250316081000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Loud House</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314064500 +0000" stop="20250314073000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Pups Save the Treasure Cruise / Pups Save Rocket Ryder</title>
+  <programme start="20250316081000 +0000" stop="20250316083500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Monster High</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314073000 +0000" stop="20250314080500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Crew Builds A Splash Park / The Crew Builds A Playroom</title>
+  <programme start="20250316083500 +0000" stop="20250316085500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314080500 +0000" stop="20250314085000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Little Axolotl / Bubble Trouble</title>
+  <programme start="20250316085500 +0000" stop="20250316101000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Thundermans</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314085000 +0000" stop="20250314091000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Fishy Force / Superhero Training Day</title>
+  <programme start="20250316101000 +0000" stop="20250316103500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Henry Danger</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314091000 +0000" stop="20250314093500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Unfetch</title>
+  <programme start="20250316103500 +0000" stop="20250316114500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Loud House</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314093500 +0000" stop="20250314095500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Emily Elephant</title>
+  <programme start="20250316114500 +0000" stop="20250316120500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314095500 +0000" stop="20250314101500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Mac and Cheese / Potato Stew</title>
+  <programme start="20250316120500 +0000" stop="20250316141500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314101500 +0000" stop="20250314110000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Tumbles, Where Did You Go?</title>
+  <programme start="20250316141500 +0000" stop="20250316151500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Casagrandes</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
-  <programme start="20250314110000 +0000" stop="20250314114500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Pups Save the Treasure Cruise / Pups Save Rocket Ryder</title>
+  <programme start="20250316151500 +0000" stop="20250316162000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
     <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314114500 +0000" stop="20250314121000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Crew Builds A Splash Park / The Crew Builds A Playroom</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314121000 +0000" stop="20250314123000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Little Axolotl / Bubble Trouble</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314123000 +0000" stop="20250314125500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Tour Fishies / Sorry Not Sorry</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314125500 +0000" stop="20250314131500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Tumbles, Where Did You Go?</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314131500 +0000" stop="20250314134000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Paddington's Race Against the Storm / Paddington's Super Snail</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314134000 +0000" stop="20250314140000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Crew Builds A Treehouse / The Crew Builds A Chicken Feeder</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314140000 +0000" stop="20250314142500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Wonky Wishing Wand / Bip Bip's Big Show</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314142500 +0000" stop="20250314144500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Team Truck Challenge</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314144500 +0000" stop="20250314150500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Peanut Butter &amp; Jelly / Potato Skins</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314150500 +0000" stop="20250314153000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">A Star Fish Is Born</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314153000 +0000" stop="20250314161000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Pups Save the Treasure Cruise / Pups Save Rocket Ryder</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314040000 +0000" stop="20250314050000 +0000" channel="blastPH.CNBC">
-    <title lang="en">US Fast Money (recorded)</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314050000 +0000" stop="20250314060000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Capital Connection</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314060000 +0000" stop="20250314090000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Europe Squawk Box</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314090000 +0000" stop="20250314100000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Worldwide Exchange</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314100000 +0000" stop="20250314130000 +0000" channel="blastPH.CNBC">
-    <title lang="en">US Squawk Box</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314130000 +0000" stop="20250314150000 +0000" channel="blastPH.CNBC">
-    <title lang="en">US Squawk on the Street</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314150000 +0000" stop="20250314160000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Money Movers</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
-  </programme>
-  <programme start="20250314160000 +0000" stop="20250314170000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Halftime Report</title>
-    <desc>No description available</desc>
-    <date>2025-03-14</date>
+    <date>2025-03-16</date>
   </programme>
   <programme start="20250314170000 +0000" stop="20250314180000 +0000" channel="blastPH.CNBC">
     <title lang="en">The Exchange</title>
@@ -6327,6 +5987,411 @@
   </programme>
   <programme start="20250316040000 +0000" stop="20250316060000 +0000" channel="blastPH.CNBC">
     <title lang="en">Arnold Palmer Invitational presented by Mastercard Rd 4</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316060000 +0000" stop="20250316063000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Rolex Sydney Hobart Yacht Race</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316063000 +0000" stop="20250316070000 +0000" channel="blastPH.CNBC">
+    <title lang="en">February</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316070000 +0000" stop="20250316080000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Vendee Globe 2024/25 Final Highlights</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316080000 +0000" stop="20250316100000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Parker Posey / Michael Kosta</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316100000 +0000" stop="20250316103000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Channel Japan</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316103000 +0000" stop="20250316110000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Meet China</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316110000 +0000" stop="20250316113000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Ep 4:</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316113000 +0000" stop="20250316120000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Mobile World Congress 2025</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316120000 +0000" stop="20250316130000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Paul Rudd / Bernadette Peters</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316130000 +0000" stop="20250316140000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Meet The Press (live) Ep1</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316140000 +0000" stop="20250316150000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Nick Jonas &amp; Adrienne Warren / Anthony Michael Hall</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316150000 +0000" stop="20250316160000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Ep 151: "The Most Hated Man in America"</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250314171000 +0000" stop="20250314173500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Riders of Berk</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314173500 +0000" stop="20250314180000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Kung Fu Panda: The Paws Of Destiny</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314180000 +0000" stop="20250314182500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Where's Wally?</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314182500 +0000" stop="20250314185000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Adventures Of Puss In Boots</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314185000 +0000" stop="20250314191500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dinotrux</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314191500 +0000" stop="20250314194000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Spirit Riding Free</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314194000 +0000" stop="20250314200500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Trolls: The Beat Goes On!</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314200500 +0000" stop="20250314203000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Home: Adventures With Tip And Oh!</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314203000 +0000" stop="20250314210000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Mr. Peabody And Sherman Show</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314210000 +0000" stop="20250314213000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Race to the Edge</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314213000 +0000" stop="20250314220000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dawn Of The Croods</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314220000 +0000" stop="20250314222500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dew Drops Diaries</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314222500 +0000" stop="20250314225000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Not Quite Narwhal</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314225000 +0000" stop="20250314234000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Kung Fu Panda: The Dragon Knight</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250314234000 +0000" stop="20250315014500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Boss Baby: Back in Business</title>
+    <desc>No description available</desc>
+    <date>2025-03-14</date>
+  </programme>
+  <programme start="20250315014500 +0000" stop="20250315021000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Epic Tales of Captain Underpants</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315021000 +0000" stop="20250315030000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Riders of Berk</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315030000 +0000" stop="20250315035000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Abominable and The Invisible City</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315035000 +0000" stop="20250315044000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dawn Of The Croods</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315044000 +0000" stop="20250315053000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Trolls: The Beat Goes On!</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315053000 +0000" stop="20250315062000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">All Hail King Julien: Exiled</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315062000 +0000" stop="20250315071000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Epic Tales of Captain Underpants</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315071000 +0000" stop="20250315073500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Adventures Of Puss In Boots</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315073500 +0000" stop="20250315080000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Not Quite Narwhal</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315080000 +0000" stop="20250315082500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dew Drops Diaries</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315082500 +0000" stop="20250315085000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Rescue Riders</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315085000 +0000" stop="20250315091500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Go Dog Go!</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315091500 +0000" stop="20250315094000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Epic Tales of Captain Underpants</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315094000 +0000" stop="20250315103000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Abominable and The Invisible City</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315103000 +0000" stop="20250315114500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Riders of Berk</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315114500 +0000" stop="20250315123500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Boss Baby: Back in the Crib</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315123500 +0000" stop="20250315144000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Boss Baby: Back in Business</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315144000 +0000" stop="20250315153000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Abominable and The Invisible City</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315153000 +0000" stop="20250315164500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Riders of Berk</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315164500 +0000" stop="20250315171000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Abominable and The Invisible City</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315171000 +0000" stop="20250315173500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Riders of Berk</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315173500 +0000" stop="20250315180000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Kung Fu Panda: The Paws Of Destiny</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315180000 +0000" stop="20250315182500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Where's Wally?</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315182500 +0000" stop="20250315185000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Adventures Of Puss In Boots</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315185000 +0000" stop="20250315191500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dinotrux</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315191500 +0000" stop="20250315194000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Spirit Riding Free</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315194000 +0000" stop="20250315200500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Trolls: The Beat Goes On!</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315200500 +0000" stop="20250315203000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Home: Adventures With Tip And Oh!</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315203000 +0000" stop="20250315210000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Mr. Peabody And Sherman Show</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315210000 +0000" stop="20250315213000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Race to the Edge</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315213000 +0000" stop="20250315220000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dawn Of The Croods</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315220000 +0000" stop="20250315222500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dew Drops Diaries</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315222500 +0000" stop="20250315225000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Not Quite Narwhal</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315225000 +0000" stop="20250315234000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Kung Fu Panda: The Dragon Knight</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250315234000 +0000" stop="20250316014500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Boss Baby: Back in Business</title>
+    <desc>No description available</desc>
+    <date>2025-03-15</date>
+  </programme>
+  <programme start="20250316014500 +0000" stop="20250316021000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Epic Tales of Captain Underpants</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316021000 +0000" stop="20250316030000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Riders of Berk</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316030000 +0000" stop="20250316035000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Abominable and The Invisible City</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316035000 +0000" stop="20250316044000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dawn Of The Croods</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316044000 +0000" stop="20250316053000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Trolls: The Beat Goes On!</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316053000 +0000" stop="20250316062000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">All Hail King Julien: Exiled</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316062000 +0000" stop="20250316071000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Epic Tales of Captain Underpants</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316071000 +0000" stop="20250316073500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Adventures Of Puss In Boots</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316073500 +0000" stop="20250316080000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Not Quite Narwhal</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316080000 +0000" stop="20250316082500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dew Drops Diaries</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316082500 +0000" stop="20250316085000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Rescue Riders</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316085000 +0000" stop="20250316091500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Go Dog Go!</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316091500 +0000" stop="20250316094000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Epic Tales of Captain Underpants</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316094000 +0000" stop="20250316103000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Abominable and The Invisible City</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316103000 +0000" stop="20250316114500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Riders of Berk</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316114500 +0000" stop="20250316123500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Boss Baby: Back in the Crib</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316123500 +0000" stop="20250316144000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Boss Baby: Back in Business</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316144000 +0000" stop="20250316153000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Abominable and The Invisible City</title>
+    <desc>No description available</desc>
+    <date>2025-03-16</date>
+  </programme>
+  <programme start="20250316153000 +0000" stop="20250316164500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Riders of Berk</title>
     <desc>No description available</desc>
     <date>2025-03-16</date>
   </programme>
