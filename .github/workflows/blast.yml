@@ -1,8 +1,7 @@
 name: blast epg
 on:
   schedule:
-    - cron: '0 17 * * *'  
-    - cron: '30 4 * * *'  
+    - cron: "0 */5 * * *"
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 env:
