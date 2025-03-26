@@ -1200,24 +1200,6 @@
     <display-name lang="en">USA Today</display-name>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/2023/11/06102145-t1h6sdtzeg3gcfuw.png" />
   </channel>
-  <programme start="20250326040000 +0000" stop="20250326063000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Makhachev vs. Moicano</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/577050a8-5e31-4d64-9b7f-ef1b9bfd947f.png" />
-  </programme>
-  <programme start="20250326063000 +0000" stop="20250326100000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Philadephia Eagles vs. Washington Commanders</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/577050a8-5e31-4d64-9b7f-ef1b9bfd947f.png" />
-  </programme>
-  <programme start="20250326100000 +0000" stop="20250326103000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Week 21 Conference</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/577050a8-5e31-4d64-9b7f-ef1b9bfd947f.png" />
-  </programme>
   <programme start="20250326103000 +0000" stop="20250326123000 +0000" channel="blastPH.Premier.Sports">
     <title lang="en">Italy vs. Germany QF</title>
     <desc>No description available</desc>
@@ -1326,17 +1308,23 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/3c1e82ec-e1d3-4eb8-843d-eab572f62078.png" />
   </programme>
-  <programme start="20250326060000 +0000" stop="20250326070000 +0000" channel="blastPH.MTV.90s">
-    <title lang="en">Zig-A-Zig-ah! It's all about girl power! Tune in for all the biggest girl power hits from the 90s.</title>
+  <programme start="20250328090000 +0000" stop="20250328100000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Ep.  12</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/8dcc1339-1750-488a-9e96-88ddbf7fc380.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/577050a8-5e31-4d64-9b7f-ef1b9bfd947f.png" />
   </programme>
-  <programme start="20250326070000 +0000" stop="20250326100000 +0000" channel="blastPH.MTV.90s">
-    <title lang="en">We rewind back to the decade that brought us grunge and girl power, hip hop and teen pop, eurodance and house... It smells like... the 90s!</title>
+  <programme start="20250328100000 +0000" stop="20250328103000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">704</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/8dcc1339-1750-488a-9e96-88ddbf7fc380.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/577050a8-5e31-4d64-9b7f-ef1b9bfd947f.png" />
+  </programme>
+  <programme start="20250328103000 +0000" stop="20250328123000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Portugal vs. Denmark QF</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/577050a8-5e31-4d64-9b7f-ef1b9bfd947f.png" />
   </programme>
   <programme start="20250326100000 +0000" stop="20250326130000 +0000" channel="blastPH.MTV.90s">
     <title lang="en">The boys take on the girls in our playlist of back to back classic 90s hits! The result? Everyone's a winner baby!</title>
@@ -1446,47 +1434,17 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/8dcc1339-1750-488a-9e96-88ddbf7fc380.png" />
   </programme>
-  <programme start="20250326060000 +0000" stop="20250326070000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">MTV Rewind: 2018</title>
+  <programme start="20250328070000 +0000" stop="20250328100000 +0000" channel="blastPH.MTV.90s">
+    <title lang="en">The 90s are here to save us, so enjoy these giant hits from a golden decade of music.</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/8dcc1339-1750-488a-9e96-88ddbf7fc380.png" />
   </programme>
-  <programme start="20250326070000 +0000" stop="20250326083000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Adele x P!nk x Beyonce</title>
+  <programme start="20250328100000 +0000" stop="20250328130000 +0000" channel="blastPH.MTV.90s">
+    <title lang="en">We knew how to do hip hop and R'n'B in the 90s! Check out all of the classics right here, right now!</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
-  </programme>
-  <programme start="20250326083000 +0000" stop="20250326090000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">MTV Live Vault!</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
-  </programme>
-  <programme start="20250326090000 +0000" stop="20250326100000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Global Beats!</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
-  </programme>
-  <programme start="20250326100000 +0000" stop="20250326110000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Rock.Alt.Indie</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
-  </programme>
-  <programme start="20250326110000 +0000" stop="20250326112000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Clean Bandit: MTV Crashes Plymouth</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
-  </programme>
-  <programme start="20250326112000 +0000" stop="20250326114500 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Loreen: My Eurovision Story</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/8dcc1339-1750-488a-9e96-88ddbf7fc380.png" />
   </programme>
   <programme start="20250326114500 +0000" stop="20250326123000 +0000" channel="blastPH.MTV.Live">
     <title lang="en">Isle Of MTV Highlights 2022</title>
@@ -1728,17 +1686,23 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
   </programme>
-  <programme start="20250326060000 +0000" stop="20250326090000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Europe Squawk Box</title>
+  <programme start="20250328090500 +0000" stop="20250328100000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">Global Beats!</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/24/3d2025fa-6f7f-4334-9591-ea96be201d96.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
   </programme>
-  <programme start="20250326090000 +0000" stop="20250326100000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Worldwide Exchange</title>
+  <programme start="20250328100000 +0000" stop="20250328110000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">Rock.Alt.Indie</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/24/3d2025fa-6f7f-4334-9591-ea96be201d96.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
+  </programme>
+  <programme start="20250328110000 +0000" stop="20250328123000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">2024 MTV EMAs</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/23/1d46ada2-69ef-49b1-94cc-eb1d3e72857f.png" />
   </programme>
   <programme start="20250326100000 +0000" stop="20250326130000 +0000" channel="blastPH.CNBC">
     <title lang="en">US Squawk Box</title>
@@ -1914,89 +1878,17 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/24/3d2025fa-6f7f-4334-9591-ea96be201d96.png" />
   </programme>
-  <programme start="20250326054846 +0000" stop="20250326061729 +0000" channel="blastPH.Laff">
-    <title lang="en">Bupkis Season 1 - Episode 7: Borgie</title>
+  <programme start="20250328090000 +0000" stop="20250328100000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Worldwide Exchange</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/08f60f71-1a58-4fdf-8b95-ca8614b8857e.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/24/3d2025fa-6f7f-4334-9591-ea96be201d96.png" />
   </programme>
-  <programme start="20250326061729 +0000" stop="20250326064701 +0000" channel="blastPH.Laff">
-    <title lang="en">Bupkis Season 1 - Episode 8: Show Me the Way to Go Home</title>
+  <programme start="20250328100000 +0000" stop="20250328130000 +0000" channel="blastPH.CNBC">
+    <title lang="en">US Squawk Box</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/be57c035-b980-44f7-828d-17f15a8ee331.jpg" />
-  </programme>
-  <programme start="20250326064701 +0000" stop="20250326071104 +0000" channel="blastPH.Laff">
-    <title lang="en">We Are Lady Parts- Season 1- Episode 1: Play Something</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8130b8e1-3dd2-419f-aadc-1beee5df6de5.jpg" />
-  </programme>
-  <programme start="20250326071104 +0000" stop="20250326073517 +0000" channel="blastPH.Laff">
-    <title lang="en">We Are Lady Parts- Season 1- Episode 2: Potential Future Spouse</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/1ccbeff4-d4ac-4f29-828c-14b0a24f6614.jpg" />
-  </programme>
-  <programme start="20250326073517 +0000" stop="20250326075843 +0000" channel="blastPH.Laff">
-    <title lang="en">We Are Lady Parts- Season 1- Episode 3: Earth Natives</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/517f5af5-afad-43c7-9dc3-2dc850d1cef6.jpg" />
-  </programme>
-  <programme start="20250326075843 +0000" stop="20250326082315 +0000" channel="blastPH.Laff">
-    <title lang="en">We Are Lady Parts- Season 1- Episode 4: Godzilla</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4414e576-4523-44aa-a325-bf5e4710ed1c.jpg" />
-  </programme>
-  <programme start="20250326082315 +0000" stop="20250326084723 +0000" channel="blastPH.Laff">
-    <title lang="en">We Are Lady Parts- Season 1- Episode 5: Represent</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8a4eb8e3-d7e9-4cbe-b661-a497f9c299bc.jpg" />
-  </programme>
-  <programme start="20250326084723 +0000" stop="20250326091210 +0000" channel="blastPH.Laff">
-    <title lang="en">We Are Lady Parts- Season 1- Episode 6: Sparta</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/97394535-20c4-49ff-9855-747d86a17259.jpg" />
-  </programme>
-  <programme start="20250326091210 +0000" stop="20250326094203 +0000" channel="blastPH.Laff">
-    <title lang="en">Girls5Eva- Season 1- Episode 1: Pilot</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/615187a4-33ca-4a56-b94e-5b827e4c3d78.jpg" />
-  </programme>
-  <programme start="20250326094203 +0000" stop="20250326100913 +0000" channel="blastPH.Laff">
-    <title lang="en">Girls5Eva- Season 1- Episode 2: D'Wasg</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/5f820f2b-5633-4ffd-8365-9b9fe1039eb9.jpg" />
-  </programme>
-  <programme start="20250326100913 +0000" stop="20250326103556 +0000" channel="blastPH.Laff">
-    <title lang="en">Girls5Eva- Season 1- Episode 3: Alf Musik</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/eb70d365-f985-4a6b-bff7-f5744be6796d.jpg" />
-  </programme>
-  <programme start="20250326103556 +0000" stop="20250326110432 +0000" channel="blastPH.Laff">
-    <title lang="en">Girls5Eva- Season 1- Episode 4: Carma</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/0fc2ce8e-601c-48f1-85bf-ce04899ff8f8.jpg" />
-  </programme>
-  <programme start="20250326110432 +0000" stop="20250326113031 +0000" channel="blastPH.Laff">
-    <title lang="en">Girls5Eva- Season 1- Episode 5: Cat Skills</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/cec2d93b-c2eb-47b7-ac2c-42497e8deabe.jpg" />
-  </programme>
-  <programme start="20250326113031 +0000" stop="20250326115641 +0000" channel="blastPH.Laff">
-    <title lang="en">Girls5Eva- Season 1- Episode 6: Ceast and Desist</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e29171a0-1ea6-4ddf-bd1c-275ae284e651.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/24/3d2025fa-6f7f-4334-9591-ea96be201d96.png" />
   </programme>
   <programme start="20250326115641 +0000" stop="20250326122515 +0000" channel="blastPH.Laff">
     <title lang="en">Girls5Eva- Season 1- Episode 7: A.I.R.P.I.G.</title>
@@ -2610,11 +2502,95 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/2a6c4da0-2c5f-41b8-b248-4495122f854b.jpg" />
   </programme>
-  <programme start="20250326051634 +0000" stop="20250326101638 +0000" channel="blastPH.GolfPlus">
-    <title lang="en">DP World Tour - Alfred Dunhill Link Championship - Round 2</title>
+  <programme start="20250328063524 +0000" stop="20250328065653 +0000" channel="blastPH.Laff">
+    <title lang="en">American Auto- Season 1- Episode 5: Millbank IA</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/89e56475-aa96-418a-b84a-ab791bff4116.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/84d7f3d7-371b-4929-9b17-7a3db436f3fb.jpg" />
+  </programme>
+  <programme start="20250328065653 +0000" stop="20250328071822 +0000" channel="blastPH.Laff">
+    <title lang="en">American Auto- Season 1- Episode 6: Commercial</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/17efedad-571b-49ea-b460-c72f383a3234.jpg" />
+  </programme>
+  <programme start="20250328071822 +0000" stop="20250328073951 +0000" channel="blastPH.Laff">
+    <title lang="en">American Auto- Season 1- Episode 7: Recall</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/69989921-d31d-4294-8cfd-ee128119c1db.jpg" />
+  </programme>
+  <programme start="20250328073951 +0000" stop="20250328080120 +0000" channel="blastPH.Laff">
+    <title lang="en">American Auto- Season 1- Episode 8: Employee Morale</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/a62a5550-b050-46de-abe6-76c3ad19bb97.jpg" />
+  </programme>
+  <programme start="20250328080120 +0000" stop="20250328082249 +0000" channel="blastPH.Laff">
+    <title lang="en">American Auto- Season 1- Episode 9: Charity Dinner</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/23ca5c2d-973c-4d6f-a052-a041e4b24d80.jpg" />
+  </programme>
+  <programme start="20250328082249 +0000" stop="20250328084417 +0000" channel="blastPH.Laff">
+    <title lang="en">American Auto- Season 1- Episode 10: Profile</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9ac0623d-8de6-4e1a-b325-23924025074f.jpg" />
+  </programme>
+  <programme start="20250328084417 +0000" stop="20250328090833 +0000" channel="blastPH.Laff">
+    <title lang="en">Bupkis Season 1 - Episode 1: Magic Moment</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/edc9b7a8-92b7-43a6-9107-a58720e4aac5.jpg" />
+  </programme>
+  <programme start="20250328090833 +0000" stop="20250328093316 +0000" channel="blastPH.Laff">
+    <title lang="en">Bupkis Season 1 - Episode 2: Do as I Say, Not as I Do</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/48276730-d11c-4143-a8fd-bd34f1f64406.jpg" />
+  </programme>
+  <programme start="20250328093316 +0000" stop="20250328100038 +0000" channel="blastPH.Laff">
+    <title lang="en">Bupkis Season 1 - Episode 3: Picture, The</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/bafc29d3-031a-4a18-a131-6acc0c6f87a8.jpg" />
+  </programme>
+  <programme start="20250328100038 +0000" stop="20250328102405 +0000" channel="blastPH.Laff">
+    <title lang="en">Bupkis Season 1 - Episode 4: Crispytown</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/124da1b8-d8c1-4d41-b344-11883f32dfb1.jpg" />
+  </programme>
+  <programme start="20250328102405 +0000" stop="20250328104921 +0000" channel="blastPH.Laff">
+    <title lang="en">Bupkis Season 1 - Episode 5: For Your Amusement</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e6df0626-9827-433e-91ad-d8d51dddc4f7.jpg" />
+  </programme>
+  <programme start="20250328104921 +0000" stop="20250328112202 +0000" channel="blastPH.Laff">
+    <title lang="en">Bupkis Season 1 - Episode 6: ISO</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/1cde6fad-92b1-4547-adaa-4184da5d15bb.jpg" />
+  </programme>
+  <programme start="20250328112202 +0000" stop="20250328115045 +0000" channel="blastPH.Laff">
+    <title lang="en">Bupkis Season 1 - Episode 7: Borgie</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/08f60f71-1a58-4fdf-8b95-ca8614b8857e.jpg" />
+  </programme>
+  <programme start="20250328115045 +0000" stop="20250328122017 +0000" channel="blastPH.Laff">
+    <title lang="en">Bupkis Season 1 - Episode 8: Show Me the Way to Go Home</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/be57c035-b980-44f7-828d-17f15a8ee331.jpg" />
+  </programme>
+  <programme start="20250328122017 +0000" stop="20250328124420 +0000" channel="blastPH.Laff">
+    <title lang="en">We Are Lady Parts- Season 1- Episode 1: Play Something</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8130b8e1-3dd2-419f-aadc-1beee5df6de5.jpg" />
   </programme>
   <programme start="20250326101638 +0000" stop="20250326151634 +0000" channel="blastPH.GolfPlus">
     <title lang="en">DP World Tour - Alfred Dunhill Link Championship - Round 3</title>
@@ -2664,11 +2640,17 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d4ef6e31-a159-4873-ae19-5fdc214f5007.jpg" />
   </programme>
-  <programme start="20250326061320 +0000" stop="20250326091732 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">Cage Warriors 183: Rome - Main Card</title>
+  <programme start="20250328064658 +0000" stop="20250328111657 +0000" channel="blastPH.GolfPlus">
+    <title lang="en">DP World Tour - Bahrain Championship - Round 3</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3cd39399-b314-4c30-ac14-11276d14fe07.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/212f2adc-0d62-44e1-8131-0b350a63dcf7.jpg" />
+  </programme>
+  <programme start="20250328111657 +0000" stop="20250328163100 +0000" channel="blastPH.GolfPlus">
+    <title lang="en">DP World Tour - Bahrain Championship - Round 4</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b3d587fc-4957-4fb7-893f-9f8fdf1cbdfc.jpg" />
   </programme>
   <programme start="20250326091732 +0000" stop="20250326124442 +0000" channel="blastPH.Fight.Ticket">
     <title lang="en">Cage Warriors 184 - Orozco vs. Augusto</title>
@@ -2784,35 +2766,17 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e089b339-4596-44b0-a035-bab473b1813c.jpg" />
   </programme>
-  <programme start="20250326051500 +0000" stop="20250326080500 +0000" channel="blastPH.tvN">
-    <title lang="en">The World of the Married</title>
+  <programme start="20250328062432 +0000" stop="20250328105315 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">BKFC Knucklemania - Alvarez vs. Stephens - Main Card</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3708c604-8ca7-4f02-93f4-8f400643e753.jpg" />
   </programme>
-  <programme start="20250326080500 +0000" stop="20250326095500 +0000" channel="blastPH.tvN">
-    <title lang="en">Good Day</title>
+  <programme start="20250328105315 +0000" stop="20250328131706 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">WWE RAW - Season 33 - March 4, 2025</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="" />
-  </programme>
-  <programme start="20250326095500 +0000" stop="20250326101500 +0000" channel="blastPH.tvN">
-    <title lang="en">You Can Cook With Sam Kim</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="" />
-  </programme>
-  <programme start="20250326101500 +0000" stop="20250326104500 +0000" channel="blastPH.tvN">
-    <title lang="en">M.U.S.T</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="" />
-  </programme>
-  <programme start="20250326104500 +0000" stop="20250326121500 +0000" channel="blastPH.tvN">
-    <title lang="en">Chef and My Fridge (2024)</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/03fc58aa-b307-4851-8dbd-754638c652ae.jpg" />
   </programme>
   <programme start="20250326121500 +0000" stop="20250326131500 +0000" channel="blastPH.tvN">
     <title lang="en">Heo's Diner</title>
@@ -2988,22 +2952,28 @@
     <date>2025-03-28</date>
     <icon src="" />
   </programme>
-  <programme start="20250326050500 +0000" stop="20250326072000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">THE WITCH: PART 2 THE OTHER ONE</title>
+  <programme start="20250328064000 +0000" stop="20250328084000 +0000" channel="blastPH.tvN">
+    <title lang="en">Sixth Sense: City Tour</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
+    <date>2025-03-28</date>
     <icon src="" />
   </programme>
-  <programme start="20250326072000 +0000" stop="20250326093500 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">THE KING</title>
+  <programme start="20250328084000 +0000" stop="20250328101000 +0000" channel="blastPH.tvN">
+    <title lang="en">Chef and My Fridge (2024)</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
+    <date>2025-03-28</date>
     <icon src="" />
   </programme>
-  <programme start="20250326093500 +0000" stop="20250326114500 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">THE BEAST</title>
+  <programme start="20250328101000 +0000" stop="20250328120000 +0000" channel="blastPH.tvN">
+    <title lang="en">Good Day</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
+    <date>2025-03-28</date>
+    <icon src="" />
+  </programme>
+  <programme start="20250328120000 +0000" stop="20250328143000 +0000" channel="blastPH.tvN">
+    <title lang="en">The Legend of the Blue Sea</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
     <icon src="" />
   </programme>
   <programme start="20250326114500 +0000" stop="20250326133000 +0000" channel="blastPH.tvN.Movies.Pinoy">
@@ -3138,23 +3108,23 @@
     <date>2025-03-28</date>
     <icon src="" />
   </programme>
-  <programme start="20250326040000 +0000" stop="20250326070000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">WTA Tour 2025</title>
+  <programme start="20250328072500 +0000" stop="20250328092500 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">RACE TO FREEDOM: UM BOK DONG</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/29dc12c7-3f0c-436a-bb3b-832bbd47530f.png" />
+    <date>2025-03-28</date>
+    <icon src="" />
   </programme>
-  <programme start="20250326070000 +0000" stop="20250326090000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">Isuzu A-League</title>
+  <programme start="20250328092500 +0000" stop="20250328111500 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">UNFORGETTABLE</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/29dc12c7-3f0c-436a-bb3b-832bbd47530f.png" />
+    <date>2025-03-28</date>
+    <icon src="" />
   </programme>
-  <programme start="20250326090000 +0000" stop="20250326110000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">EUROLEAGUE 2024-25</title>
+  <programme start="20250328111500 +0000" stop="20250328133000 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">PARASITE</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/9849b972-7c45-493b-b8e9-45651ab37752.png" />
+    <date>2025-03-28</date>
+    <icon src="" />
   </programme>
   <programme start="20250326110000 +0000" stop="20250326130000 +0000" channel="blastPH.Blast.Sports">
     <title lang="en">World Snooker Tour</title>
@@ -3264,11 +3234,23 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/29dc12c7-3f0c-436a-bb3b-832bbd47530f.png" />
   </programme>
-  <programme start="20250326033000 +0000" stop="20250326073000 +0000" channel="blastPH.Premier.Sports.2">
-    <title lang="en">Quarterfinals 1 &amp; 2</title>
+  <programme start="20250328073000 +0000" stop="20250328093000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">Isuzu A-League</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/24/480d3f1f-d650-4e00-811e-d54b0cf7e254.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/29dc12c7-3f0c-436a-bb3b-832bbd47530f.png" />
+  </programme>
+  <programme start="20250328093000 +0000" stop="20250328113000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">EUROLEAGUE 2024-25</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/9849b972-7c45-493b-b8e9-45651ab37752.png" />
+  </programme>
+  <programme start="20250328113000 +0000" stop="20250328133000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">WWE RAW</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/29dc12c7-3f0c-436a-bb3b-832bbd47530f.png" />
   </programme>
   <programme start="20250326073000 +0000" stop="20250326123000 +0000" channel="blastPH.Premier.Sports.2">
     <title lang="en">Day 4</title>
@@ -3384,29 +3366,11 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/24/480d3f1f-d650-4e00-811e-d54b0cf7e254.png" />
   </programme>
-  <programme start="20250326050000 +0000" stop="20250326070000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Al Wasl FC (UAE) vs. Al Hilal SFC (KSA) MD8</title>
+  <programme start="20250328073000 +0000" stop="20250328123000 +0000" channel="blastPH.Premier.Sports.2">
+    <title lang="en">Day 2</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
-  </programme>
-  <programme start="20250326070000 +0000" stop="20250326090000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Netherlands vs. Spain MD7 QF Leg 1</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
-  </programme>
-  <programme start="20250326090000 +0000" stop="20250326110000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Adelaide United vs. Macarthur FC MD23</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
-  </programme>
-  <programme start="20250326110000 +0000" stop="20250326120000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">FWC Highlights Show </title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/24/480d3f1f-d650-4e00-811e-d54b0cf7e254.png" />
   </programme>
   <programme start="20250326120000 +0000" stop="20250326140000 +0000" channel="blastPH.Premier.Football">
     <title lang="en">Bologna vs. Lazio MD29</title>
@@ -3546,23 +3510,35 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
   </programme>
-  <programme start="20250326053000 +0000" stop="20250326080000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Racing Unleashed</title>
+  <programme start="20250328070000 +0000" stop="20250328083000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">2024 Kings World Cup: Porcinos FC vs. G3X FC Finals </title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/8afe6cf7-b2fc-49df-9cba-1f973934d5a5.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
   </programme>
-  <programme start="20250326080000 +0000" stop="20250326100000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">MMTLBA INVITATIONAL</title>
+  <programme start="20250328083000 +0000" stop="20250328103000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Macarthur FC vs. Newcastle Jets MD24</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/8afe6cf7-b2fc-49df-9cba-1f973934d5a5.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
   </programme>
-  <programme start="20250326100000 +0000" stop="20250326120000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Euroleague 2024-25 </title>
+  <programme start="20250328103000 +0000" stop="20250328110000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">A-League Highlights </title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/8afe6cf7-b2fc-49df-9cba-1f973934d5a5.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
+  </programme>
+  <programme start="20250328110000 +0000" stop="20250328120000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">FWC Highlights Show </title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
+  </programme>
+  <programme start="20250328120000 +0000" stop="20250328140000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Atalanta vs. Inter MD29</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/e1e9d03b-02f4-4e13-ba15-64b5945ba182.png" />
   </programme>
   <programme start="20250326120000 +0000" stop="20250326143000 +0000" channel="blastPH.Tap.Sports">
     <title lang="en">WWE NXT </title>
@@ -3726,29 +3702,23 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/a0ad7bce-44b0-430a-b6ab-30bc57623d1b.png" />
   </programme>
-  <programme start="20250326053000 +0000" stop="20250326071000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">One For The Money</title>
+  <programme start="20250328080000 +0000" stop="20250328100000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">MMTLBA INVITATIONAL</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/69e974f6-2b69-4d7e-9938-fda60a707874.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/8afe6cf7-b2fc-49df-9cba-1f973934d5a5.png" />
   </programme>
-  <programme start="20250326071000 +0000" stop="20250326084000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Sherlock Gnomes</title>
+  <programme start="20250328100000 +0000" stop="20250328120000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Euroleague 2024-25 </title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/69e974f6-2b69-4d7e-9938-fda60a707874.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/8afe6cf7-b2fc-49df-9cba-1f973934d5a5.png" />
   </programme>
-  <programme start="20250326084000 +0000" stop="20250326102000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Naked Singularity</title>
+  <programme start="20250328120000 +0000" stop="20250328143000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Superbouts</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/69e974f6-2b69-4d7e-9938-fda60a707874.png" />
-  </programme>
-  <programme start="20250326102000 +0000" stop="20250326120000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">The Parts You Lose</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/69e974f6-2b69-4d7e-9938-fda60a707874.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/18/8afe6cf7-b2fc-49df-9cba-1f973934d5a5.png" />
   </programme>
   <programme start="20250326120000 +0000" stop="20250326130000 +0000" channel="blastPH.Tap.Movies">
     <title lang="en">Yellowjackets S1 </title>
@@ -3888,59 +3858,23 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/69e974f6-2b69-4d7e-9938-fda60a707874.png" />
   </programme>
-  <programme start="20250326060909 +0000" stop="20250326065106 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Med Season 6 - Episode 13: What a Tangled Web We Weave</title>
+  <programme start="20250328073000 +0000" stop="20250328090500 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Penguins of MadagascarV</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e10971a1-f85d-4cd3-bc8c-63459867a763.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/69e974f6-2b69-4d7e-9938-fda60a707874.png" />
   </programme>
-  <programme start="20250326065106 +0000" stop="20250326073225 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Med Season 6 - Episode 14: A Red Pill, a Blue Pill</title>
+  <programme start="20250328090500 +0000" stop="20250328111000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Jumanji: Welcome to the Jungle</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9d688da8-0065-42d2-945a-8c9d73023d16.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/69e974f6-2b69-4d7e-9938-fda60a707874.png" />
   </programme>
-  <programme start="20250326073225 +0000" stop="20250326081401 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Med Season 6 - Episode 15: Stories, Secrets, Half-Truths and Lies</title>
+  <programme start="20250328111000 +0000" stop="20250328125000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">The Sun Is Also A Star </title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7df8af46-09db-46e2-bef3-ee526e41a57c.jpg" />
-  </programme>
-  <programme start="20250326081401 +0000" stop="20250326085600 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Med Season 6 - Episode 16: I Will Come to Save You</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d4efb86c-dda7-485f-87f9-2efbc9505b9d.jpg" />
-  </programme>
-  <programme start="20250326085600 +0000" stop="20250326093630 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Fire Season 6 - Episode 1: It Wasn't Enough</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/de536f4b-8ed4-483d-a53d-7bf495a1518a.jpg" />
-  </programme>
-  <programme start="20250326093630 +0000" stop="20250326101717 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Fire Season 6 - Episode 2: Ignite on Contact</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/6a245708-07fe-451a-882b-089c728ef071.jpg" />
-  </programme>
-  <programme start="20250326101717 +0000" stop="20250326105648 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Fire Season 6 - Episode 3: An Even Bigger Surprise</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/04dffa2a-4270-4138-8744-9e43a5ea1e74.jpg" />
-  </programme>
-  <programme start="20250326105648 +0000" stop="20250326113752 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Fire Season 6 - Episode 4: A Breaking Point</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/708c906c-5a51-4e20-96ff-b974849c0eae.jpg" />
-  </programme>
-  <programme start="20250326113752 +0000" stop="20250326121831 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Fire Season 6 - Episode 5: Devil's Bargain</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7614563a-1583-4d4d-b3b8-03b571f57711.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/21/69e974f6-2b69-4d7e-9938-fda60a707874.png" />
   </programme>
   <programme start="20250326121831 +0000" stop="20250326125931 +0000" channel="blastPH.Showcase.Drama">
     <title lang="en">Chicago Fire Season 6 - Episode 6: Down Is Better</title>
@@ -4308,47 +4242,59 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b1bd9b2f-8e39-4c0e-91b2-5eaa0093572e.jpg" />
   </programme>
-  <programme start="20250326060501 +0000" stop="20250326065308 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 5: Bad to the Bone</title>
+  <programme start="20250328061929 +0000" stop="20250328070016 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 15: The Chance to Forgive</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/22eb328f-8f2c-446c-a1c0-eda12cd18446.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/c800b289-4a68-465f-8dd5-ccd5fcd6567a.jpg" />
   </programme>
-  <programme start="20250326065308 +0000" stop="20250326074116 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 6: Cut Throat Criminal</title>
+  <programme start="20250328070016 +0000" stop="20250328074107 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 16: The One That Matters Most</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/58bd902e-39eb-474b-ab5c-a6ddf4057e96.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7a2a0321-ae7f-4526-98ea-6f93995d8059.jpg" />
   </programme>
-  <programme start="20250326074116 +0000" stop="20250326082935 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 7: Blood of Innocents</title>
+  <programme start="20250328074107 +0000" stop="20250328082154 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 17: Put White on Me</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/beaf0346-197a-4492-bcf8-f30494810807.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/dc212393-9aa4-4211-99c7-85a8508dce91.jpg" />
   </programme>
-  <programme start="20250326082935 +0000" stop="20250326091754 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 8: Bad Blood</title>
+  <programme start="20250328082154 +0000" stop="20250328090250 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 18: When They See Us Coming</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/57af6bf5-ccc2-4684-b949-3b4be50b737e.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/c4eb5c97-2b2e-4799-9614-e0956b5cca91.jpg" />
   </programme>
-  <programme start="20250326091754 +0000" stop="20250326100610 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 9: Killer Voices</title>
+  <programme start="20250328090250 +0000" stop="20250328094328 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 19: Where I Want to Be</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/58425119-5521-4604-a96c-e420e1425a86.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/eef21374-4067-4570-8b4d-566874647907.jpg" />
   </programme>
-  <programme start="20250326100610 +0000" stop="20250326105428 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 10: Urge to Kill</title>
+  <programme start="20250328094328 +0000" stop="20250328102424 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 20: The Strongest Among Us</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d2059354-820f-4ae5-8e9d-a54c82336a9c.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/785b4221-1c4b-4254-ba42-8601819babad.jpg" />
   </programme>
-  <programme start="20250326105428 +0000" stop="20250326114247 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">The Mind of a Murderer Season 1 - Episode 11: Blind Rage</title>
+  <programme start="20250328102424 +0000" stop="20250328110510 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 21: The Unrivaled Standard</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b3419f00-8628-4235-9bfd-09996c4732a9.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/894d0ef3-5ebd-4c27-8256-d30da8004826.jpg" />
+  </programme>
+  <programme start="20250328110510 +0000" stop="20250328114711 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 22: One for the Ages</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9b584b16-c78b-4369-a8ad-7ac2cd0b5834.jpg" />
+  </programme>
+  <programme start="20250328114711 +0000" stop="20250328122911 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 23: The Grand Gesture</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/6095c74d-279b-485e-a010-394cba938db0.jpg" />
   </programme>
   <programme start="20250326114247 +0000" stop="20250326123106 +0000" channel="blastPH.Crime.TV">
     <title lang="en">The Mind of a Murderer Season 1 - Episode 12: Under the Influence</title>
@@ -4746,1493 +4692,1541 @@
     <date>2025-03-28</date>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/22eb328f-8f2c-446c-a1c0-eda12cd18446.jpg" />
   </programme>
-  <programme start="20250326051910 +0000" stop="20250326063842 +0000" channel="blastPH.FEAR">
-    <title lang="en">Scared Alive</title>
+  <programme start="20250328061802 +0000" stop="20250328070610 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 6: Cut Throat Criminal</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/cf9638c4-4a73-4a32-a751-4eeaf8ddcaf7.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/58bd902e-39eb-474b-ab5c-a6ddf4057e96.jpg" />
   </programme>
-  <programme start="20250326063842 +0000" stop="20250326080620 +0000" channel="blastPH.FEAR">
-    <title lang="en">Ticks</title>
+  <programme start="20250328070610 +0000" stop="20250328075429 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 7: Blood of Innocents</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/68a6223a-899d-4a8e-b09b-cd6ba3e8c286.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/beaf0346-197a-4492-bcf8-f30494810807.jpg" />
   </programme>
-  <programme start="20250326080620 +0000" stop="20250326093706 +0000" channel="blastPH.FEAR">
-    <title lang="en">The Carrier</title>
+  <programme start="20250328075429 +0000" stop="20250328084248 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 8: Bad Blood</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/134adb5a-114b-4866-9126-aa5335336514.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/57af6bf5-ccc2-4684-b949-3b4be50b737e.jpg" />
   </programme>
-  <programme start="20250326093706 +0000" stop="20250326113332 +0000" channel="blastPH.FEAR">
-    <title lang="en">Hollow Creek</title>
+  <programme start="20250328084248 +0000" stop="20250328093104 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 9: Killer Voices</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/7a33f367-c217-4907-8f2c-7c0dbc7c8bc1.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/58425119-5521-4604-a96c-e420e1425a86.jpg" />
+  </programme>
+  <programme start="20250328093104 +0000" stop="20250328101922 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 10: Urge to Kill</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d2059354-820f-4ae5-8e9d-a54c82336a9c.jpg" />
+  </programme>
+  <programme start="20250328101922 +0000" stop="20250328110741 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 11: Blind Rage</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b3419f00-8628-4235-9bfd-09996c4732a9.jpg" />
+  </programme>
+  <programme start="20250328110741 +0000" stop="20250328115600 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">The Mind of a Murderer Season 1 - Episode 12: Under the Influence</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/efc89d51-00c1-4d98-80a6-9b31b853cde6.jpg" />
+  </programme>
+  <programme start="20250328115600 +0000" stop="20250328124010 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Women Behind Bars - Season 1 - Episode 1: Stacey and Charaty</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/baca4cce-9700-46d3-8dd6-663f58193195.jpg" />
   </programme>
   <programme start="20250326113332 +0000" stop="20250326130103 +0000" channel="blastPH.FEAR">
     <title lang="en">Gargoyles' Revenge</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/fd467480-9261-4421-87de-d0b7158261b6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d939bf0c-92d2-437d-92f8-1eae1649c3b1.jpg" />
   </programme>
   <programme start="20250326130103 +0000" stop="20250326134413 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 1: Puppies and Kittens</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/02ae74a4-0914-4cfd-8501-fe0a7fecd485.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8fa56d92-0f24-42fd-8d75-26f359e4fa81.jpg" />
   </programme>
   <programme start="20250326134413 +0000" stop="20250326142651 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 2: Fracking Zombies</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/86e0077f-0e99-4776-9fa9-2d9ae90df5ad.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/db7ea6f5-469b-4891-ad37-fe494eb0ab85.jpg" />
   </programme>
   <programme start="20250326142651 +0000" stop="20250326150759 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 3: Philly Feast</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/0d582e32-f603-4fae-889f-73f8cc9200d5.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9c1e5d59-2dfb-4116-a058-be1c06a7cf9e.jpg" />
   </programme>
   <programme start="20250326150759 +0000" stop="20250326155107 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 4: Full Metal Zombie</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/31b19473-cec1-40d4-a52a-94ebd73be182.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8b219947-7456-4956-a741-6d6bed773ad1.jpg" />
   </programme>
   <programme start="20250326155107 +0000" stop="20250326163245 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 5: Home Sweet Zombie</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/4932d4c5-43ed-4bb1-9227-6062b8966f7e.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/773e1e3d-615c-4b1c-b57d-0f7de732ce81.jpg" />
   </programme>
   <programme start="20250326163245 +0000" stop="20250326171553 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 6: Resurrection Z</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/aff49d91-0b0f-4dd9-84c7-d938e24cc0bd.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ef11dc75-82d8-4db9-93b6-22dd5934e67e.jpg" />
   </programme>
   <programme start="20250326171553 +0000" stop="20250326175901 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 7: Welcome to the FU-Bar</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/51318567-f65f-421e-b0fa-525e0401021f.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/eb4abc0f-feef-4dd2-8e22-6d3b2184eb6a.jpg" />
   </programme>
   <programme start="20250326175901 +0000" stop="20250326184209 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 8: Zunami</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/db0c05d8-6e24-4001-a1f6-27f427485e48.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/2772b36b-8fec-4131-b378-c84b3bf1277e.jpg" />
   </programme>
   <programme start="20250326184209 +0000" stop="20250326192417 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 9: Die Zombie Die… Again</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/c314e73f-166f-4c56-88f6-f0321a73a485.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9e681e89-3bed-4673-8773-a07980d8dd01.jpg" />
   </programme>
   <programme start="20250326192417 +0000" stop="20250326200725 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 10: Going Nuclear</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d99a6e9c-ddca-4613-a8f0-0e855b43f81a.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/5be1f6e4-396c-4824-a848-00e55d22f7c6.jpg" />
   </programme>
   <programme start="20250326200725 +0000" stop="20250326205034 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 11: Sisters of Mercy</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/fe2cc7c7-3417-4e84-b5d1-dac1c43cb132.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4e2a93f7-849f-4eca-aeed-7b8bde53724b.jpg" />
   </programme>
   <programme start="20250326205034 +0000" stop="20250326213342 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 12: Murphy's Law</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ede00a3e-1c38-4da3-849e-aac5f51f70a1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/fd0e9960-d17b-4e3e-957f-3d856d5452b6.jpg" />
   </programme>
   <programme start="20250326213342 +0000" stop="20250326221650 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 1 - Episode 13: Doctor of the Dead</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/865d17d3-69f7-4dd4-9198-233cbe714ac3.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/0ffbd5d6-8e48-4070-8df0-08a880f86fd1.jpg" />
   </programme>
   <programme start="20250326221650 +0000" stop="20250326225958 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 1: The Murphy</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d4c08ac2-cd5e-485e-9fbf-f68758016f5f.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/eb493e04-129c-4fc3-8920-3f1429b9d158.jpg" />
   </programme>
   <programme start="20250326225958 +0000" stop="20250326234236 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 2: White Light</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/c138490c-53c5-4c95-894b-87075c1199cd.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8199273f-7d6c-42b0-a363-4af42df155d7.jpg" />
   </programme>
   <programme start="20250326234236 +0000" stop="20250327002544 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 3: Zombie Road</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/8019a9c2-4672-48b7-80d8-8afd2682a093.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/f5bb181d-96f4-4293-b986-7758b17b52cf.jpg" />
   </programme>
   <programme start="20250327002544 +0000" stop="20250327010852 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 4: Batch 47</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/f0f7145d-0ebe-4ad9-940c-cd98fd4e20ed.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/5c2e4c6d-3b24-4fcc-b004-f3815c14092d.jpg" />
   </programme>
   <programme start="20250327010852 +0000" stop="20250327015130 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 5: Zombaby!</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d11d07d7-f6f1-49ee-b379-6c482706f904.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9700c852-25e2-429d-8d86-6ff4b56abfa9.jpg" />
   </programme>
   <programme start="20250327015130 +0000" stop="20250327023438 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 6: Zombie Baby Daddy</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/2a323f2d-4af0-4a09-9c50-2d6e5ae82eeb.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/af2a0937-6de3-4d4a-a636-e815cc3f7242.jpg" />
   </programme>
   <programme start="20250327023438 +0000" stop="20250327031746 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 7: Down the Mississippi</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/84391ced-6d6a-4f43-9740-eb48e9a3db54.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7aef17c9-6465-4047-871e-2f792eaaa8dd.jpg" />
   </programme>
   <programme start="20250327031746 +0000" stop="20250327040024 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 8: The Collector</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/62cac039-3bd8-48bd-898e-f17a87084c32.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/fd7e0cc4-22b1-49b9-bfd5-328f4f3fca8f.jpg" />
   </programme>
   <programme start="20250327040024 +0000" stop="20250327044302 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 9: RoZwell</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/2b04a557-a893-4508-8233-0b08ad15f979.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/6e943cb7-51c3-4b7f-80cf-df11cfd8868e.jpg" />
   </programme>
   <programme start="20250327044302 +0000" stop="20250327052610 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 10: We Were Nowhere Near the Grand Canyon</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/729917b2-8801-471a-89ed-d8d3c3a984f1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/61b20c51-0152-4dfe-8c4d-4ae313de102a.jpg" />
   </programme>
   <programme start="20250327052610 +0000" stop="20250327060748 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 11: Corporate Retreat</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/e4f8cb5d-e387-43e6-9efa-40282a8e5fbb.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/82438205-1e47-4b1e-9a97-6f7098c6d2ed.jpg" />
   </programme>
   <programme start="20250327060748 +0000" stop="20250327065056 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 12: Party with the Zeros</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d1e8f45d-b930-4fd1-82f0-91e166059608.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/94698035-404f-4459-9e6b-19f4a390c5a0.jpg" />
   </programme>
   <programme start="20250327065056 +0000" stop="20250327073404 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 13: Adios, Muchachos</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/7492ec6b-f4eb-405e-8eec-bbcd29e2b08c.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b0e6d034-0189-4b4f-a628-9e53968001b5.jpg" />
   </programme>
   <programme start="20250327073404 +0000" stop="20250327081642 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 14: Day One</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/90465863-9bf6-4e1a-a634-a087b8dbe1ed.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/add75ba5-dd94-4ef0-867b-12f5f9e989a5.jpg" />
   </programme>
   <programme start="20250327081642 +0000" stop="20250327085950 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 15: All Good Things Must Come to an End</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/65c01e13-09df-410b-8695-81b186bcd1bc.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/c63e580f-fc59-4831-89fc-8ccd4b473fa4.jpg" />
   </programme>
   <programme start="20250327085950 +0000" stop="20250327103248 +0000" channel="blastPH.FEAR">
     <title lang="en">Prom Night</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/576f8b7b-c27d-45f8-ba20-83e3afcd0ec0.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/bf984c60-bfd5-4782-98ac-3ef482400353.jpg" />
   </programme>
   <programme start="20250327103248 +0000" stop="20250327120029 +0000" channel="blastPH.FEAR">
     <title lang="en">The Pumpkin Karver</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/558a3673-3f80-4d9a-82f2-6a22bbb498c8.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7dc91b10-1043-4937-8bee-382751fa3ffa.jpg" />
   </programme>
   <programme start="20250327120029 +0000" stop="20250327132712 +0000" channel="blastPH.FEAR">
     <title lang="en">Pumpkinhead</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/9e1e3f1c-7084-4ce6-b606-85b4169b08e7.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/61a708e9-dfb0-437a-a03b-3a97383ef321.jpg" />
   </programme>
   <programme start="20250327132712 +0000" stop="20250327144619 +0000" channel="blastPH.FEAR">
     <title lang="en">Danika</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/0558bb16-9ebd-404e-a261-553fb010b3cc.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/6295bad1-dfcb-4ca7-9738-63569cdc233b.jpg" />
   </programme>
   <programme start="20250327144619 +0000" stop="20250327160419 +0000" channel="blastPH.FEAR">
     <title lang="en">Fair Game</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/28771af5-4565-4694-a2b4-8658b1e63384.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e2c48333-9c0c-4813-9a51-538cdc40ad6f.jpg" />
   </programme>
   <programme start="20250327160419 +0000" stop="20250327173804 +0000" channel="blastPH.FEAR">
     <title lang="en">Mortuary</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5dc39fc8-158b-4afd-b81c-326abc0992ee.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/f1a411df-f3b9-4a76-8687-25dfa9a36a6c.jpg" />
   </programme>
   <programme start="20250327173804 +0000" stop="20250327190650 +0000" channel="blastPH.FEAR">
     <title lang="en">Necromancer</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/36271a18-ce55-4e7e-a28b-c500894dd056.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/63cd9422-afdd-464b-9e64-d9aa1f28d026.jpg" />
   </programme>
   <programme start="20250327190650 +0000" stop="20250327203725 +0000" channel="blastPH.FEAR">
     <title lang="en">The Nightmare</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/8fab23d5-8c37-4c9f-95b8-47143f32b5d3.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/50a5fefb-25b7-4fd7-9460-8e6bfe6274ee.jpg" />
   </programme>
   <programme start="20250327203725 +0000" stop="20250327223351 +0000" channel="blastPH.FEAR">
     <title lang="en">Hollow Creek</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/7a33f367-c217-4907-8f2c-7c0dbc7c8bc1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/cc46dd2b-d981-4669-b4bb-58bb4d2e2c28.jpg" />
   </programme>
   <programme start="20250327223351 +0000" stop="20250328000122 +0000" channel="blastPH.FEAR">
     <title lang="en">Gargoyles' Revenge</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/fd467480-9261-4421-87de-d0b7158261b6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d939bf0c-92d2-437d-92f8-1eae1649c3b1.jpg" />
   </programme>
   <programme start="20250328000122 +0000" stop="20250328012054 +0000" channel="blastPH.FEAR">
     <title lang="en">Scared Alive</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/cf9638c4-4a73-4a32-a751-4eeaf8ddcaf7.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4711d1cd-da56-4249-b054-09429fc447af.jpg" />
   </programme>
   <programme start="20250328012054 +0000" stop="20250328024832 +0000" channel="blastPH.FEAR">
     <title lang="en">Ticks</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/68a6223a-899d-4a8e-b09b-cd6ba3e8c286.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/5bf6cf92-dce0-4d07-b486-ae80c2333205.jpg" />
   </programme>
   <programme start="20250328024832 +0000" stop="20250328041918 +0000" channel="blastPH.FEAR">
     <title lang="en">The Carrier</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/134adb5a-114b-4866-9126-aa5335336514.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8e1ffd37-8820-4f3a-b7d2-02adc7bceff3.jpg" />
   </programme>
   <programme start="20250328041918 +0000" stop="20250328061544 +0000" channel="blastPH.FEAR">
     <title lang="en">Hollow Creek</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/7a33f367-c217-4907-8f2c-7c0dbc7c8bc1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/cc46dd2b-d981-4669-b4bb-58bb4d2e2c28.jpg" />
   </programme>
   <programme start="20250328061544 +0000" stop="20250328074315 +0000" channel="blastPH.FEAR">
     <title lang="en">Gargoyles' Revenge</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/fd467480-9261-4421-87de-d0b7158261b6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d939bf0c-92d2-437d-92f8-1eae1649c3b1.jpg" />
   </programme>
-  <programme start="20250326060247 +0000" stop="20250326062547 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 4: Megan Thee Stallion Turns Into Hot Girl Meg While Eating Spicy Wings</title>
+  <programme start="20250328074315 +0000" stop="20250328082625 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 1 - Episode 1: Puppies and Kittens</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/77b59983-2d92-446a-b713-3743a446cac1.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8fa56d92-0f24-42fd-8d75-26f359e4fa81.jpg" />
   </programme>
-  <programme start="20250326062547 +0000" stop="20250326064840 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 5: CL Gets Extra Spicy While Eating Spicy Wings</title>
+  <programme start="20250328082625 +0000" stop="20250328090903 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 1 - Episode 2: Fracking Zombies</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/b2b0ca13-befc-45f1-92c6-d7231ae1122f.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/db7ea6f5-469b-4891-ad37-fe494eb0ab85.jpg" />
   </programme>
-  <programme start="20250326064840 +0000" stop="20250326071150 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 6: Mila Kunis Hits the Ranch While Eating Spicy Wings</title>
+  <programme start="20250328090903 +0000" stop="20250328095011 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 1 - Episode 3: Philly Feast</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/b1a3b2a4-5f7a-49c0-a989-5c9f18b5e1d8.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9c1e5d59-2dfb-4116-a058-be1c06a7cf9e.jpg" />
   </programme>
-  <programme start="20250326071150 +0000" stop="20250326073645 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 7: Salma Hayek Adopts Sean Evans While Eating Spicy Wings</title>
+  <programme start="20250328095011 +0000" stop="20250328103319 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 1 - Episode 4: Full Metal Zombie</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/3e1e64e3-4746-40c1-8259-77c63b7cabe9.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8b219947-7456-4956-a741-6d6bed773ad1.jpg" />
   </programme>
-  <programme start="20250326073645 +0000" stop="20250326075936 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 8: Jeremy Renner Goes Blind in One Eye While Eating Spicy Wings</title>
+  <programme start="20250328103319 +0000" stop="20250328111457 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 1 - Episode 5: Home Sweet Zombie</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/a5758739-dee7-4dde-a2e7-244e2e530894.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/773e1e3d-615c-4b1c-b57d-0f7de732ce81.jpg" />
   </programme>
-  <programme start="20250326075936 +0000" stop="20250326082316 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 9: David Chang Sweats Like Crazy While Eating Spicy Wings</title>
+  <programme start="20250328111457 +0000" stop="20250328115805 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 1 - Episode 6: Resurrection Z</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bb723f09-2456-4902-ab7a-06809d20f802.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ef11dc75-82d8-4db9-93b6-22dd5934e67e.jpg" />
   </programme>
-  <programme start="20250326082316 +0000" stop="20250326084703 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 10: Rob Lowe Ruins Thanksgiving By Eating Spicy Wings</title>
+  <programme start="20250328115805 +0000" stop="20250328124113 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 1 - Episode 7: Welcome to the FU-Bar</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/fc3df490-2179-48cd-a414-6420001eb0f2.jpg" />
-  </programme>
-  <programme start="20250326084703 +0000" stop="20250326091202 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 11: Simu Liu Chugs Boba While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bc4ac177-98ba-4932-839b-bdf804eada48.jpg" />
-  </programme>
-  <programme start="20250326091202 +0000" stop="20250326093837 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 16 - Episode 12: Tom Holland Calls for a Doctor While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/76314813-e1d8-417b-b5b1-a1741938c709.jpg" />
-  </programme>
-  <programme start="20250326093837 +0000" stop="20250326095732 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 1: Egg Fried Rice</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/80763898-ba23-49c1-995b-5a81ec36b0a3.jpg" />
-  </programme>
-  <programme start="20250326095732 +0000" stop="20250326101913 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 2: Crazy Rich Asian</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/e81ac4c1-4f85-48b1-996b-5561b055d993.jpg" />
-  </programme>
-  <programme start="20250326101913 +0000" stop="20250326103836 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 3: British Chef vs. Egg Fried Rice</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/446738db-e9cd-492f-a153-a96ddad01542.jpg" />
-  </programme>
-  <programme start="20250326103836 +0000" stop="20250326105800 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 4: Crazy Stupid Love</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/2d80ec3c-d4f0-40f9-92f7-1fc5ce0c9245.jpg" />
-  </programme>
-  <programme start="20250326105800 +0000" stop="20250326111849 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 5: Wild Wild West</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/c89613e3-6f2b-48a6-9133-ac26241af5bb.jpg" />
-  </programme>
-  <programme start="20250326111849 +0000" stop="20250326114007 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 6: Wild Wild West: Part 2</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/56106dbf-ede0-45a9-9348-0d296e0f9180.jpg" />
-  </programme>
-  <programme start="20250326114007 +0000" stop="20250326120312 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 7: Niece and Nephew</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/4561f155-9266-431f-816e-f411d1913b9f.jpg" />
-  </programme>
-  <programme start="20250326120312 +0000" stop="20250326122238 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show - Season 1 - Episode 8: Uncle Roger Online</title>
-    <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/be45810c-f229-4691-86a9-501bb43eed13.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/eb4abc0f-feef-4dd2-8e22-6d3b2184eb6a.jpg" />
   </programme>
   <programme start="20250326122238 +0000" stop="20250326124457 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 9: Down Under</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/522e0866-1cc3-481a-9836-39accf42f5bc.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/fd45c265-3ce9-4767-a8a3-649859d2e01e.jpg" />
   </programme>
   <programme start="20250326124457 +0000" stop="20250326130942 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 10: Malaysia</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/05510b7c-8c2a-42c2-92b3-57d8ac69fc95.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4ff99cff-c100-49d0-9a5b-daad1de26395.jpg" />
   </programme>
   <programme start="20250326130942 +0000" stop="20250326133352 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 11: Malaysia: Part 2</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d4bcab03-bbf4-428b-adba-f5059ec1880a.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7294d87f-0afe-484d-aefc-1a5a6c19054c.jpg" />
   </programme>
   <programme start="20250326133352 +0000" stop="20250326135249 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 12: O-Kay</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d571f94d-61cc-403c-882f-0fb915904146.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/270b5f0e-92b0-4190-9703-da3e2af92e7f.jpg" />
   </programme>
   <programme start="20250326135249 +0000" stop="20250326141535 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 13: Not a Chef</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/fe6424c8-02af-4d6c-95f8-71cb0b0010f6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8151e13d-b13a-4730-8c5d-e37befbba211.jpg" />
   </programme>
   <programme start="20250326141535 +0000" stop="20250326143733 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 14: Yeah Yah</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/4adc0d7a-2b38-4140-a76c-2eca835b82e1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/24902be6-6e0e-4858-b6b3-17d527b0eb8f.jpg" />
   </programme>
   <programme start="20250326143733 +0000" stop="20250326150219 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 15: Ramen</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/a0847572-a158-4942-80e1-b010bc38ea78.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/06cecce9-9474-4e35-ada2-f4f3d01af947.jpg" />
   </programme>
   <programme start="20250326150219 +0000" stop="20250326152435 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 16: Everyone So Creative</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/6faa0435-330f-4a30-abfd-314d169db5c6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/0333e613-f754-4f62-bfc9-60751b098373.jpg" />
   </programme>
   <programme start="20250326152435 +0000" stop="20250326154859 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 17: Everyone So Creative: Part 2</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ffa423fc-265f-4d6d-b8c5-22492661d21e.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ed29363d-4683-4473-99d2-0f47686568d7.jpg" />
   </programme>
   <programme start="20250326154859 +0000" stop="20250326161315 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 18: AlGo</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/28306664-7c18-4f8b-881c-cb8128641918.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b16f9316-3559-4716-8c53-565a9b21eb5f.jpg" />
   </programme>
   <programme start="20250326161315 +0000" stop="20250326163724 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 19: Thirsty</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/097b39cd-2174-4ef3-af19-575910d55e73.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b26d209d-5c83-44bf-b694-be0a2bde222d.jpg" />
   </programme>
   <programme start="20250326163724 +0000" stop="20250326170019 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 20: Haiyaa</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/651ce8d5-0428-4270-a094-8521e99f0255.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/619cdea6-8a2a-4879-8158-5f4d08b36017.jpg" />
   </programme>
   <programme start="20250326170019 +0000" stop="20250326172352 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 21: What You Say</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/a2fb6f8c-f683-4353-8e47-62d9b97a1705.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/85ae8eb6-7902-427f-96bc-67f42fca1077.jpg" />
   </programme>
   <programme start="20250326172352 +0000" stop="20250326174330 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 22: Fuiyoh</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/24318e8c-4aad-4604-8409-f159a34c1d85.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9d20406d-a6c4-47e8-9b3e-cbb885849615.jpg" />
   </programme>
   <programme start="20250326174330 +0000" stop="20250326180410 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 1: Priyanka Chopra Jonas Explains the Essence of Hot Sauce While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d3d1084f-e873-4362-ab2f-af2ff7008355.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4546e17d-cfb6-4e06-9bb6-6cf348ee60c1.jpg" />
   </programme>
   <programme start="20250326180410 +0000" stop="20250326182622 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 2: Dustin Poirier Is Paid in Full While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/7a8000cc-1236-498f-b78a-c22ddd0dbed6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/cd0f9c5c-6ba2-405f-81e7-b6e2ef7f65df.jpg" />
   </programme>
   <programme start="20250326182622 +0000" stop="20250326185111 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 3: Kevin James Forgets Who He Is While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/3619cf12-759a-4abe-8c18-86d7c7adf799.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/bbffa28d-dcc3-47e1-a6de-061f0a05eada.jpg" />
   </programme>
   <programme start="20250326185111 +0000" stop="20250326191610 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 4: Awkwafina Gets Hot and Cold While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ce98bc3a-2b63-4805-b263-c3b31af8401c.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8387b8c8-d1cd-4fe4-a782-faeda239419a.jpg" />
   </programme>
   <programme start="20250326191610 +0000" stop="20250326194014 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 5: Kenan Thompson Becomes a Card-Carrying Spiceman While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ce3dd4a2-1312-437c-85ed-f22e008b3293.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b809c4bd-7802-4ca6-9e7f-0119c9ac262c.jpg" />
   </programme>
   <programme start="20250326194014 +0000" stop="20250326200327 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 6: Anthony Mackie Quotes Shakespeare While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/e145d586-920a-45be-a58d-b8d2617c8444.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/dc014f88-43bd-48e0-853e-e15193c8f1f9.jpg" />
   </programme>
   <programme start="20250326200327 +0000" stop="20250326202525 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 7: Paris Hilton Says "That's Hot" While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/3c4ca052-6681-4785-bc4f-d7ac65a52b5a.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3ba33613-e24d-405d-9a1d-b89ae12b79fa.jpg" />
   </programme>
   <programme start="20250326202525 +0000" stop="20250326204843 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 8: Jennifer Garner Says "Golly" While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5cd343c0-b04c-428f-bd2f-165224b671a0.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/5281877b-0faf-4707-b8c0-44739eef05ab.jpg" />
   </programme>
   <programme start="20250326204843 +0000" stop="20250326211334 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 9: J Balvin Meets the Devil While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/118459ba-1f50-4db0-a64d-7a9129ac1d0d.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/68771b86-4213-4058-99f7-0190eedea218.jpg" />
   </programme>
   <programme start="20250326211334 +0000" stop="20250326213742 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 10: Jeffrey Dean Morgan Can't Feel His Face While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/879140b0-126f-4b0a-88ae-ddea7e5e6d84.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/22a3a255-00d9-4923-a4ae-8ea22a79d586.jpg" />
   </programme>
   <programme start="20250326213742 +0000" stop="20250326220354 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 11: Russell Brand Serenades Superfan Brett Baker While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/313009e7-cbf1-4256-afb8-429edaf2bd1a.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/0b539482-eadc-48cd-b8e7-bde063318360.jpg" />
   </programme>
   <programme start="20250326220354 +0000" stop="20250326222816 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 12: Steve-O Takes It Too Far While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/f06499f6-733c-4c4c-b7a0-7f76c2651f2c.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e3a39071-acea-465c-9645-c4cf04248cab.jpg" />
   </programme>
   <programme start="20250326222816 +0000" stop="20250326225225 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 1: Jack Harlow Fulfills His Dreams Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/398fadc9-10c7-4d85-b5ad-f9428c44d9b2.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/42042459-1727-465a-a695-bf7f15a791f6.jpg" />
   </programme>
   <programme start="20250326225225 +0000" stop="20250326231543 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 2: Kamaru Usman Goes to the Mat Against Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/6de11884-5a34-4061-90b3-ba09af936e6d.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3ea316e7-46c3-494f-88ea-f8c7779f7874.jpg" />
   </programme>
   <programme start="20250326231543 +0000" stop="20250326233423 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 3: Quavo Is Stunned By Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/c0de6e50-72d3-4765-8976-e3ef44b64bd9.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/33f2d51a-9351-43cf-9896-7667e2be102f.jpg" />
   </programme>
   <programme start="20250326233423 +0000" stop="20250326235721 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 4: Elizabeth Olsen Feels Brave While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/684af9f7-3c41-4e54-a3ba-6b3de4c4cfbc.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/cc51dc01-7d6e-486e-a58e-a713739dfe7d.jpg" />
   </programme>
   <programme start="20250326235721 +0000" stop="20250327001949 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 5: Olivia Rodrigo Burns Her Lips While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/00d90ae5-58b8-4d93-ac0d-e188b4583f85.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/54ed228e-7f50-4fd9-915c-c2abb0374fe2.jpg" />
   </programme>
   <programme start="20250327001949 +0000" stop="20250327004203 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 6: Malcolm Gladwell Hits the Tipping Point While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5d9890c0-f543-4d5e-b09b-9c3825b88d64.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9b57759d-e51b-4d16-a939-aaa31dbbdc79.jpg" />
   </programme>
   <programme start="20250327004203 +0000" stop="20250327010634 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 7: Ed Sheeran Tries to Avoid Failure While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/8d7df5dd-fc32-437b-b573-ac3734db0bab.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d36e9cea-2138-4dd0-8e38-cde0fabf2892.jpg" />
   </programme>
   <programme start="20250327010634 +0000" stop="20250327013055 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 8: David Harbour Feels Out of Control While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/0e8d323b-7a17-4e7f-8d85-764e1e28a4c1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/76b17e07-4a0a-4b77-ac01-17853be75c75.jpg" />
   </programme>
   <programme start="20250327013055 +0000" stop="20250327015459 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 9: Michael Che Gs Up While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/25e28c21-9370-48a7-b670-9659a46b6907.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/fecb24d4-b32b-4056-9efd-b5e772b3dd5f.jpg" />
   </programme>
   <programme start="20250327015459 +0000" stop="20250327021855 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 10: Lorde Drops the Mic While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/47b58a4e-ee8a-4435-920f-a6d7c0f7011d.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/afb7474c-2b62-489e-8f40-0d28d64a716e.jpg" />
   </programme>
   <programme start="20250327021855 +0000" stop="20250327024540 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 11: Matt Damon Sweats From His Scalp While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/dfdef82c-795f-4518-b51e-92048b093138.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/dc1ff558-9364-444e-bd05-ce020984267a.jpg" />
   </programme>
   <programme start="20250327024540 +0000" stop="20250327031218 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 12: Elijah Wood Tastes the Lava of Mount Doom While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d882d491-81d4-469a-8a5b-404a3e19ef9b.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/a166df04-c288-4b15-b333-a7e220e3f6da.jpg" />
   </programme>
   <programme start="20250327031218 +0000" stop="20250327033709 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 1: Jimmy Kimmel Feels Poisoned By Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d89b060e-e772-4872-9604-d1b38576cec1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/52e12a76-0651-4559-b2ed-acbb6b43b4dc.jpg" />
   </programme>
   <programme start="20250327033709 +0000" stop="20250327035648 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 2: Derrick Lewis Is Not Okay While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d4e6b9e2-85f9-46fb-80be-e6962ee63478.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3399a607-f2ea-4d17-8116-c48e52709d6a.jpg" />
   </programme>
   <programme start="20250327035648 +0000" stop="20250327042420 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 3: Jon Bernthal Gets Punished By Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/05810c12-b59f-43a7-bd73-9a4763ad4d54.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b1469e8f-596b-4f38-aabd-9db85bb24738.jpg" />
   </programme>
   <programme start="20250327042420 +0000" stop="20250327044720 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 4: Megan Thee Stallion Turns Into Hot Girl Meg While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/77b59983-2d92-446a-b713-3743a446cac1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/a1fde645-2cc0-457f-b1d2-95b8b40118fb.jpg" />
   </programme>
   <programme start="20250327044720 +0000" stop="20250327051013 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 5: CL Gets Extra Spicy While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/b2b0ca13-befc-45f1-92c6-d7231ae1122f.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/10627ff7-68c7-4100-b0fd-34033f35ccad.jpg" />
   </programme>
   <programme start="20250327051013 +0000" stop="20250327053323 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 6: Mila Kunis Hits the Ranch While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/b1a3b2a4-5f7a-49c0-a989-5c9f18b5e1d8.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b188436d-ebdc-46cd-aea5-29ac1eb4f981.jpg" />
   </programme>
   <programme start="20250327053323 +0000" stop="20250327055818 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 7: Salma Hayek Adopts Sean Evans While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/3e1e64e3-4746-40c1-8259-77c63b7cabe9.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8239663e-fb72-4c2e-b609-2363f38494e0.jpg" />
   </programme>
   <programme start="20250327055818 +0000" stop="20250327062109 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 8: Jeremy Renner Goes Blind in One Eye While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/a5758739-dee7-4dde-a2e7-244e2e530894.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/afc1648b-5276-4925-a011-a0e48d635034.jpg" />
   </programme>
   <programme start="20250327062109 +0000" stop="20250327064449 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 9: David Chang Sweats Like Crazy While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bb723f09-2456-4902-ab7a-06809d20f802.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/67f5f743-bb7d-4b72-bc56-408f66c5a2ef.jpg" />
   </programme>
   <programme start="20250327064449 +0000" stop="20250327070836 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 10: Rob Lowe Ruins Thanksgiving By Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/fc3df490-2179-48cd-a414-6420001eb0f2.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e4c8252a-5646-41dd-8e96-f6c765d7e8b9.jpg" />
   </programme>
   <programme start="20250327070836 +0000" stop="20250327073335 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 11: Simu Liu Chugs Boba While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bc4ac177-98ba-4932-839b-bdf804eada48.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/222d04aa-289e-453a-95bf-46e1f79f5c5d.jpg" />
   </programme>
   <programme start="20250327073335 +0000" stop="20250327080010 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 12: Tom Holland Calls for a Doctor While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/76314813-e1d8-417b-b5b1-a1741938c709.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/79d73e95-cd3e-4e43-851d-12fc70473893.jpg" />
   </programme>
   <programme start="20250327080010 +0000" stop="20250327081905 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 1: Egg Fried Rice</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/80763898-ba23-49c1-995b-5a81ec36b0a3.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/21ddaa70-5709-4723-8048-54790197789b.jpg" />
   </programme>
   <programme start="20250327081905 +0000" stop="20250327084046 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 2: Crazy Rich Asian</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/e81ac4c1-4f85-48b1-996b-5561b055d993.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d7df5bf2-2b80-4b91-be1b-e95efe71abd2.jpg" />
   </programme>
   <programme start="20250327084046 +0000" stop="20250327090009 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 3: British Chef vs. Egg Fried Rice</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/446738db-e9cd-492f-a153-a96ddad01542.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8810f0dc-f44d-40c0-8c78-77cecf6c7d21.jpg" />
   </programme>
   <programme start="20250327090009 +0000" stop="20250327091933 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 4: Crazy Stupid Love</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/2d80ec3c-d4f0-40f9-92f7-1fc5ce0c9245.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b8290179-1e85-42e3-b197-3ab5885849b8.jpg" />
   </programme>
   <programme start="20250327091933 +0000" stop="20250327094022 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 5: Wild Wild West</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/c89613e3-6f2b-48a6-9133-ac26241af5bb.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/6876ea41-8be9-4b7c-ad47-589611163629.jpg" />
   </programme>
   <programme start="20250327094022 +0000" stop="20250327100140 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 6: Wild Wild West: Part 2</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/56106dbf-ede0-45a9-9348-0d296e0f9180.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/a65c7c88-e202-464c-9228-82ab7cb06341.jpg" />
   </programme>
   <programme start="20250327100140 +0000" stop="20250327102445 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 7: Niece and Nephew</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/4561f155-9266-431f-816e-f411d1913b9f.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8186ec80-157b-4e24-884a-bba0862b9d12.jpg" />
   </programme>
   <programme start="20250327102445 +0000" stop="20250327104411 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 8: Uncle Roger Online</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/be45810c-f229-4691-86a9-501bb43eed13.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/65cbcc9f-38cd-4ada-a2b5-01b7c68ac617.jpg" />
   </programme>
   <programme start="20250327104411 +0000" stop="20250327110630 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 9: Down Under</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/522e0866-1cc3-481a-9836-39accf42f5bc.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/fd45c265-3ce9-4767-a8a3-649859d2e01e.jpg" />
   </programme>
   <programme start="20250327110630 +0000" stop="20250327113115 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 10: Malaysia</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/05510b7c-8c2a-42c2-92b3-57d8ac69fc95.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4ff99cff-c100-49d0-9a5b-daad1de26395.jpg" />
   </programme>
   <programme start="20250327113115 +0000" stop="20250327115525 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 11: Malaysia: Part 2</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d4bcab03-bbf4-428b-adba-f5059ec1880a.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7294d87f-0afe-484d-aefc-1a5a6c19054c.jpg" />
   </programme>
   <programme start="20250327115525 +0000" stop="20250327121422 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 12: O-Kay</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d571f94d-61cc-403c-882f-0fb915904146.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/270b5f0e-92b0-4190-9703-da3e2af92e7f.jpg" />
   </programme>
   <programme start="20250327121422 +0000" stop="20250327123708 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 13: Not a Chef</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/fe6424c8-02af-4d6c-95f8-71cb0b0010f6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8151e13d-b13a-4730-8c5d-e37befbba211.jpg" />
   </programme>
   <programme start="20250327123708 +0000" stop="20250327125906 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 14: Yeah Yah</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/4adc0d7a-2b38-4140-a76c-2eca835b82e1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/24902be6-6e0e-4858-b6b3-17d527b0eb8f.jpg" />
   </programme>
   <programme start="20250327125906 +0000" stop="20250327132352 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 15: Ramen</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/a0847572-a158-4942-80e1-b010bc38ea78.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/06cecce9-9474-4e35-ada2-f4f3d01af947.jpg" />
   </programme>
   <programme start="20250327132352 +0000" stop="20250327134608 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 16: Everyone So Creative</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/6faa0435-330f-4a30-abfd-314d169db5c6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/0333e613-f754-4f62-bfc9-60751b098373.jpg" />
   </programme>
   <programme start="20250327134608 +0000" stop="20250327141032 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 17: Everyone So Creative: Part 2</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ffa423fc-265f-4d6d-b8c5-22492661d21e.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ed29363d-4683-4473-99d2-0f47686568d7.jpg" />
   </programme>
   <programme start="20250327141032 +0000" stop="20250327143448 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 18: AlGo</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/28306664-7c18-4f8b-881c-cb8128641918.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b16f9316-3559-4716-8c53-565a9b21eb5f.jpg" />
   </programme>
   <programme start="20250327143448 +0000" stop="20250327145857 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 19: Thirsty</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/097b39cd-2174-4ef3-af19-575910d55e73.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b26d209d-5c83-44bf-b694-be0a2bde222d.jpg" />
   </programme>
   <programme start="20250327145857 +0000" stop="20250327152152 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 20: Haiyaa</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/651ce8d5-0428-4270-a094-8521e99f0255.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/619cdea6-8a2a-4879-8158-5f4d08b36017.jpg" />
   </programme>
   <programme start="20250327152152 +0000" stop="20250327154525 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 21: What You Say</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/a2fb6f8c-f683-4353-8e47-62d9b97a1705.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/85ae8eb6-7902-427f-96bc-67f42fca1077.jpg" />
   </programme>
   <programme start="20250327154525 +0000" stop="20250327160503 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show - Season 1 - Episode 22: Fuiyoh</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/24318e8c-4aad-4604-8409-f159a34c1d85.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9d20406d-a6c4-47e8-9b3e-cbb885849615.jpg" />
   </programme>
   <programme start="20250327160503 +0000" stop="20250327162543 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 1: Priyanka Chopra Jonas Explains the Essence of Hot Sauce While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d3d1084f-e873-4362-ab2f-af2ff7008355.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4546e17d-cfb6-4e06-9bb6-6cf348ee60c1.jpg" />
   </programme>
   <programme start="20250327162543 +0000" stop="20250327164755 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 2: Dustin Poirier Is Paid in Full While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/7a8000cc-1236-498f-b78a-c22ddd0dbed6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/cd0f9c5c-6ba2-405f-81e7-b6e2ef7f65df.jpg" />
   </programme>
   <programme start="20250327164755 +0000" stop="20250327171244 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 3: Kevin James Forgets Who He Is While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/3619cf12-759a-4abe-8c18-86d7c7adf799.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/bbffa28d-dcc3-47e1-a6de-061f0a05eada.jpg" />
   </programme>
   <programme start="20250327171244 +0000" stop="20250327173743 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 4: Awkwafina Gets Hot and Cold While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ce98bc3a-2b63-4805-b263-c3b31af8401c.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8387b8c8-d1cd-4fe4-a782-faeda239419a.jpg" />
   </programme>
   <programme start="20250327173743 +0000" stop="20250327180147 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 5: Kenan Thompson Becomes a Card-Carrying Spiceman While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ce3dd4a2-1312-437c-85ed-f22e008b3293.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b809c4bd-7802-4ca6-9e7f-0119c9ac262c.jpg" />
   </programme>
   <programme start="20250327180147 +0000" stop="20250327182500 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 6: Anthony Mackie Quotes Shakespeare While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/e145d586-920a-45be-a58d-b8d2617c8444.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/dc014f88-43bd-48e0-853e-e15193c8f1f9.jpg" />
   </programme>
   <programme start="20250327182500 +0000" stop="20250327184658 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 7: Paris Hilton Says "That's Hot" While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/3c4ca052-6681-4785-bc4f-d7ac65a52b5a.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3ba33613-e24d-405d-9a1d-b89ae12b79fa.jpg" />
   </programme>
   <programme start="20250327184658 +0000" stop="20250327191016 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 8: Jennifer Garner Says "Golly" While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5cd343c0-b04c-428f-bd2f-165224b671a0.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/5281877b-0faf-4707-b8c0-44739eef05ab.jpg" />
   </programme>
   <programme start="20250327191016 +0000" stop="20250327193507 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 9: J Balvin Meets the Devil While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/118459ba-1f50-4db0-a64d-7a9129ac1d0d.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/68771b86-4213-4058-99f7-0190eedea218.jpg" />
   </programme>
   <programme start="20250327193507 +0000" stop="20250327195915 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 10: Jeffrey Dean Morgan Can't Feel His Face While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/879140b0-126f-4b0a-88ae-ddea7e5e6d84.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/22a3a255-00d9-4923-a4ae-8ea22a79d586.jpg" />
   </programme>
   <programme start="20250327195915 +0000" stop="20250327202527 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 11: Russell Brand Serenades Superfan Brett Baker While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/313009e7-cbf1-4256-afb8-429edaf2bd1a.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/0b539482-eadc-48cd-b8e7-bde063318360.jpg" />
   </programme>
   <programme start="20250327202527 +0000" stop="20250327204949 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 14 - Episode 12: Steve-O Takes It Too Far While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/f06499f6-733c-4c4c-b7a0-7f76c2651f2c.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e3a39071-acea-465c-9645-c4cf04248cab.jpg" />
   </programme>
   <programme start="20250327204949 +0000" stop="20250327211358 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 1: Jack Harlow Fulfills His Dreams Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/398fadc9-10c7-4d85-b5ad-f9428c44d9b2.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/42042459-1727-465a-a695-bf7f15a791f6.jpg" />
   </programme>
   <programme start="20250327211358 +0000" stop="20250327213716 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 2: Kamaru Usman Goes to the Mat Against Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/6de11884-5a34-4061-90b3-ba09af936e6d.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3ea316e7-46c3-494f-88ea-f8c7779f7874.jpg" />
   </programme>
   <programme start="20250327213716 +0000" stop="20250327215556 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 3: Quavo Is Stunned By Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/c0de6e50-72d3-4765-8976-e3ef44b64bd9.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/33f2d51a-9351-43cf-9896-7667e2be102f.jpg" />
   </programme>
   <programme start="20250327215556 +0000" stop="20250327221854 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 4: Elizabeth Olsen Feels Brave While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/684af9f7-3c41-4e54-a3ba-6b3de4c4cfbc.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/cc51dc01-7d6e-486e-a58e-a713739dfe7d.jpg" />
   </programme>
   <programme start="20250327221854 +0000" stop="20250327224122 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 5: Olivia Rodrigo Burns Her Lips While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/00d90ae5-58b8-4d93-ac0d-e188b4583f85.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/54ed228e-7f50-4fd9-915c-c2abb0374fe2.jpg" />
   </programme>
   <programme start="20250327224122 +0000" stop="20250327230336 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 6: Malcolm Gladwell Hits the Tipping Point While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5d9890c0-f543-4d5e-b09b-9c3825b88d64.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9b57759d-e51b-4d16-a939-aaa31dbbdc79.jpg" />
   </programme>
   <programme start="20250327230336 +0000" stop="20250327232807 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 7: Ed Sheeran Tries to Avoid Failure While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/8d7df5dd-fc32-437b-b573-ac3734db0bab.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d36e9cea-2138-4dd0-8e38-cde0fabf2892.jpg" />
   </programme>
   <programme start="20250327232807 +0000" stop="20250327235228 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 8: David Harbour Feels Out of Control While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/0e8d323b-7a17-4e7f-8d85-764e1e28a4c1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/76b17e07-4a0a-4b77-ac01-17853be75c75.jpg" />
   </programme>
   <programme start="20250327235228 +0000" stop="20250328001632 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 9: Michael Che Gs Up While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/25e28c21-9370-48a7-b670-9659a46b6907.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/fecb24d4-b32b-4056-9efd-b5e772b3dd5f.jpg" />
   </programme>
   <programme start="20250328001632 +0000" stop="20250328004028 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 10: Lorde Drops the Mic While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/47b58a4e-ee8a-4435-920f-a6d7c0f7011d.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/afb7474c-2b62-489e-8f40-0d28d64a716e.jpg" />
   </programme>
   <programme start="20250328004028 +0000" stop="20250328010713 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 11: Matt Damon Sweats From His Scalp While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/dfdef82c-795f-4518-b51e-92048b093138.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/dc1ff558-9364-444e-bd05-ce020984267a.jpg" />
   </programme>
   <programme start="20250328010713 +0000" stop="20250328013351 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 15 - Episode 12: Elijah Wood Tastes the Lava of Mount Doom While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d882d491-81d4-469a-8a5b-404a3e19ef9b.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/a166df04-c288-4b15-b333-a7e220e3f6da.jpg" />
   </programme>
   <programme start="20250328013351 +0000" stop="20250328015842 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 1: Jimmy Kimmel Feels Poisoned By Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d89b060e-e772-4872-9604-d1b38576cec1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/52e12a76-0651-4559-b2ed-acbb6b43b4dc.jpg" />
   </programme>
   <programme start="20250328015842 +0000" stop="20250328021821 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 2: Derrick Lewis Is Not Okay While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d4e6b9e2-85f9-46fb-80be-e6962ee63478.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3399a607-f2ea-4d17-8116-c48e52709d6a.jpg" />
   </programme>
   <programme start="20250328021821 +0000" stop="20250328024553 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 3: Jon Bernthal Gets Punished By Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/05810c12-b59f-43a7-bd73-9a4763ad4d54.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b1469e8f-596b-4f38-aabd-9db85bb24738.jpg" />
   </programme>
   <programme start="20250328024553 +0000" stop="20250328030853 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 4: Megan Thee Stallion Turns Into Hot Girl Meg While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/77b59983-2d92-446a-b713-3743a446cac1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/a1fde645-2cc0-457f-b1d2-95b8b40118fb.jpg" />
   </programme>
   <programme start="20250328030853 +0000" stop="20250328033146 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 5: CL Gets Extra Spicy While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/b2b0ca13-befc-45f1-92c6-d7231ae1122f.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/10627ff7-68c7-4100-b0fd-34033f35ccad.jpg" />
   </programme>
   <programme start="20250328033146 +0000" stop="20250328035456 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 6: Mila Kunis Hits the Ranch While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/b1a3b2a4-5f7a-49c0-a989-5c9f18b5e1d8.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b188436d-ebdc-46cd-aea5-29ac1eb4f981.jpg" />
   </programme>
   <programme start="20250328035456 +0000" stop="20250328041951 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 7: Salma Hayek Adopts Sean Evans While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/3e1e64e3-4746-40c1-8259-77c63b7cabe9.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8239663e-fb72-4c2e-b609-2363f38494e0.jpg" />
   </programme>
   <programme start="20250328041951 +0000" stop="20250328044242 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 8: Jeremy Renner Goes Blind in One Eye While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/a5758739-dee7-4dde-a2e7-244e2e530894.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/afc1648b-5276-4925-a011-a0e48d635034.jpg" />
   </programme>
   <programme start="20250328044242 +0000" stop="20250328050622 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 9: David Chang Sweats Like Crazy While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bb723f09-2456-4902-ab7a-06809d20f802.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/67f5f743-bb7d-4b72-bc56-408f66c5a2ef.jpg" />
   </programme>
   <programme start="20250328050622 +0000" stop="20250328053009 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 10: Rob Lowe Ruins Thanksgiving By Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/fc3df490-2179-48cd-a414-6420001eb0f2.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e4c8252a-5646-41dd-8e96-f6c765d7e8b9.jpg" />
   </programme>
   <programme start="20250328053009 +0000" stop="20250328055508 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 11: Simu Liu Chugs Boba While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bc4ac177-98ba-4932-839b-bdf804eada48.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/222d04aa-289e-453a-95bf-46e1f79f5c5d.jpg" />
   </programme>
   <programme start="20250328055508 +0000" stop="20250328062143 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 16 - Episode 12: Tom Holland Calls for a Doctor While Eating Spicy Wings</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/76314813-e1d8-417b-b5b1-a1741938c709.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/79d73e95-cd3e-4e43-851d-12fc70473893.jpg" />
   </programme>
-  <programme start="20250326045638 +0000" stop="20250326062255 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Madagascar (Dual Audio)</title>
+  <programme start="20250328062143 +0000" stop="20250328064038 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 1: Egg Fried Rice</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ab5c3a37-887b-49f2-bb6c-1aac99d960a1.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/21ddaa70-5709-4723-8048-54790197789b.jpg" />
   </programme>
-  <programme start="20250326062255 +0000" stop="20250326075005 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Curious George (Dual Audio)</title>
+  <programme start="20250328064038 +0000" stop="20250328070219 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 2: Crazy Rich Asian</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5f164501-740a-4a56-9c0d-b4fc14a19550.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d7df5bf2-2b80-4b91-be1b-e95efe71abd2.jpg" />
   </programme>
-  <programme start="20250326075005 +0000" stop="20250326091735 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Call of the Wild 3D</title>
+  <programme start="20250328070219 +0000" stop="20250328072142 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 3: British Chef vs. Egg Fried Rice</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bfcb7842-7ed9-43e3-9e5d-34b952d3d1fe.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8810f0dc-f44d-40c0-8c78-77cecf6c7d21.jpg" />
   </programme>
-  <programme start="20250326091735 +0000" stop="20250326104817 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Beethoven's 5th (Dual Audio)</title>
+  <programme start="20250328072142 +0000" stop="20250328074106 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 4: Crazy Stupid Love</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/3b0fd719-b418-4c4b-b608-59f71b90b824.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b8290179-1e85-42e3-b197-3ab5885849b8.jpg" />
   </programme>
-  <programme start="20250326104817 +0000" stop="20250326121935 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Woody Woodpecker (Dual Audio)</title>
+  <programme start="20250328074106 +0000" stop="20250328080155 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 5: Wild Wild West</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/62a3c1f7-1c56-4538-85d6-faf25615c340.jpg" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/6876ea41-8be9-4b7c-ad47-589611163629.jpg" />
+  </programme>
+  <programme start="20250328080155 +0000" stop="20250328082313 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 6: Wild Wild West: Part 2</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/a65c7c88-e202-464c-9228-82ab7cb06341.jpg" />
+  </programme>
+  <programme start="20250328082313 +0000" stop="20250328084618 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 7: Niece and Nephew</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8186ec80-157b-4e24-884a-bba0862b9d12.jpg" />
+  </programme>
+  <programme start="20250328084618 +0000" stop="20250328090544 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 8: Uncle Roger Online</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/65cbcc9f-38cd-4ada-a2b5-01b7c68ac617.jpg" />
+  </programme>
+  <programme start="20250328090544 +0000" stop="20250328092803 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 9: Down Under</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/fd45c265-3ce9-4767-a8a3-649859d2e01e.jpg" />
+  </programme>
+  <programme start="20250328092803 +0000" stop="20250328095248 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 10: Malaysia</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4ff99cff-c100-49d0-9a5b-daad1de26395.jpg" />
+  </programme>
+  <programme start="20250328095248 +0000" stop="20250328101658 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 11: Malaysia: Part 2</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7294d87f-0afe-484d-aefc-1a5a6c19054c.jpg" />
+  </programme>
+  <programme start="20250328101658 +0000" stop="20250328103555 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 12: O-Kay</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/270b5f0e-92b0-4190-9703-da3e2af92e7f.jpg" />
+  </programme>
+  <programme start="20250328103555 +0000" stop="20250328105841 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 13: Not a Chef</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8151e13d-b13a-4730-8c5d-e37befbba211.jpg" />
+  </programme>
+  <programme start="20250328105841 +0000" stop="20250328112039 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 14: Yeah Yah</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/24902be6-6e0e-4858-b6b3-17d527b0eb8f.jpg" />
+  </programme>
+  <programme start="20250328112039 +0000" stop="20250328114525 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 15: Ramen</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/06cecce9-9474-4e35-ada2-f4f3d01af947.jpg" />
+  </programme>
+  <programme start="20250328114525 +0000" stop="20250328120741 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 16: Everyone So Creative</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/0333e613-f754-4f62-bfc9-60751b098373.jpg" />
+  </programme>
+  <programme start="20250328120741 +0000" stop="20250328123205 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show - Season 1 - Episode 17: Everyone So Creative: Part 2</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ed29363d-4683-4473-99d2-0f47686568d7.jpg" />
   </programme>
   <programme start="20250326121935 +0000" stop="20250326135119 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Penguins of Madagascar (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5a7ecd75-520e-48ae-aeea-a596e0cbc79b.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/96f8ecfa-e1be-41e4-b005-ffba3e80fbc7.jpg" />
   </programme>
   <programme start="20250326135119 +0000" stop="20250326152509 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Casper: A Spirited Beginning (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/e7c77fea-3caf-4597-99fd-84f75dec535f.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/227bad2e-a4a8-4199-82c5-bb05920dc795.jpg" />
   </programme>
   <programme start="20250326152509 +0000" stop="20250326154810 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 1: Punishment and Torcher</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/28caeb15-2990-4b05-8374-70fc0eab292c.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ab64b344-61c1-437f-a01e-0c304c456ff0.jpg" />
   </programme>
   <programme start="20250326154810 +0000" stop="20250326161111 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 2:  Welcome to the Wonderful World of Dragons</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/558b05ef-4aa7-499a-a8c9-208d3fc38ee7.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9ab3abad-53ae-4fe9-8f32-5df7d1940992.jpg" />
   </programme>
   <programme start="20250326161111 +0000" stop="20250326163412 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 3: Barrel of Vine Tails</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ceef70a2-a2ed-4fcd-892d-0453b44f34a7.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9f4d901d-b4ec-4e7e-a257-e7d835810bc6.jpg" />
   </programme>
   <programme start="20250326163412 +0000" stop="20250326165713 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 4: Scent of a Dragon</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/67286798-62d4-406f-91d9-911d2f6f2b8d.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/07efbca7-06da-4970-9211-dbeadf88abab.jpg" />
   </programme>
   <programme start="20250326165713 +0000" stop="20250326172014 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 5: Sting It On!</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/9123f064-b0bd-46c2-b3b0-f857a999cdc6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/60df7b62-7649-4ef4-a2e8-8a94d93eb450.jpg" />
   </programme>
   <programme start="20250326172014 +0000" stop="20250326174315 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 6: The Deep Freezze</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/8553f484-298e-4f78-b142-8a81e9e6d347.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e6bdcad1-cedd-4d5a-a1cf-abb2a5e66dd4.jpg" />
   </programme>
   <programme start="20250326174315 +0000" stop="20250326180616 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 7: Dragons Everywhere!</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/f7097e6c-f127-48cc-b1ef-53b0feae9aea.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/11147f4f-5f52-42a0-8dc4-d1f673dd1a7b.jpg" />
   </programme>
   <programme start="20250326180616 +0000" stop="20250326182917 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 8: Break in Case of Emergency</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/783d9a13-69cc-4406-b44b-c97650465e38.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7f116e2e-876f-4c28-b0a1-f617150051ea.jpg" />
   </programme>
   <programme start="20250326182917 +0000" stop="20250326185218 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 9: Undercover</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/1602cd50-230e-4f75-beb9-4c2977b792c9.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/58622eac-fb5b-4ef1-89b3-2baa5288fd3b.jpg" />
   </programme>
   <programme start="20250326185218 +0000" stop="20250326191519 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 10: Webs' Masters</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bf417f5f-01c6-4cef-a726-cadc8c54969e.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/05c40aa4-e4d1-4624-a5fa-49dc7d08cdf3.jpg" />
   </programme>
   <programme start="20250326191519 +0000" stop="20250326193820 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 11: Sledkin Stakeout</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/91603bed-bb58-43bc-bbb5-9d663ad8a8ce.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/dcc4de86-f375-4059-844a-db0f7605ae1b.jpg" />
   </programme>
   <programme start="20250326193820 +0000" stop="20250326200121 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 12: Poison Control</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/69dea42e-69a0-4aaa-9bf3-eb05562961e1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/330eb4f7-a322-421e-97f6-8d149432956f.jpg" />
   </programme>
   <programme start="20250326200121 +0000" stop="20250326202422 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 13: In Too Deep</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/0f499b9b-91b9-46bb-a1a6-b6fd616c80f8.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3c15fa12-f701-49ce-8465-df44e8ad0c5d.jpg" />
   </programme>
   <programme start="20250326202422 +0000" stop="20250326204723 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 14: Hobs and Saw</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/f0b1ac51-a447-449c-b433-aae4af8a3b76.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3fedec12-9a23-45fc-9c64-aac04f2db734.jpg" />
   </programme>
   <programme start="20250326204723 +0000" stop="20250326211024 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 15: Hearts of Heroes</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5a209918-dddc-49c5-9107-c761f56f60d0.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/541adda6-638a-4bf9-9e26-c3fd2d93a94d.jpg" />
   </programme>
   <programme start="20250326211024 +0000" stop="20250326213325 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 16: Heart of Glass</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/2aef39c3-2739-4d41-beac-7e346217f47f.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/91abd07d-b425-440a-8022-3a0dd2e576be.jpg" />
   </programme>
   <programme start="20250326213325 +0000" stop="20250326215626 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 17:  In the Cards</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/d66a5438-0c25-41ba-97d8-a81bd70c85aa.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4bf1d417-ff98-49fb-aa9a-c7d29fffaaae.jpg" />
   </programme>
   <programme start="20250326215626 +0000" stop="20250326221927 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 18: Eugene's Lean Mean Extreme Dream Team</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/1a448c58-f6e5-497c-8b1c-a07841a3d388.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e2845337-5e98-472e-af90-d1e9c453ccce.jpg" />
   </programme>
   <programme start="20250326221927 +0000" stop="20250326224228 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 19: 404 Alex Not Found</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/df7660df-e4d0-4097-bd79-bfca0bacce60.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/0f19935f-42b8-4e91-ada8-6b2cce50c500.jpg" />
   </programme>
   <programme start="20250326224228 +0000" stop="20250326230529 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 20: Rise of Jörmungandr</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/639ceac5-33de-4760-bc4d-d76e699e4ca8.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b0c0429b-4144-4f6a-a372-6ec192560265.jpg" />
   </programme>
   <programme start="20250326230529 +0000" stop="20250326232830 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 21:  How to Train Jörmungandr</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/cd4298c3-e2c9-4ce5-8be0-54076d6d2b38.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/59a7be9a-5e0b-4d0f-b73a-83bb00fdf5ef.jpg" />
   </programme>
   <programme start="20250326232830 +0000" stop="20250326235131 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 22: The Great Foster Fake-out</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/c37895e6-f0e0-4ccb-af0f-45046ac50ad1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3ff7be91-5c3c-4d3d-83c5-26a803930c83.jpg" />
   </programme>
   <programme start="20250326235131 +0000" stop="20250327001432 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 23: Science vs Nature</title>
     <desc>No description available</desc>
     <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/81ab5c63-3904-4ff7-8907-d0330a9ae1fd.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ae3f5fa2-9a46-449d-9ae1-deb54074609d.jpg" />
   </programme>
   <programme start="20250327001432 +0000" stop="20250327003733 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 24: Of Gods and Monsters</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ae4f45d9-0c3f-4a9f-bde3-39d75a93ba97.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8bc437a4-8aa4-446f-8eb0-2643a6929e62.jpg" />
   </programme>
   <programme start="20250327003733 +0000" stop="20250327010034 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 25: Ragnarok: Part 1</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/4d9fe626-0389-4f80-92ad-6715e7b4d218.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/53bb008d-a5db-42bf-959c-d71c5538b367.jpg" />
   </programme>
   <programme start="20250327010034 +0000" stop="20250327012335 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 26: Ragnarok: Part 2</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/595672b2-f269-4824-98c5-b204350e4532.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ec21ab92-de9b-4d74-b3d8-1a10b74982e0.jpg" />
   </programme>
   <programme start="20250327012335 +0000" stop="20250327023455 +0000" channel="blastPH.Family.Movies">
     <title lang="en">The Adventures Of Brer Rabbit (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/a78170e4-4aab-46d5-a9f7-2834d996888e.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d89317f3-a1d2-4e7d-b653-81951b9288bf.jpg" />
   </programme>
   <programme start="20250327023455 +0000" stop="20250327040821 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Beethoven's 4th  (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/2648234d-e919-4c29-b1ca-e1f9c210f73f.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/5885e088-2d8b-4a1f-bbbc-13c6f6ceb8e2.jpg" />
   </programme>
   <programme start="20250327040821 +0000" stop="20250327054604 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragonheart: Battle for the Heartfire (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ab174c48-467e-4168-95c2-12eb33911fe3.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/aee5a059-01bd-49d1-a5ca-16d8d12bfa94.jpg" />
   </programme>
   <programme start="20250327054604 +0000" stop="20250327072216 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dakota</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/13ca28db-7c5f-4ace-a4a1-74e5197d90ed.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b50bcd99-9966-47db-94ea-7ca7dba554d0.jpg" />
   </programme>
   <programme start="20250327072216 +0000" stop="20250327084500 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Sherlock Gnomes</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/555d0d14-26c4-466c-af04-710667936a0a.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/326bef42-d71f-4f33-afff-0d0293e1fdeb.jpg" />
   </programme>
   <programme start="20250327084500 +0000" stop="20250327100312 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Casper's Scare School (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/76c9f56c-db9d-4571-b2b2-30c8c63c60ca.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/acc641dd-8cbf-4ff0-b355-feba6efd5e07.jpg" />
   </programme>
   <programme start="20250327100312 +0000" stop="20250327112313 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Curious George 3: Back to the Jungle (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/0840b5e6-e741-433b-8caf-24bbd50e6246.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b1f6ea94-a454-4067-bb7e-c14c09ac523e.jpg" />
   </programme>
   <programme start="20250327112313 +0000" stop="20250327124340 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Curious George 2: Follow That Monkey! (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/0a2af173-7d05-4d90-acad-b8a47fc83e5e.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4689601d-8b88-4fc9-ae41-30e53303af1f.jpg" />
   </programme>
   <programme start="20250327124340 +0000" stop="20250327141325 +0000" channel="blastPH.Family.Movies">
     <title lang="en">The Road to El Dorado (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/60c258dd-13c2-40b0-8024-cee6be531a60.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/5a7fe2ce-e955-401e-a9b4-d61cbfe57385.jpg" />
   </programme>
   <programme start="20250327141325 +0000" stop="20250327153942 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Madagascar (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ab5c3a37-887b-49f2-bb6c-1aac99d960a1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/dbcbf554-c8bc-4339-96a4-301907323d03.jpg" />
   </programme>
   <programme start="20250327153942 +0000" stop="20250327170652 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Curious George (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5f164501-740a-4a56-9c0d-b4fc14a19550.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/6fb5ff41-d8f8-4657-8c3b-90574456c5b7.jpg" />
   </programme>
   <programme start="20250327170652 +0000" stop="20250327183422 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Call of the Wild 3D</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bfcb7842-7ed9-43e3-9e5d-34b952d3d1fe.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7339519d-88cd-4676-b953-478878c231a1.jpg" />
   </programme>
   <programme start="20250327183422 +0000" stop="20250327200504 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Beethoven's 5th (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/3b0fd719-b418-4c4b-b608-59f71b90b824.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/f0f7afdb-75c3-47f8-a464-69ec8b644419.jpg" />
   </programme>
   <programme start="20250327200504 +0000" stop="20250327213622 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Woody Woodpecker (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/62a3c1f7-1c56-4538-85d6-faf25615c340.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/880b92e9-fbd3-455c-ac75-2f159176c03d.jpg" />
   </programme>
   <programme start="20250327213622 +0000" stop="20250327230806 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Penguins of Madagascar (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5a7ecd75-520e-48ae-aeea-a596e0cbc79b.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/96f8ecfa-e1be-41e4-b005-ffba3e80fbc7.jpg" />
   </programme>
   <programme start="20250327230806 +0000" stop="20250328004156 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Casper: A Spirited Beginning (Dual Audio)</title>
     <desc>No description available</desc>
     <date>2025-03-27</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/e7c77fea-3caf-4597-99fd-84f75dec535f.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/227bad2e-a4a8-4199-82c5-bb05920dc795.jpg" />
   </programme>
   <programme start="20250328004156 +0000" stop="20250328010457 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 1: Punishment and Torcher</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/28caeb15-2990-4b05-8374-70fc0eab292c.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ab64b344-61c1-437f-a01e-0c304c456ff0.jpg" />
   </programme>
   <programme start="20250328010457 +0000" stop="20250328012758 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 2:  Welcome to the Wonderful World of Dragons</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/558b05ef-4aa7-499a-a8c9-208d3fc38ee7.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9ab3abad-53ae-4fe9-8f32-5df7d1940992.jpg" />
   </programme>
   <programme start="20250328012758 +0000" stop="20250328015059 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 3: Barrel of Vine Tails</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/ceef70a2-a2ed-4fcd-892d-0453b44f34a7.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/9f4d901d-b4ec-4e7e-a257-e7d835810bc6.jpg" />
   </programme>
   <programme start="20250328015059 +0000" stop="20250328021400 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 4: Scent of a Dragon</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/67286798-62d4-406f-91d9-911d2f6f2b8d.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/07efbca7-06da-4970-9211-dbeadf88abab.jpg" />
   </programme>
   <programme start="20250328021400 +0000" stop="20250328023701 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 5: Sting It On!</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/9123f064-b0bd-46c2-b3b0-f857a999cdc6.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/60df7b62-7649-4ef4-a2e8-8a94d93eb450.jpg" />
   </programme>
   <programme start="20250328023701 +0000" stop="20250328030002 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 6: The Deep Freezze</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/8553f484-298e-4f78-b142-8a81e9e6d347.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e6bdcad1-cedd-4d5a-a1cf-abb2a5e66dd4.jpg" />
   </programme>
   <programme start="20250328030002 +0000" stop="20250328032303 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 7: Dragons Everywhere!</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/f7097e6c-f127-48cc-b1ef-53b0feae9aea.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/11147f4f-5f52-42a0-8dc4-d1f673dd1a7b.jpg" />
   </programme>
   <programme start="20250328032303 +0000" stop="20250328034604 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 8: Break in Case of Emergency</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/783d9a13-69cc-4406-b44b-c97650465e38.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/7f116e2e-876f-4c28-b0a1-f617150051ea.jpg" />
   </programme>
   <programme start="20250328034604 +0000" stop="20250328040905 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 9: Undercover</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/1602cd50-230e-4f75-beb9-4c2977b792c9.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/58622eac-fb5b-4ef1-89b3-2baa5288fd3b.jpg" />
   </programme>
   <programme start="20250328040905 +0000" stop="20250328043206 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 10: Webs' Masters</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/bf417f5f-01c6-4cef-a726-cadc8c54969e.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/05c40aa4-e4d1-4624-a5fa-49dc7d08cdf3.jpg" />
   </programme>
   <programme start="20250328043206 +0000" stop="20250328045507 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 11: Sledkin Stakeout</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/91603bed-bb58-43bc-bbb5-9d663ad8a8ce.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/dcc4de86-f375-4059-844a-db0f7605ae1b.jpg" />
   </programme>
   <programme start="20250328045507 +0000" stop="20250328051808 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 12: Poison Control</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/69dea42e-69a0-4aaa-9bf3-eb05562961e1.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/330eb4f7-a322-421e-97f6-8d149432956f.jpg" />
   </programme>
   <programme start="20250328051808 +0000" stop="20250328054109 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 13: In Too Deep</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/0f499b9b-91b9-46bb-a1a6-b6fd616c80f8.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3c15fa12-f701-49ce-8465-df44e8ad0c5d.jpg" />
   </programme>
   <programme start="20250328054109 +0000" stop="20250328060410 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 14: Hobs and Saw</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/f0b1ac51-a447-449c-b433-aae4af8a3b76.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3fedec12-9a23-45fc-9c64-aac04f2db734.jpg" />
   </programme>
   <programme start="20250328060410 +0000" stop="20250328062711 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Dragons: The Nine Realms - Episode 15: Hearts of Heroes</title>
     <desc>No description available</desc>
     <date>2025-03-28</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/5a209918-dddc-49c5-9107-c761f56f60d0.jpg" />
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/541adda6-638a-4bf9-9e26-c3fd2d93a94d.jpg" />
   </programme>
-  <programme start="20250326060000 +0000" stop="20250326063000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">The Excerpt</title>
+  <programme start="20250328062711 +0000" stop="20250328065012 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 16: Heart of Glass</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/91abd07d-b425-440a-8022-3a0dd2e576be.jpg" />
   </programme>
-  <programme start="20250326063000 +0000" stop="20250326064500 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY's 2025 Restaurants of the Year</title>
+  <programme start="20250328065012 +0000" stop="20250328071313 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 17:  In the Cards</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/4bf1d417-ff98-49fb-aa9a-c7d29fffaaae.jpg" />
   </programme>
-  <programme start="20250326064500 +0000" stop="20250326070000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Problem Solved</title>
+  <programme start="20250328071313 +0000" stop="20250328073614 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 18: Eugene's Lean Mean Extreme Dream Team</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/e2845337-5e98-472e-af90-d1e9c453ccce.jpg" />
   </programme>
-  <programme start="20250326070000 +0000" stop="20250326080000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">The Suki &amp; Scott Show</title>
+  <programme start="20250328073614 +0000" stop="20250328075915 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 19: 404 Alex Not Found</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/0f19935f-42b8-4e91-ada8-6b2cce50c500.jpg" />
   </programme>
-  <programme start="20250326080000 +0000" stop="20250326090000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">News on USA TODAY</title>
+  <programme start="20250328075915 +0000" stop="20250328082216 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 20: Rise of Jörmungandr</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/b0c0429b-4144-4f6a-a372-6ec192560265.jpg" />
   </programme>
-  <programme start="20250326090000 +0000" stop="20250326093000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY Trending News</title>
+  <programme start="20250328082216 +0000" stop="20250328084517 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 21:  How to Train Jörmungandr</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/59a7be9a-5e0b-4d0f-b73a-83bb00fdf5ef.jpg" />
   </programme>
-  <programme start="20250326093000 +0000" stop="20250326100000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">The Excerpt</title>
+  <programme start="20250328084517 +0000" stop="20250328090818 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 22: The Great Foster Fake-out</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/3ff7be91-5c3c-4d3d-83c5-26a803930c83.jpg" />
   </programme>
-  <programme start="20250326100000 +0000" stop="20250326104500 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Rundown with Ramon</title>
+  <programme start="20250328090818 +0000" stop="20250328093119 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 23: Science vs Nature</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ae3f5fa2-9a46-449d-9ae1-deb54074609d.jpg" />
   </programme>
-  <programme start="20250326104500 +0000" stop="20250326110000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Top Headlines</title>
+  <programme start="20250328093119 +0000" stop="20250328095420 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 24: Of Gods and Monsters</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/8bc437a4-8aa4-446f-8eb0-2643a6929e62.jpg" />
   </programme>
-  <programme start="20250326110000 +0000" stop="20250326113000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY's 2025 Restaurants of the Year</title>
+  <programme start="20250328095420 +0000" stop="20250328101721 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 25: Ragnarok: Part 1</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/53bb008d-a5db-42bf-959c-d71c5538b367.jpg" />
   </programme>
-  <programme start="20250326113000 +0000" stop="20250326120000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Sportskind</title>
+  <programme start="20250328101721 +0000" stop="20250328104022 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Dragons: The Nine Realms - Episode 26: Ragnarok: Part 2</title>
     <desc>No description available</desc>
-    <date>2025-03-26</date>
-    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/25/71bf8be1-4783-4c78-8462-9e1657f2f4a9.png" />
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/ec21ab92-de9b-4d74-b3d8-1a10b74982e0.jpg" />
+  </programme>
+  <programme start="20250328104022 +0000" stop="20250328115142 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">The Adventures Of Brer Rabbit (Dual Audio)</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/d89317f3-a1d2-4e7d-b653-81951b9288bf.jpg" />
+  </programme>
+  <programme start="20250328115142 +0000" stop="20250328132508 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Beethoven's 4th  (Dual Audio)</title>
+    <desc>No description available</desc>
+    <date>2025-03-28</date>
+    <icon src="https://img.dge-prod.dicelaboratory.com/original/epg/2025/3/26/5885e088-2d8b-4a1f-bbbc-13c6f6ceb8e2.jpg" />
   </programme>
   <programme start="20250326120000 +0000" stop="20250326123000 +0000" channel="blastPH.USA.Today">
     <title lang="en">USA TODAY</title>
