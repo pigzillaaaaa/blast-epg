@@ -26,7 +26,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install httpx requests
+        run: pip install curl_cffi
 
       - name: Download external Python script
         run: |
