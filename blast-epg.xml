@@ -52,16 +52,6 @@
     <display-name lang="en">Outdoor Channel</display-name>
     <icon src="https://img.dge-prod.dicelaboratory.com/original/2023/11/02100433-hvckmulpp21gebmu.png" />
   </channel>
-  <programme start="20250602100000 +0000" stop="20250602130000 +0000" channel="blastPH.CNBC">
-    <title lang="en">US Squawk Box</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602130000 +0000" stop="20250602150000 +0000" channel="blastPH.CNBC">
-    <title lang="en">US Squawk on the Street</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
   <programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="blastPH.CNBC">
     <title lang="en">Money Movers</title>
     <desc>No description available</desc>
@@ -151,26 +141,6 @@
     <title lang="en">Money Movers</title>
     <desc>No description available</desc>
     <date>2025-06-03</date>
-  </programme>
-  <programme start="20250602084000 +0000" stop="20250602102000 +0000" channel="blastPH.tvN">
-    <title lang="en">World Dice Tour 3</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602102000 +0000" stop="20250602110000 +0000" channel="blastPH.tvN">
-    <title lang="en">Hashtag Travelog in Taoyuan</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602110000 +0000" stop="20250602121500 +0000" channel="blastPH.tvN">
-    <title lang="en">BRO&amp;MARBLE in Dubai</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602121500 +0000" stop="20250602144000 +0000" channel="blastPH.tvN">
-    <title lang="en">A Bloody Lucky Day</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
   </programme>
   <programme start="20250602144000 +0000" stop="20250602163000 +0000" channel="blastPH.tvN">
     <title lang="en">Europe Outside Your Tent: Norway</title>
@@ -312,10 +282,20 @@
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
-  <programme start="20250602100000 +0000" stop="20250602123000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">WWE RAW </title>
+  <programme start="20250604102000 +0000" stop="20250604120000 +0000" channel="blastPH.tvN">
+    <title lang="en">The Genius Paik</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604120000 +0000" stop="20250604143000 +0000" channel="blastPH.tvN">
+    <title lang="en">Second Shot at Love</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604143000 +0000" stop="20250604162000 +0000" channel="blastPH.tvN">
+    <title lang="en">Fresh off the Sea 2</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
   </programme>
   <programme start="20250602123000 +0000" stop="20250602160000 +0000" channel="blastPH.Blast.Sports">
     <title lang="en">BKFC</title>
@@ -407,10 +387,15 @@
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
-  <programme start="20250602073000 +0000" stop="20250602150000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Day 1</title>
+  <programme start="20250604103000 +0000" stop="20250604123000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">2025 Season</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604123000 +0000" stop="20250604160000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">Cage Warriors</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
   </programme>
   <programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="blastPH.Premier.Sports">
     <title lang="en">Ep. 6</title>
@@ -484,6 +469,16 @@
   </programme>
   <programme start="20250604073000 +0000" stop="20250604140000 +0000" channel="blastPH.Premier.Sports">
     <title lang="en">Day 2</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604140000 +0000" stop="20250604150000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Ep. 2</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604150000 +0000" stop="20250604153000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">801</title>
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
@@ -562,20 +557,10 @@
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
-  <programme start="20250602090000 +0000" stop="20250602110000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Western United vs. Adelaide United Elimination Final</title>
+  <programme start="20250604133000 +0000" stop="20250604160000 +0000" channel="blastPH.Premier.Sports.2">
+    <title lang="en">Final</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602110000 +0000" stop="20250602120000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Furia FC vs. Muchachos FC - Round of 16</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602120000 +0000" stop="20250602140000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Napoli vs. Cagliari MD38</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
   <programme start="20250602140000 +0000" stop="20250602160000 +0000" channel="blastPH.Premier.Football">
     <title lang="en">Western United vs. Adelaide United Elimination Final </title>
@@ -697,15 +682,20 @@
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
-  <programme start="20250602100000 +0000" stop="20250602120000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">WNBA 2025</title>
+  <programme start="20250604110000 +0000" stop="20250604120000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Porcinos FC vs. Stallions - Round of 16</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602120000 +0000" stop="20250602143000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">WWE SMACKDOWN </title>
+  <programme start="20250604120000 +0000" stop="20250604140000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Milan vs. Monza MD38</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604140000 +0000" stop="20250604160000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Western United vs. Melbourne City FC Semifinal Leg 1</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
   </programme>
   <programme start="20250602143000 +0000" stop="20250602153000 +0000" channel="blastPH.Tap.Sports">
     <title lang="en">Heroes of Lucha Libre </title>
@@ -837,35 +827,20 @@
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
-  <programme start="20250602100000 +0000" stop="20250602103000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Sheriffs: El Dorado County S1</title>
+  <programme start="20250604120000 +0000" stop="20250604143000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">WWE NXT </title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602103000 +0000" stop="20250602113000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Unsolved Mysteries S1</title>
+  <programme start="20250604143000 +0000" stop="20250604150000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">On Point</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602113000 +0000" stop="20250602120000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Frenemies S2</title>
+  <programme start="20250604150000 +0000" stop="20250604153000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Motorclub </title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602120000 +0000" stop="20250602130000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Chicago Fire S6</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602130000 +0000" stop="20250602140000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">FBI Most Wanted S1</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602140000 +0000" stop="20250602150000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Magnum P.I. S3</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
   <programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="blastPH.Tap.EDGE">
     <title lang="en">Dateline</title>
@@ -997,21 +972,6 @@
     <desc>No description available</desc>
     <date>2025-06-03</date>
   </programme>
-  <programme start="20250602091500 +0000" stop="20250602110000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Chupacabra</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602110000 +0000" stop="20250602131500 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">The Invisible Man (2020)</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602131500 +0000" stop="20250602150000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Patient Zero (2018)</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
   <programme start="20250602150000 +0000" stop="20250602165500 +0000" channel="blastPH.Tap.Action.Flix">
     <title lang="en">Rocky Balboa</title>
     <desc>No description available</desc>
@@ -1122,20 +1082,20 @@
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
-  <programme start="20250602084500 +0000" stop="20250602105000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Save The Cinema</title>
+  <programme start="20250604111500 +0000" stop="20250604130000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Brightburn</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602105000 +0000" stop="20250602130000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Marshall</title>
+  <programme start="20250604130000 +0000" stop="20250604145000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Foolproof</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602130000 +0000" stop="20250602140500 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Fake S1 Ep. 7</title>
+  <programme start="20250604145000 +0000" stop="20250604165000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Hard Target 2</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
   <programme start="20250602140500 +0000" stop="20250602164000 +0000" channel="blastPH.Tap.Movies">
     <title lang="en">All Eyez On Me</title>
@@ -1252,40 +1212,20 @@
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
-  <programme start="20250602100652 +0000" stop="20250602105000 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 7: Down the Mississippi</title>
+  <programme start="20250604104500 +0000" stop="20250604130000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Marshall</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602105000 +0000" stop="20250602113238 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 8: The Collector</title>
+  <programme start="20250604130000 +0000" stop="20250604150500 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Pups Alone</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602113238 +0000" stop="20250602121516 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 9: RoZwell</title>
+  <programme start="20250604150500 +0000" stop="20250604164500 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Sleight</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602121516 +0000" stop="20250602125824 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 10: We Were Nowhere Near the Grand Canyon</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602125824 +0000" stop="20250602134002 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 11: Corporate Retreat</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602134002 +0000" stop="20250602142310 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 12: Party with the Zeros</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme start="20250602142310 +0000" stop="20250602150618 +0000" channel="blastPH.FEAR">
-    <title lang="en">Z Nation - Season 2 - Episode 13: Adios, Muchachos</title>
-    <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
   <programme start="20250602150618 +0000" stop="20250602154856 +0000" channel="blastPH.FEAR">
     <title lang="en">Z Nation - Season 2 - Episode 14: Day One</title>
@@ -1482,30 +1422,40 @@
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
-  <programme start="20250602100000 +0000" stop="20250602110000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Book 27</title>
+  <programme start="20250604103722 +0000" stop="20250604112030 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 7: Down the Mississippi</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602110000 +0000" stop="20250602120000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Goodnight, Sweet Grimm</title>
+  <programme start="20250604112030 +0000" stop="20250604120308 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 8: The Collector</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602120000 +0000" stop="20250602130000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Check-Out</title>
+  <programme start="20250604120308 +0000" stop="20250604124546 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 9: RoZwell</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602130000 +0000" stop="20250602140000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Deep Trouble</title>
+  <programme start="20250604124546 +0000" stop="20250604132854 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 10: We Were Nowhere Near the Grand Canyon</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602140000 +0000" stop="20250602150000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Treachery</title>
+  <programme start="20250604132854 +0000" stop="20250604141032 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 11: Corporate Retreat</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604141032 +0000" stop="20250604145340 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 12: Party with the Zeros</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604145340 +0000" stop="20250604153648 +0000" channel="blastPH.FEAR">
+    <title lang="en">Z Nation - Season 2 - Episode 13: Adios, Muchachos</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
   </programme>
   <programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="blastPH.Comic.U">
     <title lang="en">A Disquiet Follows My Soul</title>
@@ -1727,30 +1677,30 @@
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
-  <programme start="20250602100000 +0000" stop="20250602110000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Duck Camp Dinners</title>
+  <programme start="20250604110000 +0000" stop="20250604120000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Episode 6</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602110000 +0000" stop="20250602120000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Gold Fever </title>
+  <programme start="20250604120000 +0000" stop="20250604130000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Will You Play with Me?</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602120000 +0000" stop="20250602130000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Duck Camp Dinners</title>
+  <programme start="20250604130000 +0000" stop="20250604140000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Pilot</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602130000 +0000" stop="20250602140000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Great Aussie Road Trips</title>
+  <programme start="20250604140000 +0000" stop="20250604150000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Check-Out</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
-  <programme start="20250602140000 +0000" stop="20250602150000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Bushwhacked!</title>
+  <programme start="20250604150000 +0000" stop="20250604160000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Deep Trouble</title>
     <desc>No description available</desc>
-    <date>2025-06-02</date>
+    <date>2025-06-04</date>
   </programme>
   <programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="blastPH.Outdoor.Channel">
     <title lang="en">Dead Meat</title>
@@ -1969,6 +1919,26 @@
   </programme>
   <programme start="20250604100000 +0000" stop="20250604110000 +0000" channel="blastPH.Outdoor.Channel">
     <title lang="en">Jet Truck</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604110000 +0000" stop="20250604130000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Mega Makeover</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604130000 +0000" stop="20250604140000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Tasting Tasmania</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604140000 +0000" stop="20250604150000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Croc College</title>
+    <desc>No description available</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme start="20250604150000 +0000" stop="20250604160000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Jade Fever</title>
     <desc>No description available</desc>
     <date>2025-06-04</date>
   </programme>
